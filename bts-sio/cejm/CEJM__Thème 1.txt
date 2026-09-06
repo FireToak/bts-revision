@@ -1,0 +1,91 @@
+#separator:tab
+#html:true
+"Qu&#x27;est-ce que la finalité d&#x27;une entreprise ? "	" C&#x27;est sa raison d&#x27;être et le(s) but(s) permanent(s) qu&#x27;elle poursuit sur le long terme."
+Quels sont les trois types de finalités poursuivies par une entreprise ? 	 La finalité économique, la finalité sociale et la finalité sociétale.
+"En quoi consiste la finalité économique d&#x27;une entreprise ? "	" Elle consiste à créer de la valeur et générer des profits pour assurer la pérennité de l&#x27;entreprise."
+"Quel est l&#x27;objectif de la finalité sociale d&#x27;une entreprise ? "	" Satisfaire les salariés en leur offrant de bonnes conditions de travail, d&#x27;évolution et de formation via une politique RH."
+"Qu&#x27;est-ce que la finalité sociétale d&#x27;une entreprise ? "	" C&#x27;est son intégration dans la société en tenant compte des principes du développement durable et des attentes de la société civile."
+"Selon Peter Drucker, quelle est la différence entre la finalité et l&#x27;objectif principal d&#x27;une entreprise ? "	" La finalité première est sociale (assumer des responsabilités), tandis que l&#x27;objectif principal est la satisfaction du client."
+Que signifie le sigle RSE ? 	" Responsabilité Sociale (ou Sociétale) de l&#x27;Entreprise."
+Comment Ed. Freeman définit-il le concept de « partie prenante » ? 	" Tout individu ou groupe d&#x27;individus pouvant affecter ou être affecté par la réalisation des objectifs de l&#x27;organisation."
+"Qu&#x27;est-ce qu&#x27;une partie prenante primaire ? "	" Un acteur ayant un lien contractuel direct avec l&#x27;entreprise et dont la satisfaction est impérative pour sa survie."
+Donne trois exemples de parties prenantes primaires internes. 	 Les salariés, les dirigeants et les propriétaires/associés.
+Donne trois exemples de parties prenantes primaires externes. 	 Les clients, les fournisseurs et les distributeurs.
+"Qu&#x27;est-ce qu&#x27;une partie prenante secondaire ? "	" Un acteur qui influence ou est influencé par l&#x27;entreprise sans lien contractuel direct, et qui ne menace pas directement sa survie."
+Donne des exemples de parties prenantes secondaires. 	 Les médias, réseaux sociaux, ONG, concurrents, collectivités territoriales et pouvoirs publics.
+"Comment définit-on la performance d&#x27;une entreprise ? "	" C&#x27;est l&#x27;atteinte de ses objectifs fixés."
+"Quelles sont les quatre dimensions de la performance globale d&#x27;une entreprise ? "	 La performance financière, commerciale, sociale et sociétale (ou environnementale).
+Quels indicateurs permettent de mesurer la performance financière ? 	" Le résultat net, la rentabilité et le taux d&#x27;endettement."
+Quels indicateurs permettent de mesurer la performance commerciale ? 	" La part de marché et le chiffre d&#x27;affaires."
+Quel indicateur permet de mesurer la performance sociale ? 	 Le bilan social.
+Quel indicateur permet de mesurer la performance sociétale environnementale ? 	" L&#x27;empreinte écologique."
+"Dans l&#x27;évaluation de la performance, que signifie la « pertinence » ? "	" C&#x27;est le fait que les moyens mis en œuvre soient parfaitement adaptés à l&#x27;objectif fixé."
+"Quelle est la différence entre l&#x27;efficacité et l&#x27;efficience ? "	" L&#x27;efficacité est la simple atteinte des objectifs, tandis que l&#x27;efficience est l&#x27;atteinte des objectifs avec un minimum de moyens."
+"Qu&#x27;est-ce que la logique entrepreneuriale ? "	 Une démarche orientée sur le long terme consistant à créer ou reprendre une activité en innovant, en saisissant des opportunités et en prenant des risques.
+"Quelles sont les principales caractéristiques (traits de personnalité) d&#x27;un entrepreneur ? "	" L&#x27;implication personnelle, le leadership, la ténacité, la volonté d&#x27;entreprendre et la prise de risques."
+"Comment Joseph Aloïs Schumpeter définit-il le rôle de l&#x27;entrepreneur ? "	 Il le voit comme un innovateur capable de rompre avec les habitudes pour lancer un produit ou ouvrir un marché, animé par la création plus que par le seul profit.
+"Qu&#x27;est-ce que la logique managériale ? "	" Une démarche à court et moyen terme consistant à organiser et gérer de manière optimale les ressources de l&#x27;entreprise pour atteindre les objectifs fixés."
+"Quelles sont les grandes missions d&#x27;un manager ? "	 Fixer des objectifs/stratégies, organiser le travail, gérer les ressources humaines et contrôler les résultats pour corriger le tir si besoin.
+"Comment s&#x27;articulent la logique entrepreneuriale et la logique managériale ? "	" Elles sont complémentaires : l&#x27;entrepreneuriale lance et développe l&#x27;activité sur le long terme, tandis que la managériale assure son fonctionnement optimal et sa pérennité au quotidien."
+"Quelle est la toute première étape de la création d&#x27;une entreprise ? "	" La recherche d&#x27;une opportunité à exploiter à partir d&#x27;une idée innovante."
+"À quoi sert l&#x27;étape d&#x27;étude de faisabilité dans la création d&#x27;entreprise ? "	 À réaliser une étude de marché pour vérifier la faisabilité du projet et déterminer le plan de marchéage et la stratégie.
+"Qu&#x27;est-ce qu&#x27;un Business Plan (ou plan d&#x27;affaires) ? "	 Un document écrit formalisant le projet de création (présentation, étude de marché, moyens mis en œuvre et prévisionnel financier).
+Quel est le principal objectif du Business Plan ? 	 Convaincre les partenaires et les financeurs de la viabilité et de la rentabilité du projet.
+Quelles sont les sources de financements possibles pour lancer une activité ? 	 Les fonds propres, la famille/les amis, les banques, le crowdfunding et les aides publiques (État, Régions).
+"Sur quels critères principaux se fait le choix du statut juridique de l&#x27;entreprise ? "	" Le montant du capital social, la fiscalité, le nombre d&#x27;associés et le besoin de protection du patrimoine personnel."
+"Quelle est l&#x27;ultime étape administrative pour lancer officiellement une entreprise ? "	" L&#x27;immatriculation de l&#x27;entreprise auprès du Centre de Formalités des Entreprises (CFE)"
+"Qu&#x27;est-ce que la situation (ou période) précontractuelle ? "	" C&#x27;est la période de pourparlers ou de négociations précédant un éventuel contrat, durant laquelle les parties déterminent si un accord est envisageable et quel en serait le contenu."
+Quels sont les trois principes juridiques fondamentaux qui encadrent la période précontractuelle (art. 1112 du Code civil) ? 	 La liberté, la bonne foi et la loyauté.
+"En quoi consiste l&#x27;obligation générale d&#x27;information précontractuelle (art. 1112-1 du Code civil) ? "	" La partie qui détient une information déterminante pour le consentement de l&#x27;autre doit l&#x27;en informer, si cette dernière l&#x27;ignore légitimement ou fait confiance à son cocontractant."
+"Qu&#x27;est-ce qu&#x27;un contrat de négociation ? "	" Un document qui officialise l&#x27;intention des parties d&#x27;entrer en négociation pour définir les conditions d&#x27;un futur contrat."
+"Qu&#x27;est-ce qu&#x27;un accord de préférence lors de pourparlers ? "	" L&#x27;engagement de l&#x27;une des parties à négocier et conclure le contrat envisagé avec son partenaire de manière préférentielle par rapport à d&#x27;autres contacts."
+"Qu&#x27;est-ce qu&#x27;un contrat-cadre ? "	" Un contrat qui fixe les conditions générales dans lesquelles les futurs contrats d&#x27;application devront être envisagés et exécutés."
+"Qu&#x27;est-ce qu&#x27;une promesse de contrat ? "	" La retranscription de l&#x27;engagement d&#x27;une des parties à signer le contrat envisagé à des conditions déterminées."
+Peut-on rompre librement des pourparlers ? 	" Oui (liberté précontractuelle), mais la rupture ne doit pas être brutale, ni abusive, et doit être justifiée par des raisons sérieuses sous peine d&#x27;engager la responsabilité extracontractuelle de son auteur (art. 1240 du Code civil)."
+"Comment l&#x27;article 1101 du Code civil définit-il un contrat ? "	" C&#x27;est un accord de volontés entre deux ou plusieurs personnes destiné à créer, modifier, transmettre ou éteindre des obligations."
+"À quel moment précis considère-t-on qu&#x27;un contrat est légalement formé (art. 1113 du Code civil) ? "	 Lors de la rencontre entre une offre et une acceptation.
+"Qu&#x27;est-ce qu&#x27;une &quot;offre&quot; dans le cadre de la formation d&#x27;un contrat ? "	" Une proposition comprenant les éléments essentiels du contrat et exprimant la volonté de son auteur d&#x27;être lié en cas d&#x27;acceptation."
+Quelle est la différence entre un contrat consensuel, solennel et réel ? 	 Le consensuel se forme par le seul échange des consentements, le solennel nécessite un écrit (ex: acte notarié), et le réel nécessite la remise de la chose objet du contrat.
+Quels sont les trois aspects de la liberté contractuelle ? 	" La liberté de choisir son cocontractant, la liberté de conclure ou non le contrat, et la liberté d&#x27;en définir le contenu (dans le respect de l&#x27;ordre public)."
+Donne une exception à la liberté de choisir son cocontractant. 	 Le droit de préemption (ex: priorité accordée au locataire lors de la vente de son appartement).
+Donne une exception à la liberté de conclure un contrat (obligation de contracter). 	" L&#x27;assurance responsabilité civile obligatoire pour les conducteurs de véhicules."
+"Quelles sont les trois conditions de validité d&#x27;un contrat (art. 1128 du Code civil) ? "	 Le consentement libre et éclairé, la capacité de contracter, et un contenu licite et certain.
+Quels sont les trois vices du consentement pouvant annuler un contrat ? 	" L&#x27;erreur, le dol et la violence."
+"Quelle est la différence entre la capacité de jouissance et la capacité d&#x27;exercice ? "	" La capacité de jouissance est l&#x27;aptitude à être titulaire de droits, et la capacité d&#x27;exercice est l&#x27;aptitude à pouvoir exercer ces droits soi-même."
+Quelle est la différence entre une nullité relative et une nullité absolue ? 	" La nullité relative protège un intérêt particulier (ex: vice du consentement), tandis que la nullité absolue protège l&#x27;intérêt général (ex: contenu illicite)."
+"Qu&#x27;est-ce qu&#x27;une clause dans un contrat ? "	 Une phrase ou un ensemble de phrases qui définit de manière précise les droits et les obligations des parties contractantes.
+"Qu&#x27;est-ce qu&#x27;une clause de réserve de propriété ? "	" Une clause permettant au vendeur/créancier de conserver la propriété du bien jusqu&#x27;au paiement intégral par l&#x27;acheteur."
+"Qu&#x27;est-ce qu&#x27;une clause d&#x27;indexation ? "	" Une clause prévoyant que le prix mentionné au contrat évoluera automatiquement selon l&#x27;évolution d&#x27;un indice ou d&#x27;une donnée économique."
+"Qu&#x27;est-ce qu&#x27;une clause limitative (ou exclusive) de responsabilité ? "	" Une clause par laquelle le débiteur limite ou exclut par avance sa responsabilité financière en cas de mauvaise exécution ou d&#x27;inexécution du contrat."
+"Qu&#x27;est-ce qu&#x27;une clause résolutoire ? "	 Une clause prévoyant la résiliation ou la résolution automatique (de plein droit) du contrat en cas de manquement à une obligation contractuelle.
+"Qu&#x27;est-ce qu&#x27;une clause pénale ? "	" Une clause fixant à l&#x27;avance la sanction financière forfaitaire applicable si l&#x27;une des parties n&#x27;exécute pas ses obligations."
+"Qu&#x27;est-ce qu&#x27;une clause abusive ? "	 Une clause créant un déséquilibre significatif entre les droits et les obligations des parties au détriment du plus faible, elle est alors réputée non écrite.
+Que signifie le principe de la &quot;force obligatoire du contrat&quot; (art. 1103 du Code civil) ? 	 Les contrats légalement formés tiennent lieu de loi à ceux qui les ont faits, ils doivent être exécutés de bonne foi et sont irrévocables unilatéralement.
+"Selon l&#x27;article 1195 du Code civil, que peut faire une partie si un changement de circonstances imprévisible rend l&#x27;exécution du contrat excessivement onéreuse ? "	" Elle peut demander la renégociation du contrat à son cocontractant, et en cas d&#x27;échec, demander au juge de réviser ou mettre fin au contrat."
+"En cas d&#x27;inexécution d&#x27;un contrat, qu&#x27;est-ce que l&#x27;exécution forcée ? "	 Une action en justice du créancier pour contraindre le débiteur à réaliser son obligation (en nature ou par équivalent/dommages-intérêts).
+"Qu&#x27;est-ce que l&#x27;exception d&#x27;inexécution ? "	" Le droit pour une partie de suspendre l&#x27;exécution de sa propre obligation tant que son cocontractant n&#x27;a pas exécuté la sienne."
+"Quelle est la différence entre la résolution et la résiliation d&#x27;un contrat en cas d&#x27;inexécution ? "	" La résolution anéantit le contrat de manière rétroactive (comme s&#x27;il n&#x27;avait jamais existé, pour les contrats instantanés), tandis que la résiliation anéantit le contrat uniquement pour l&#x27;avenir (pour les contrats à exécution successive)."
+"Quelles sont les 4 étapes de la méthode de l&#x27;argumentation juridique (syllogisme) ? "	" 1. Rappel des faits, 2. Enonciation de la Règle de droit (&quot;Selon...&quot;), 3. Application au cas (&quot;En l&#x27;espèce...&quot;), 4. Conclusion (&quot;Donc...&quot;)."
+"Qu&#x27;est-ce que l&#x27;environnement économique d&#x27;une entreprise ? "	" L&#x27;ensemble des acteurs économiques avec lesquels elle est en interaction constante."
+"Quel est le rôle économique principal d&#x27;une entreprise (SNF) ? "	 Produire des biens ou des services marchands.
+Dans le circuit économique, quel est le rôle des ménages ? 	 Consommer et épargner.
+"Quel est le rôle économique de l&#x27;État (Administrations Publiques) ? "	 Produire des biens ou des services collectifs non marchands.
+"Quel est le rôle d&#x27;une association (ISBLSM) ? "	 Produire des biens et services non marchands.
+"Quel est le rôle principal d&#x27;une banque (Société Financière) ? "	 Élaborer des produits et services financiers marchands.
+Que représente le « Reste du monde » ? 	" Les acteurs situés dans d&#x27;autres pays avec lesquels l&#x27;entreprise a des échanges internationaux."
+Quels sont les deux types de flux dans un circuit économique ? 	 Les flux réels et les flux monétaires.
+"Qu&#x27;est-ce qu&#x27;un flux réel ? "	" Un échange d&#x27;achats ou de ventes de biens, de services ou la prestation de travail."
+"Qu&#x27;est-ce qu&#x27;un flux monétaire ? "	 Un règlement financier comme le paiement des fournisseurs, salaires, impôts ou intérêts.
+À quoi sert le schéma du circuit économique ? 	 À visualiser de manière simplifiée la multiplicité des échanges entre les acteurs économiques.
+Comment définit-on un marché ? 	" C&#x27;est le lieu de rencontre entre l&#x27;offre et la demande d&#x27;un bien ou d&#x27;un service."
+"Quels sont les trois marchés sur lesquels l&#x27;entreprise réalise des échanges ? "	 Le marché des biens et services, le marché du travail et le marché des capitaux.
+"Sur le marché des biens et services, quelle est la position de l&#x27;entreprise ? "	 Elle est à la fois demandeuse et offreuse.
+"Sur le marché du travail, quelle est la position de l&#x27;entreprise ? "	 Elle est uniquement demandeuse de travail.
+"Qui représente l&#x27;offre sur le marché du travail ? "	 Les salariés potentiels.
+"Sur le marché des capitaux, pourquoi l&#x27;entreprise est-elle demandeuse ? "	 Pour rechercher des capitaux à long terme afin de financer ses investissements.
+"Qu&#x27;est-ce qu&#x27;une relation de coopération interentreprises ? "	 Un partenariat dans lequel les entreprises œuvrent dans un but commun.
+"Avec quels acteurs l&#x27;entreprise coopère-t-elle principalement ? "	 Avec ses fournisseurs en amont et ses clients en aval.
+"Qu&#x27;est-ce qu&#x27;une relation de concurrence ? "	 Une compétition entre entreprises proposant des produits équivalents pour le même besoin.
+Sur quels critères se joue la concurrence entre entreprises ? 	" Sur le prix et la qualité, comme le degré d&#x27;innovation."
+"Quelles imperfections peuvent impacter le fonctionnement d&#x27;un marché ? "	" Les barrières à l&#x27;entrée et l&#x27;asymétrie d&#x27;information."
+"Quelles sont les conséquences indirectes de l&#x27;activité de l&#x27;entreprise sur son environnement ? "	 Les externalités (positives ou négatives).

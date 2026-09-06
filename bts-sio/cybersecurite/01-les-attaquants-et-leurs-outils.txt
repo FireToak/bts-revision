@@ -1,0 +1,39 @@
+Qu'est-ce qu'une menace en sécurité informatique ?	Un danger potentiel pour une ressource, comme les données ou le réseau lui-même.	bts_sio::bloc3::attaquants
+Qu'est-ce qu'une vulnérabilité ?	Une faille dans un système ou sa conception susceptible d'être exploitée par une menace.	bts_sio::bloc3::attaquants
+Comment définit-on la surface d'exposition aux attaques ?	C'est la somme totale des vulnérabilités d'un système donné qu'un attaquant peut exploiter pour y pénétrer ou extraire des données.	bts_sio::bloc3::attaquants
+Que signifie « exploiter » en cybersécurité ?	C'est le mécanisme utilisé pour utiliser une vulnérabilité afin de compromettre une ressource, de manière locale ou distante.	bts_sio::bloc3::attaquants
+Qu'est-ce qu'un risque en cybersécurité ?	La probabilité qu'une menace spécifique exploite une vulnérabilité précise et entraîne des conséquences indésirables.	bts_sio::bloc3::attaquants
+En quoi consiste l'acceptation des risques ?	Le risque est accepté et aucune mesure n'est prise car le coût de gestion est supérieur au coût représenté par le risque.	bts_sio::bloc3::attaquants
+En quoi consiste l'évitement des risques ?	Éliminer toute exposition au risque en supprimant l'activité ou l'appareil vulnérable.	bts_sio::bloc3::attaquants
+En quoi consiste la réduction des risques ?	Prendre des mesures pour réduire l'exposition ou l'impact du risque, après évaluation minutieuse des coûts.	bts_sio::bloc3::attaquants
+En quoi consiste le transfert des risques ?	Transférer tout ou partie du risque vers un tiers consentant, comme une compagnie d'assurance.	bts_sio::bloc3::attaquants
+Qu'est-ce qu'une contre-mesure ?	Des mesures prises pour protéger les biens en atténuant une menace ou en réduisant les risques.	bts_sio::bloc3::attaquants
+Qu'est-ce que l'impact d'une menace ?	Les dommages potentiels causés à l'organisation par cette menace.	bts_sio::bloc3::attaquants
+Qu'est-ce qu'un hacker Black Hat (chapeau noir) ?	Un cybercriminel qui viole la sécurité informatique à des fins personnelles ou par pure malveillance.	bts_sio::bloc3::attaquants
+Qu'est-ce qu'un hacker White Hat (chapeau blanc) ?	Un hacker éthique qui utilise ses compétences pour tester et améliorer la sécurité informatique d'une organisation de manière légale.	bts_sio::bloc3::attaquants
+Qu'est-ce qu'un hacker Gray Hat (chapeau gris) ?	Un hacker agissant illégalement sans autorisation, mais sans but malveillant (ex: signaler une faille découverte).	bts_sio::bloc3::attaquants
+Qu'est-ce qu'un Script Kiddie ?	Un hacker néophyte utilisant des scripts ou outils existants pour provoquer des dommages, généralement sans motivation financière.	bts_sio::bloc3::attaquants
+Quel est le rôle d'un courtier de vulnérabilité ?	Un hacker (souvent chapeau gris) recherchant des exploits pour les signaler aux fournisseurs contre une récompense.	bts_sio::bloc3::attaquants
+Qu'est-ce qu'un hacktiviste ?	Un hacker chapeau gris s'attaquant à des cibles pour des motivations politiques ou sociales (ex: attaques DDoS).	bts_sio::bloc3::attaquants
+Qu'est-ce qu'un cybercriminel ?	Un hacker chapeau noir travaillant à son compte ou pour des organisations criminelles afin de s'enrichir.	bts_sio::bloc3::attaquants
+Qu'est-ce qu'un hacker financé par un État ?	Un acteur de menace agissant pour un gouvernement afin de voler des secrets, espionner ou saboter.	bts_sio::bloc3::attaquants
+À quoi servent les outils de piratage de mots de passe ?	À décoder ou récupérer un mot de passe par suppression, contournement du chiffrement ou tentatives en chaîne (ex: John the Ripper).	bts_sio::bloc3::outils
+À quoi servent les outils de piratage sans fil ?	À détecter intentionnellement les failles de sécurité des réseaux Wi-Fi (ex: Aircrack-ng).	bts_sio::bloc3::outils
+À quoi servent les outils d'analyse du réseau ?	À rechercher des ports TCP ou UDP ouverts sur les appareils réseau (ex: Nmap, Angry IP Scanner).	bts_sio::bloc3::outils
+À quoi servent les outils de création de paquets ?	À inspecter et tester la fiabilité d'un pare-feu à l'aide de faux paquets (ex: Hping, Scapy).	bts_sio::bloc3::outils
+À quoi servent les analyseurs de paquets (sniffers) ?	À capturer et analyser le trafic réseau sur des LAN Ethernet ou Wi-Fi (ex: Wireshark).	bts_sio::bloc3::outils
+À quoi sert un détecteur de rootkit ?	À vérifier l'intégrité des fichiers et détecter la présence de rootkits installés (ex: AIDE).	bts_sio::bloc3::outils
+Qu'est-ce qu'un fuzzer (générateur de bruits) ?	Un outil injectant des données aléatoires pour déceler des vulnérabilités de sécurité dans des logiciels (ex: Skipfish).	bts_sio::bloc3::outils
+À quoi servent les outils d'investigation (forensics) ?	À identifier des preuves d'intrusion dans un système informatique (ex: Sleuth Kit, Maltego).	bts_sio::bloc3::outils
+À quoi servent les débogueurs en cybersécurité ?	À reconstituer des binaires pour créer des exploits (black hat) ou analyser des malwares (white hat) (ex: GDB).	bts_sio::bloc3::outils
+Qu'est-ce qu'un OS de piratage ?	Un système d'exploitation conçu pour le hacking contenant des outils spécifiques (ex: Kali Linux).	bts_sio::bloc3::outils
+À quoi servent les outils d'exploitation des vulnérabilités ?	À déterminer si un hôte distant est vulnérable à une attaque spécifique (ex: Metasploit).	bts_sio::bloc3::outils
+À quoi sert un scanner de vulnérabilités ?	À analyser un réseau pour identifier les ports ouverts et rechercher des failles connues (ex: Nessus).	bts_sio::bloc3::outils
+En quoi consiste une attaque par interception ?	Le cyberpirate capte et visualise le trafic réseau (également appelée attaque par analyse).	bts_sio::bloc3::attaques
+En quoi consiste une attaque par modification de données ?	L'acteur de menace capte le trafic et modifie les paquets à l'insu de l'expéditeur et du destinataire.	bts_sio::bloc3::attaques
+En quoi consiste une attaque par usurpation d'adresse IP ?	Création d'un paquet IP semblant provenir d'une adresse valide associée au réseau de l'entreprise.	bts_sio::bloc3::attaques
+Quel est le but d'une attaque de mot de passe ?	Utiliser un compte utilisateur valide découvert pour obtenir des informations, modifier le réseau ou réacheminer des données.	bts_sio::bloc3::attaques
+Qu'est-ce qu'une attaque par déni de service (DoS) ?	Surcharger ou provoquer la défaillance d'un réseau/système pour empêcher les utilisateurs autorisés d'y accéder.	bts_sio::bloc3::attaques
+Qu'est-ce qu'une attaque de l'homme-au-milieu (MiTM) ?	L'attaquant se positionne entre la source et la destination pour surveiller et contrôler les communications dynamiquement.	bts_sio::bloc3::attaques
+Qu'est-ce qu'une attaque par compromission des clés ?	L'attaquant s'approprie une clé secrète pour accéder à des communications sécurisées de manière indétectable.	bts_sio::bloc3::attaques
+Qu'est-ce qu'une attaque de renifleur (sniffer) ?	Utilisation d'une application pour lire et capturer les échanges de données non chiffrés sur le réseau.	bts_sio::bloc3::attaques

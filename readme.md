@@ -1,76 +1,71 @@
-# Template `README.md` pour les dépôts
-
-## Prompt IA
-
-Tu es un ingénieur SRE senior garant du respect des bonnes pratiques de l’industrie. Ta mission est de rédiger le fichier `README.md` du projet en restant concis, clair et professionnel dans tes explications.
-
-Ci-dessous se trouve un template Markdown du `README.md`. Les commentaires entre crochets `[]` sont des instructions destinées à ton persona et ne doivent jamais apparaître dans le résultat final.
-
-Ta réponse doit contenir uniquement le résultat final, sans texte supplémentaire ni explication.
-
-Informations à prendre en compte :
-
-* [INSÉRER LES INFORMATIONS]
-
-````markdown
-# [nom]
-
-![Bannière du projet]([Insère l'URL de l'image si fournie, sinon supprime cette ligne])
+# BTS Révision
 
 ## Contexte
 
-[Rédige une description claire et professionnelle du projet basée sur les informations fournies]
+BTS Révision regroupe des fiches de révision pour le BTS SIO. Les supports couvrent actuellement la CEJM, la cybersécurité et les mathématiques. Les fichiers texte sont structurés pour pouvoir être relus dans un éditeur ou importés directement dans [Anki](https://apps.ankiweb.net/).
 
 -----
 
 ## Structure du dépôt
 
-L’organisation du dépôt suit la logique suivante :
-
 ```text
-[Génération de l’arborescence du projet avec les dossiers et fichiers importants]
+.
+├── bts-sio/
+│   ├── cejm/
+│   ├── cybersecurite/
+│   └── mathématiques/
+├── prompt.md
+└── readme.md
 ```
 
-- **`[<chemin>/]`** : [Description de l’utilité du dossier]
-- **`[<chemin>/<nom.extension>]`** : [Description de l’utilité du fichier]
+- **`bts-sio/`** : regroupe les supports de révision par matière.
+- **`bts-sio/cejm/`** : fiches de culture économique, juridique et managériale.
+- **`bts-sio/cybersecurite/`** : fiches consacrées aux menaces, attaques et outils de cybersécurité.
+- **`bts-sio/mathématiques/`** : fiches de mathématiques, dont le calcul booléen.
+- **`*.txt`** : cartes question-réponse prêtes à être consultées ou importées dans Anki.
 
 -----
 
-## Utilisation de [nom]
+## Utilisation
 
-### 1. Cloner le dépôt localement
-
-```bash
-git clone [URL du dépôt]
-cd [Nom du dépôt]
-```
-
-### 2. [Action à réaliser]
-
-[Description de l’action]
+### Cloner le dépôt
 
 ```bash
-[Exemple de commande]
+git clone git@github.com:FireToak/bts-revision.git
+cd bts-revision
 ```
 
-### 3. [Action suivante]
+Les fiches peuvent ensuite être ouvertes avec n’importe quel éditeur de texte compatible UTF-8.
 
-[Ajouter autant d’étapes que nécessaire]
+-----
+
+## Ajouter les flashcards dans Anki
+
+### 1. Ouvrir l’importeur
+
+Dans Anki, sélectionnez **Fichier > Importer**, puis choisissez la fiche `.txt` à ajouter. Sélectionnez ou créez le paquet de destination.
+
+![Lancer l'importation](./assets/capture-lancer-importatation-flashcard.png)
+*Lancer l'importation des flashcards.*
+
+### 2. Configuration de l'importation
+
+Une fois dans le menu d'importation, laisser les paramètres par défaut et cliquer sur **Importer**.
+
+![Importation des flashcards](./assets/capture-importantation-flashcard.png)
+*Configuration de l'importation des flashcards.*
 
 -----
 
 ## Bonnes pratiques et sécurité
 
-1. **[Nom de la bonne pratique]** : [Description]
-2. **[Nom de la bonne pratique]** : [Description]
-
-```bash
-[Commande à exécuter si nécessaire]
-```
+1. **Conserver l’encodage UTF-8** : il préserve les accents, les symboles et les expressions mathématiques.
+2. **Vérifier l’aperçu avant import** : une mauvaise sélection du séparateur décale les champs et rend les cartes illisibles.
+3. **Sauvegarder la collection Anki** : exportez régulièrement une sauvegarde avant un import massif ou une modification importante.
 
 -----
 
-## 👨‍💻 Mainteneurs
+## 👨‍💻 Mainteneur
 
 - **Louis MEDO** | [LinkedIn](https://www.linkedin.com/in/louismedo/) | [Portfolio](https://louis.loutik.fr/) | [GitHub](https://github.com/FireToak) | [louis.medo@loutik.fr](mailto:louis.medo@loutik.fr)
 
@@ -78,6 +73,5 @@ cd [Nom du dépôt]
 
 <div align="center">
 <br>
-<small><i>Dernière mise à jour : [jour mois année — Exemple : 15 avril 2026]</i></small>
+<small><i>Dernière mise à jour : 31 août 2026</i></small>
 </div>
-````

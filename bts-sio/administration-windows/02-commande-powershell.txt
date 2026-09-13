@@ -1,0 +1,20 @@
+À quoi sert la touche Tabulation dans PowerShell ? ; Elle complète automatiquement une commande, un paramètre ou un fichier. Appuyer plusieurs fois fait défiler les choix possibles.
+Qu'est-ce qu'une "cmdlet" et quelle est sa structure ? ; C'est une commande native PowerShell, structurée selon la convention "verbe-nom" (ex : Get-Service).
+PowerShell est-il sensible à la casse (majuscules/minuscules) ? ; Non, PowerShell n'est pas sensible à la casse, ni aux espaces ou tabulations supplémentaires.
+Quelle est la particularité des données manipulées par PowerShell par rapport au terminal classique ? ; PowerShell est basé sur des objets (qui ont des propriétés et des méthodes), et non sur du texte brut.
+Quelle est la différence entre une propriété et une méthode pour un objet PowerShell ? ; Une propriété définit l'état de l'objet (ex: sa couleur), tandis qu'une méthode définit son comportement ou une action (ex: démarrer).
+Quelle commande affiche les propriétés et méthodes associées à un objet ? ; La commande Get-Member. Elle s'utilise généralement avec un pipeline (ex : Get-Date | Get-Member).
+Qu'est-ce qu'un alias dans PowerShell ? ; C'est un nom de raccourci attribué à une cmdlet fréquemment utilisée pour gagner du temps.
+Quelle commande permet d'afficher la liste de tous les alias existants ? ; La commande Get-Alias.
+Comment créer un alias personnalisé en PowerShell ? ; Avec la commande Set-Alias. Syntaxe : Set-Alias <nom_alias> <commande_à_exécuter>.
+Quelle est la durée de vie d'un alias personnalisé créé avec Set-Alias ? ; Il est éphémère : sa durée de vie est limitée à la session en cours et il est perdu à la fermeture de la console.
+Quelle commande liste toutes les commandes disponibles sur le système ? ; La commande Get-Command.
+Comment rechercher une commande en ciblant uniquement son "verbe" ou son "nom" ? ; En ajoutant les paramètres -verb ou -noun à Get-Command (ex : Get-Command -verb "Get").
+Comment afficher l'aide détaillée d'une commande spécifique ? ; Avec la commande Get-Help <nom_commande> ou en tapant <nom_commande> -?
+Comment afficher l'aide d'une commande en incluant des exemples pratiques d'utilisation ? ; En ajoutant le paramètre -examples à l'appel de l'aide (ex : Get-Help Get-Process -examples).
+Quelle commande permet d'effacer le texte affiché dans la console ? ; La commande Clear-Host.
+Quelle commande permet de consulter l'historique des commandes tapées précédemment ? ; La commande Get-History.
+Quelle commande affiche la liste des processus actuellement en cours d'exécution sur la machine ? ; La commande Get-Process.
+À quoi sert l'opérateur pipeline ( | ) en PowerShell ? ; Il permet de canaliser les commandes : la sortie (le résultat) d'une commande est transmise comme entrée à la commande suivante.
+Explique l'exécution de la chaîne de commandes suivante : Get-Date | Format-Table ; La commande Get-Date crée l'objet date, puis le pipeline ( | ) l'envoie à Format-Table qui se charge de structurer l'affichage sous forme de tableau.
+Explique l'exécution de la chaîne de commandes suivante : ipconfig | findstr "Adresse" ; La commande ipconfig génère la configuration réseau, puis le pipeline ( | ) l'envoie à findstr qui filtre et n'affiche que les lignes contenant le mot "Adresse".

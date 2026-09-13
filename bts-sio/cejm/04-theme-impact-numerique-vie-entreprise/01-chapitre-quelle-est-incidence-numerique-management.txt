@@ -1,0 +1,46 @@
+Qu'est-ce qu'un Système d'Information (SI) ? ; Un ensemble organisé de ressources (matériel, logiciel, personnel, données) permettant de collecter, stocker, traiter et diffuser des informations.
+Quelles sont les 3 dimensions d'un Système d'Information ? ; Technique, organisationnelle et humaine.
+Que comprend la dimension technique d'un SI ? ; De ressources matérielles (matériel physique, les infrastructures réseau, les serveurs et les systèmes de stockage) et immatérielles (Logiciels, progiciels (ERP/PGI), bases de données, applications métiers).
+Quel est le rôle de la dimension humaine dans un SI ? ; Les individus traitent l'information, lui donnent du sens et la transforment en connaissance.
+Que regroupe la dimension organisationnelle d'un SI ? ; L'ensemble des processus, règles et procédures pour collecter, mémoriser, traiter et diffuser l'information.
+Quelles sont les 4 grandes fonctions d'un Système d'Information ? ; Collecter, mémoriser, traiter et diffuser.
+En quoi consiste la fonction "Collecte" du SI ? ; L'acquisition et la saisie de données provenant de l'environnement interne ou externe de l'entreprise.
+En quoi consiste la fonction "Mémorisation" du SI ? ; La conservation organisée des données collectées (fichiers, bases de données).
+En quoi consiste la fonction "Traitement" du SI ? ; La transformation des données brutes en informations utiles pour faciliter le jugement et la prise de décision.
+En quoi consiste la fonction "Diffusion" du SI ? ; La transmission des informations traitées aux différentes parties prenantes.
+Comment définit-on l'IT moderne ? ; L'utilisation d'ordinateurs, réseaux et processus pour créer, stocker, sécuriser et échanger des données électroniques.
+Quel est le rôle de l'équipe IT en entreprise ? ; Gérer l'infrastructure informatique, gouverner les SI, résoudre les problèmes technologiques et automatiser les processus.
+Qu'est-ce que la transformation digitale ? ; Un changement organisationnel lié à l'intégration du numérique visant à améliorer la performance et la chaîne de valeur de l'entreprise.
+Pourquoi la transformation digitale est-elle une source d'avantage concurrentiel ? ; Elle permet d'innover, d'améliorer les offres et de s'adapter rapidement aux exigences des clients.
+Comment la digitalisation impacte-t-elle la structure de l'entreprise ? ; Elle réorganise le travail, modifie la prise de décision et impose des modes de collaboration moins hiérarchiques.
+Qu'est-ce que la flexibilité selon Robert Reix ? ; L'aptitude d'une entreprise à s'adapter rapidement aux modifications de son environnement pour maintenir ses objectifs.
+Qu'est-ce que le reengineering (ou réingénierie des processus métiers) ? ; La restructuration des processus clés créateurs de valeur pour améliorer les coûts, la qualité et la rapidité.
+Quelle est la différence entre une action individuelle et une action collective ? ; L'action individuelle vise un objectif personnel, tandis que l'action collective rassemble un groupe autour d'un objectif commun.
+Quels sont les 6 mécanismes de coordination selon Henry Mintzberg ? ; Ajustement mutuel, supervision directe, standardisation des procédés, des résultats, des qualifications et des normes.
+Qu'est-ce que l'ajustement mutuel (Mintzberg) ? ; La coordination des activités par un contact et une communication directs entre les individus.
+Qu'est-ce que la supervision directe (Mintzberg) ? ; La coordination par la hiérarchie, où un supérieur donne les ordres et contrôle le travail.
+Qu'est-ce que la standardisation des procédés (Mintzberg) ? ; La coordination par la formalisation stricte des méthodes et procédures de travail à suivre.
+Qu'est-ce que la standardisation des résultats (Mintzberg) ? ; La coordination par la définition d'objectifs précis à atteindre, laissant libre le choix de la méthode.
+Qu'est-ce que la standardisation des qualifications (Mintzberg) ? ; La coordination basée sur la définition des compétences et formations spécifiques requises.
+Qu'est-ce que la standardisation des normes (Mintzberg) ? ; La coordination reposant sur un ensemble commun de valeurs et de croyances partagées.
+Qu'est-ce que la résistance au changement ? ; Tout comportement ou attitude indiquant le refus de soutenir ou d'accepter une modification dans l'organisation.
+Quels sont les 4 grands facteurs de résistance au changement ? ; Les facteurs individuels, liés à la nature du changement, liés à l'agent du changement, et organisationnels.
+Donne un exemple de facteur individuel de résistance au changement. ; La peur de l'inconnu, l'attachement aux habitudes ou le sentiment de remise en cause des compétences.
+Comment limiter la résistance liée à la nature même du changement ? ; En communiquant clairement sur ses avantages, sa valeur ajoutée et en s'assurant qu'il est compris.
+Quels sont les 5 grands types de risques liés à l'usage d'un SI ? ; Sécurité, opérationnels, juridiques, sociaux et financiers.
+Donne un exemple de risque de sécurité lié au SI. ; Une cyberattaque, un piratage, un vol ou la destruction de données.
+Donne un exemple de risque opérationnel lié au SI. ; Une panne de matériel, une obsolescence technologique ou un défaut de maintenance.
+Donne un exemple de risque juridique lié au SI. ; Le non-respect de la réglementation sur la protection des données (RGPD) ou un litige contractuel.
+Donne un exemple de risque social lié au SI. ; L'intrusion dans la vie privée des salariés ou le manque de compétences face aux évolutions du SI.
+Donne un exemple de risque financier lié au SI. ; Le coût d'acquisition du matériel, des licences logicielles et de la formation des utilisateurs.
+Quels sont les 4 principaux déterminants du changement structurel d'une entreprise ? ; La croissance, l'élargissement du marché, le développement des TIC et les réorientations stratégiques.
+Que signifie le principe d'Alfred Chandler "La structure suit la stratégie" ? ; Lorsqu'une entreprise adopte une nouvelle stratégie, elle doit systématiquement modifier son organisation pour pouvoir l'appliquer.
+Comment le développement des TIC favorise-t-il le changement structurel ? ; Il permet de diminuer les niveaux hiérarchiques en accélérant la circulation de l'information.
+Comment Michel Crozier explique-t-il les difficultés liées au changement de structure ? ; Par la divergence d'intérêts des acteurs internes qui résistent pour protéger leurs zones de pouvoir.
+Comment Larry Greiner modélise-t-il le développement des organisations ? ; Sous forme d'un cycle de vie alternant des phases de croissance stable et des crises de transition.
+Quelles sont les 5 phases d'évolution selon le modèle de Greiner ? ; Créativité, direction, délégation, coordination et collaboration.
+Quelles sont les 5 crises associées au modèle de Greiner ? ; Crise de leadership, d'autonomie, de contrôle, de bureaucratie et de saturation psychologique.
+Dans le modèle de Greiner, à quoi aboutit la phase de créativité ? ; À une crise de leadership nécessitant la mise en place d'un management structuré.
+Dans le modèle de Greiner, à quoi aboutit la phase de direction ? ; À une crise d'autonomie nécessitant de décentraliser la prise de décision.
+Dans le modèle de Greiner, à quoi aboutit la phase de délégation ? ; À une crise de contrôle où la direction générale perd la maîtrise globale.
+Dans le modèle de Greiner, à quoi aboutit la phase de coordination ? ; À une crise de bureaucratie où l'organisation devient trop lourde et rigide.

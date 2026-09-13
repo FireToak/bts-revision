@@ -1,0 +1,32 @@
+Qu'est-ce qu'une algèbre de Boole ? ; C'est un ensemble non vide muni de deux lois de composition interne (addition, multiplication) et d'une opération unitaire (complémentation) sur des variables ne prenant que deux valeurs.
+En algèbre de Boole, à quel connecteur logique correspond l'addition ? ; L'addition correspond au connecteur logique OU.
+En algèbre de Boole, à quel connecteur logique correspond la multiplication ? ; La multiplication correspond au connecteur logique ET.
+En algèbre de Boole, à quel connecteur logique correspond la complémentation ? ; La complémentation correspond au connecteur logique NON.
+Quelles sont les deux seules valeurs possibles pour une variable booléenne ? ; $0$ et $1$.
+Quels sont les résultats de l'additions booléennes ($0+0$) ? ; $0+0=0$.
+Quels sont les résultats de l'additions booléennes ($0+1$) ? ; $0+1=1$.
+Quels sont les résultats de l'additions booléennes($1+0$) ? ; $1+0=1$.
+Quels sont les résultats de l'additions booléennes ($1+1$) ? ; $1+1=1$.
+Que signifie la notion de commutativité en algèbre de Boole ? ; L'ordre des variables ne change pas le résultat de l'opération.
+Quelles sont les formules de la commutativité pour l'addition et la multiplication ? ; $a+b = b+a$ et $ab = ba$.
+Que signifie la notion d'associativité en algèbre de Boole ? ; Le regroupement des termes entre parenthèses ne modifie pas le résultat.
+Quelles sont les formules de l'associativité pour l'addition et la multiplication ? ; $(a+b)+c = a+(b+c)$ et $(ab)c = a(bc)$.
+Quelle est la formule de la distributivité de la multiplication par rapport à l'addition ? ; $a(b+c) = ab + ac$.
+Quelle est la formule de la distributivité de l'addition par rapport à la multiplication ? ; $a+bc = (a+b)(a+c)$.
+Quel est l'élément neutre de l'addition booléenne et quelle est sa formule ? ; L'élément neutre est $0$, car $a+0 = a$.
+Quel est l'élément neutre de la multiplication booléenne et quelle est sa formule ? ; L'élément neutre est $1$, car $a \times 1 = a$.
+Quel est l'élément absorbant de l'addition booléenne ? (Donne la formule) ; L'élément absorbant est $1$, car $a+1 = 1$.
+Quel est l'élément absorbant de la multiplication booléenne ? (Donne la formule) ; L'élément absorbant est $0$, car $a \times 0 = 0$.
+Que vaut la somme d'une variable et de son complément ($a+\overline{a}$) ? ; $a+\overline{a} = 1$.
+Que vaut le produit d'une variable et de son complément ($a\overline{a}$) ? ; $a\overline{a} = 0$.
+Quel est l'ordre de priorité des opérations en calcul booléen ? ; 1. Complémentation, 2. Multiplication, 3. Addition.
+Quelles sont les formules de l'idempotence en calcul booléen ? ; $a+a = a$ et $aa = a$.
+Que vaut la double complémentation d'une variable ($\overline{\overline{a}}$) ? ; $\overline{\overline{a}} = a$.
+Que donne la loi d'absorption pour l'expression $a+ab$ ? ; $a+ab = a$.
+Que donne la loi d'absorption pour l'expression $a(a+b)$ ? ; $a(a+b) = a$.
+Quelle est la loi de De Morgan pour le complément d'un produit ($\overline{ab}$) ? ; $\overline{ab} = \overline{a} + \overline{b}$.
+Quelle est la loi de De Morgan pour le complément d'une somme ($\overline{a+b}$) ? ; $\overline{a+b} = \overline{a} \times \overline{b}$.
+À quoi sert un tableau de Karnaugh en algèbre de Boole ? ; Il permet de représenter et de simplifier facilement des expressions booléennes.
+Combien de cases comporte un tableau de Karnaugh pour deux variables booléennes ($a$ et $b$) ? ; Il comporte quatre cases correspondant aux quatre produits possibles : $ab$, $a\overline{b}$, $\overline{a}b$, $\overline{a}\overline{b}$.
+Quelle est la méthode pour simplifier une expression avec un tableau de Karnaugh ? ; On colorie les cases relatives à l'expression booléenne, puis on les regroupe en blocs pour simplifier.
+Comment se simplifie l'expression de la première ligne d'un tableau de Karnaugh ($ab+a\overline{b}$) ? ; $ab+a\overline{b} = a(b+\overline{b}) = a \times 1 = a$.

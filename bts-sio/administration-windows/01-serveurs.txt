@@ -1,0 +1,32 @@
+Qu'est-ce qu'un serveur informatique ? ; C'est un dispositif matériel ou logiciel fonctionnant en permanence pour offrir des services à un ou plusieurs clients.
+Sur quel modèle de communication repose le fonctionnement d'un serveur ? ; Le modèle client-serveur, qui utilise des requêtes et des protocoles réseaux normalisés.
+Quelles sont les 4 exigences principales dans la conception matérielle d'un serveur ? ; La disponibilité, la fiabilité, les performances et l'évolutivité (scalabilité).
+Qu'est-ce que la disponibilité d'un serveur ? ; C'est sa capacité à rester accessible et opérationnel lorsque les utilisateurs en ont besoin (souvent 24/7).
+À quoi correspond un taux de disponibilité théorique de 99,999 % sur un an ? ; À environ 5 minutes et 15 secondes d'indisponibilité par an.
+Qu'est-ce que la scalabilité (ou évolutivité) d'un serveur ? ; C'est la capacité de l'infrastructure à s'adapter facilement à l'augmentation de la charge ou des besoins.
+Quelle est la différence entre la scalabilité verticale et la scalabilité horizontale ? ; La verticale augmente les ressources d'un seul serveur (ex : ajout de RAM), l'horizontale ajoute d'autres serveurs pour répartir la charge.
+Un serveur est-il systématiquement plus puissant qu'un ordinateur personnel ? ; Non, sa puissance et ses composants dépendent exclusivement de son usage (serveur Web, serveur de fichiers, etc.).
+Pourquoi intègre-on des composants redondants (alimentations, cartes réseau) dans un serveur ? ; Pour éliminer les points uniques de défaillance (SPOF) et limiter l'impact d'une panne matérielle.
+Quelles sont les conditions environnementales requises dans un centre de données (datacenter) ? ; Une alimentation électrique fiable, un refroidissement adapté, et une protection contre les accès physiques et les incendies.
+Quel est le rôle de la supervision informatique ? ; Surveiller en temps réel l'état du matériel (CPU, RAM, température) et des services pour prévenir les pannes.
+À quoi servent les journaux d'événements (logs) ? ; À enregistrer l'activité du système et les erreurs pour rechercher l'origine d'une panne ou détecter une activité suspecte.
+Quelles sont les caractéristiques d'un système d'exploitation (OS) serveur par rapport à un OS client ? ; Il est optimisé pour héberger des services réseau, gérer de nombreux utilisateurs, et privilégie la sécurité et la stabilité.
+Cite 4 exemples de services réseau hébergés par un OS serveur. ; Le partage de fichiers, les services DNS/DHCP, l'hébergement Web, et la gestion des comptes utilisateurs.
+Quelle est la différence entre l'authentification et l'autorisation ? ; L'authentification vérifie l'identité d'un utilisateur, tandis que l'autorisation détermine les ressources auxquelles il a le droit d'accéder.
+Qu'est-ce que le principe de sécurité du "moindre privilège" ? ; C'est le fait d'attribuer à un utilisateur ou un service uniquement les droits strictement nécessaires à l'accomplissement de sa tâche.
+Cite 3 exemples de systèmes d'exploitation Linux orientés serveur. ; Debian, Ubuntu Server, et Red Hat Enterprise Linux (RHEL).
+Quels sont les deux outils en ligne de commande privilégiés pour l'administration à distance sous Linux et Windows ? ; SSH pour Linux, et PowerShell pour Windows.
+Comment un administrateur peut-il réduire la surface d'attaque d'un OS serveur ? ; En désactivant les services inutiles, en appliquant les correctifs de sécurité et en configurant des pare-feux.
+Qu'est-ce que la virtualisation de serveurs ? ; C'est le fait de faire fonctionner plusieurs serveurs virtuels (machines virtuelles) de manière isolée sur un seul serveur physique.
+Quel est l'objectif principal de la virtualisation en entreprise ? ; Mutualiser les ressources matérielles pour réaliser des économies et réduire les investissements en infrastructure.
+Qu'est-ce qu'un hyperviseur de type 1 (Bare-metal) ? ; Un système allégé qui s'installe directement sur la couche matérielle du serveur physique pour gérer les machines virtuelles.
+Cite 3 exemples de solutions de virtualisation de type 1. ; VMware ESXi, Microsoft Hyper-V, et Proxmox VE (qui utilise KVM).
+Qu'est-ce qu'un hyperviseur de type 2 (Hosted) ? ; Un logiciel de virtualisation qui s'installe au-dessus d'un système d'exploitation hôte classique déjà en place.
+Quel est le principal inconvénient d'un hyperviseur de type 2 par rapport au type 1 ? ; Il laisse moins de ressources disponibles pour les machines virtuelles car le système d'exploitation hôte en consomme une partie.
+Cite 2 exemples d'hyperviseurs de type 2. ; Oracle VirtualBox et VMware Workstation.
+Que signifie l'acronyme de la triade CIA ? ; Confidentialité, Intégrité, Disponibilité (Availability).
+Comment garantir la "Confidentialité" des données sur un serveur ? ; En gérant rigoureusement les droits d'accès, en utilisant des mots de passe robustes et en chiffrant les données.
+Comment définir "l'Intégrité" dans la sécurité d'un système ? ; C'est la garantie que les données ne sont pas modifiées de manière non autorisée ou accidentelle (ex: via des sommes de contrôle).
+Comment assurer la "Disponibilité" des services hébergés ? ; Grâce à la redondance matérielle, la haute disponibilité, les sauvegardes régulières et la supervision.
+À quoi sert une solution SIEM en cybersécurité ? ; À centraliser la supervision et l'analyse automatique des journaux d'événements pour détecter rapidement les incidents de sécurité.
+Qu'est-ce que la "défense en profondeur" ? ; Une stratégie consistant à superposer plusieurs couches de mécanismes de sécurité différents (pare-feu, antivirus, chiffrement, segmentation) pour protéger un système.

@@ -1,0 +1,45 @@
+Être ; be, was/were, been ; I was at the office.
+Avoir ; have, had, had ; I had an error.
+Faire (une action) ; do, did, done ; I did the update.
+Dire ; say, said, said ; The client said yes.
+Aller ; go, went, gone ; I went to the server room.
+Obtenir / Recevoir ; get, got, got/gotten ; I got an email.
+Fabriquer / Créer ; make, made, made ; I made a script.
+Savoir / Connaître ; know, knew, known ; I knew the password.
+Prendre ; take, took, taken ; I took a backup.
+Voir ; see, saw, seen ; I saw the logs.
+Venir ; come, came, come ; The tech came here.
+Trouver ; find, found, found ; I found the bug.
+Donner ; give, gave, given ; I gave the access.
+Raconter / Dire à quelqu'un ; tell, told, told ; I told my boss.
+Ressentir ; feel, felt, felt ; I felt confident.
+Devenir ; become, became, become ; The bug became a crash.
+Laisser / Quitter / Partir ; leave, left, left ; I left the office.
+Mettre ; put, put, put ; I put the file here.
+Signifier / Vouloir dire ; mean, meant, meant ; It meant a network error.
+Garder / Continuer ; keep, kept, kept ; I kept the backups.
+Permettre / Laisser faire ; let, let, let ; I let him type.
+Commencer ; begin, began, begun ; I began the migration.
+Montrer ; show, showed, shown ; I showed the documentation.
+Entendre ; hear, heard, heard ; I heard the alert.
+Courir / Faire tourner ; run, ran, run ; I ran the script.
+Tenir ; hold, held, held ; I held the cable.
+Apporter ; bring, brought, brought ; I brought my laptop.
+Écrire ; write, wrote, written ; I wrote the code.
+S'asseoir ; sit, sat, sat ; I sat at my desk.
+Se tenir debout ; stand, stood, stood ; I stood near the rack.
+Perdre ; lose, lost, lost ; I lost the connection.
+Payer ; pay, paid, paid ; I paid the invoice.
+Rencontrer ; meet, met, met ; I met the client.
+Comprendre ; understand, understood, understood ; I understood the problem.
+Parler ; speak, spoke, spoken ; I spoke in English.
+Lire ; read, read, read ; I read the documentation.
+Dépenser / Passer (du temps) ; spend, spent, spent ; I spent two hours.
+Grandir / Pousser / Augmenter ; grow, grew, grown ; The database grew.
+Gagner (une victoire) ; win, won, won ; We won the contract.
+Acheter ; buy, bought, bought ; I bought a new switch.
+Envoyer ; send, sent, sent ; I sent an email.
+Construire ; build, built, built ; I built a VM.
+Couper ; cut, cut, cut ; I cut the power.
+Tomber ; fall, fell, fallen ; The server fell offline.
+Choisir ; choose, chose, chose ; I chose Ubuntu.

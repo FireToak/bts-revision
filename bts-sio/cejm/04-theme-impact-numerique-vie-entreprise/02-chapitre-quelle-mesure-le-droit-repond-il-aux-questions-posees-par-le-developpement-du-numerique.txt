@@ -1,0 +1,63 @@
+Qu'est-ce qu'un nom de domaine ? ; Une adresse Web (URL) reconnue comme caractère distinctif pour une entreprise.
+
+Quelles sont les deux manières de protéger juridiquement un nom de domaine ? ; Par une réservation en ligne (règle du premier arrivé, premier servi) ou par un dépôt en tant que marque à l'INPI.
+
+Quelle action en justice utiliser si un tiers utilise un nom de domaine simplement réservé mais non déposé ? ; L'action en concurrence déloyale, qui permet d'obtenir des dommages-intérêts.
+
+Quelles sont les trois conditions pour qu'un nom de domaine soit protégé en tant que marque ? ; Il doit être licite, distinctif et disponible.
+
+Quelle action juridique protège une marque déposée ou un droit d'auteur contre une utilisation illicite ? ; L'action en contrefaçon.
+
+Quelles sont les sanctions possibles pour un acte de contrefaçon ? ; Des sanctions civiles (dommages-intérêts) et pénales (jusqu'à 3 ans de prison et 300 000 euros d'amende).
+
+Qu'est-ce que le cybersquatting ? ; L'enregistrement d'un nom de domaine correspondant à une marque dans le but de le revendre à son titulaire.
+
+Quelle condition pratique est indispensable pour qu'un nom de domaine soit protégé par la jurisprudence ? ; Il doit renvoyer à un site web actif pour pouvoir vérifier le risque de confusion.
+
+Comment est protégée l'architecture (ou la forme) d'une base de données ? ; Par le droit d'auteur, à condition qu'elle présente un caractère d'originalité.
+
+Par quel droit spécifique le contenu d'une base de données est-il protégé ? ; Par le droit sui generis (ou droit du producteur).
+
+Quel est le but du droit sui generis pour les bases de données ? ; Protéger l'investissement financier, matériel ou humain du producteur contre l'extraction ou la réutilisation du contenu par un tiers.
+
+Quelle est la durée de protection accordée par le droit sui generis ? ; 15 ans à compter de la création ou de la mise à disposition, prolongeable en cas de nouveaux investissements.
+
+Quelles sont les deux grandes branches du droit d'auteur ? ; Le droit moral et le droit patrimonial.
+
+Quelles sont les caractéristiques du droit moral ? ; Il protège le lien entre l'auteur et son œuvre, et il est perpétuel, inaliénable et imprescriptible.
+
+Quel est l'objectif du droit patrimonial ? ; Il permet à l'auteur d'autoriser ou d'interdire l'exploitation économique de son œuvre, avec une durée limitée.
+
+Quelle est la durée de protection conférée par les droits patrimoniaux ? ; Jusqu'à 70 ans après la mort de l'auteur.
+
+Quelle est la condition fondamentale pour qu'une œuvre (site web, logiciel...) soit protégée par le droit d'auteur ? ; Elle doit être originale et porter l'empreinte de la personnalité de l'auteur.
+
+Comment protéger les créations graphiques d'un site Internet ? ; Au titre des dessins et modèles, ce qui offre un monopole d'exploitation de 5 ans renouvelable quatre fois.
+
+Quels éléments d'un logiciel sont protégeables par le droit d'auteur ? ; L'interface graphique, le titre, le manuel d'utilisation, le programme (code source/objet) et le matériel de conception préparatoire.
+
+Qu'est-ce qu'une donnée à caractère personnel selon le RGPD ? ; Toute information permettant d'identifier une personne physique, directement ou indirectement.
+
+En quoi consiste le principe de minimisation des données ? ; Le responsable du traitement ne doit collecter que les données strictement nécessaires à la finalité prévue.
+
+Quel est le rôle du Délégué à la protection des données (DPO) ? ; Informer, conseiller et contrôler le respect de la loi et du RGPD dans l'organisme.
+
+Quels sont les droits des personnes concernant leurs données personnelles sous le RGPD ? ; Le consentement explicite, le droit à la portabilité, le droit à l'oubli et l'action de groupe.
+
+Quelle autorité administrative française veille au respect du RGPD ? ; La CNIL (Commission nationale informatique et libertés).
+
+Quelles sont les sanctions financières maximales que la CNIL peut imposer à une entreprise ? ; Jusqu'à 20 millions d'euros ou 4 % du chiffre d'affaires annuel mondial.
+
+Un employeur peut-il surveiller librement l'ordinateur d'un salarié ? ; Non, le contrôle doit respecter le principe de proportionnalité et ne pas porter atteinte à la vie privée.
+
+Quelles obligations d'information pèsent sur l'employeur avant de mettre en place un outil de surveillance ? ; Une information collective (auprès du CSE) et une information individuelle de chaque salarié concerné.
+
+Dans un contrat de prestation numérique, quelle est la différence entre une clause de résultat et une clause de moyens ? ; La clause de résultat impose d'atteindre le but fixé, tandis que la clause de moyens engage le prestataire à utiliser toutes ses capacités pour essayer d'y parvenir.
+
+Quelles sont les trois conditions de validité d'un contrat électronique (article 1108 du Code civil) ? ; Le consentement libre et éclairé, la capacité des parties, et un contenu licite et certain.
+
+Qu'est-ce que la procédure du "double-clic" pour la formation d'un contrat électronique ? ; Le premier clic permet de vérifier et corriger la commande, le second clic permet de la confirmer définitivement.
+
+Dans un contrat électronique, quelles sont les obligations spécifiques du cybercommerçant ? ; Offrir un paiement sécurisé, s'engager sur un délai de livraison, envoyer un accusé de réception et respecter le droit de rétractation.
+
+Quelles sont les deux conditions pour qu'une preuve électronique (écrit ou signature) soit recevable ? ; L'identité du signataire doit être assurée de manière fiable et l'intégrité de l'acte doit être garantie.

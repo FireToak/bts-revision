@@ -1,39 +1,45 @@
-Qu'est-ce qu'une menace en sécurité informatique ?	Un danger potentiel pour une ressource, comme les données ou le réseau lui-même.	bts_sio::bloc3::attaquants
-Qu'est-ce qu'une vulnérabilité ?	Une faille dans un système ou sa conception susceptible d'être exploitée par une menace.	bts_sio::bloc3::attaquants
-Comment définit-on la surface d'exposition aux attaques ?	C'est la somme totale des vulnérabilités d'un système donné qu'un attaquant peut exploiter pour y pénétrer ou extraire des données.	bts_sio::bloc3::attaquants
-Que signifie « exploiter » en cybersécurité ?	C'est le mécanisme utilisé pour utiliser une vulnérabilité afin de compromettre une ressource, de manière locale ou distante.	bts_sio::bloc3::attaquants
-Qu'est-ce qu'un risque en cybersécurité ?	La probabilité qu'une menace spécifique exploite une vulnérabilité précise et entraîne des conséquences indésirables.	bts_sio::bloc3::attaquants
-En quoi consiste l'acceptation des risques ?	Le risque est accepté et aucune mesure n'est prise car le coût de gestion est supérieur au coût représenté par le risque.	bts_sio::bloc3::attaquants
-En quoi consiste l'évitement des risques ?	Éliminer toute exposition au risque en supprimant l'activité ou l'appareil vulnérable.	bts_sio::bloc3::attaquants
-En quoi consiste la réduction des risques ?	Prendre des mesures pour réduire l'exposition ou l'impact du risque, après évaluation minutieuse des coûts.	bts_sio::bloc3::attaquants
-En quoi consiste le transfert des risques ?	Transférer tout ou partie du risque vers un tiers consentant, comme une compagnie d'assurance.	bts_sio::bloc3::attaquants
-Qu'est-ce qu'une contre-mesure ?	Des mesures prises pour protéger les biens en atténuant une menace ou en réduisant les risques.	bts_sio::bloc3::attaquants
-Qu'est-ce que l'impact d'une menace ?	Les dommages potentiels causés à l'organisation par cette menace.	bts_sio::bloc3::attaquants
-Qu'est-ce qu'un hacker Black Hat (chapeau noir) ?	Un cybercriminel qui viole la sécurité informatique à des fins personnelles ou par pure malveillance.	bts_sio::bloc3::attaquants
-Qu'est-ce qu'un hacker White Hat (chapeau blanc) ?	Un hacker éthique qui utilise ses compétences pour tester et améliorer la sécurité informatique d'une organisation de manière légale.	bts_sio::bloc3::attaquants
-Qu'est-ce qu'un hacker Gray Hat (chapeau gris) ?	Un hacker agissant illégalement sans autorisation, mais sans but malveillant (ex: signaler une faille découverte).	bts_sio::bloc3::attaquants
-Qu'est-ce qu'un Script Kiddie ?	Un hacker néophyte utilisant des scripts ou outils existants pour provoquer des dommages, généralement sans motivation financière.	bts_sio::bloc3::attaquants
-Quel est le rôle d'un courtier de vulnérabilité ?	Un hacker (souvent chapeau gris) recherchant des exploits pour les signaler aux fournisseurs contre une récompense.	bts_sio::bloc3::attaquants
-Qu'est-ce qu'un hacktiviste ?	Un hacker chapeau gris s'attaquant à des cibles pour des motivations politiques ou sociales (ex: attaques DDoS).	bts_sio::bloc3::attaquants
-Qu'est-ce qu'un cybercriminel ?	Un hacker chapeau noir travaillant à son compte ou pour des organisations criminelles afin de s'enrichir.	bts_sio::bloc3::attaquants
-Qu'est-ce qu'un hacker financé par un État ?	Un acteur de menace agissant pour un gouvernement afin de voler des secrets, espionner ou saboter.	bts_sio::bloc3::attaquants
-À quoi servent les outils de piratage de mots de passe ?	À décoder ou récupérer un mot de passe par suppression, contournement du chiffrement ou tentatives en chaîne (ex: John the Ripper).	bts_sio::bloc3::outils
-À quoi servent les outils de piratage sans fil ?	À détecter intentionnellement les failles de sécurité des réseaux Wi-Fi (ex: Aircrack-ng).	bts_sio::bloc3::outils
-À quoi servent les outils d'analyse du réseau ?	À rechercher des ports TCP ou UDP ouverts sur les appareils réseau (ex: Nmap, Angry IP Scanner).	bts_sio::bloc3::outils
-À quoi servent les outils de création de paquets ?	À inspecter et tester la fiabilité d'un pare-feu à l'aide de faux paquets (ex: Hping, Scapy).	bts_sio::bloc3::outils
-À quoi servent les analyseurs de paquets (sniffers) ?	À capturer et analyser le trafic réseau sur des LAN Ethernet ou Wi-Fi (ex: Wireshark).	bts_sio::bloc3::outils
-À quoi sert un détecteur de rootkit ?	À vérifier l'intégrité des fichiers et détecter la présence de rootkits installés (ex: AIDE).	bts_sio::bloc3::outils
-Qu'est-ce qu'un fuzzer (générateur de bruits) ?	Un outil injectant des données aléatoires pour déceler des vulnérabilités de sécurité dans des logiciels (ex: Skipfish).	bts_sio::bloc3::outils
-À quoi servent les outils d'investigation (forensics) ?	À identifier des preuves d'intrusion dans un système informatique (ex: Sleuth Kit, Maltego).	bts_sio::bloc3::outils
-À quoi servent les débogueurs en cybersécurité ?	À reconstituer des binaires pour créer des exploits (black hat) ou analyser des malwares (white hat) (ex: GDB).	bts_sio::bloc3::outils
-Qu'est-ce qu'un OS de piratage ?	Un système d'exploitation conçu pour le hacking contenant des outils spécifiques (ex: Kali Linux).	bts_sio::bloc3::outils
-À quoi servent les outils d'exploitation des vulnérabilités ?	À déterminer si un hôte distant est vulnérable à une attaque spécifique (ex: Metasploit).	bts_sio::bloc3::outils
-À quoi sert un scanner de vulnérabilités ?	À analyser un réseau pour identifier les ports ouverts et rechercher des failles connues (ex: Nessus).	bts_sio::bloc3::outils
-En quoi consiste une attaque par interception ?	Le cyberpirate capte et visualise le trafic réseau (également appelée attaque par analyse).	bts_sio::bloc3::attaques
-En quoi consiste une attaque par modification de données ?	L'acteur de menace capte le trafic et modifie les paquets à l'insu de l'expéditeur et du destinataire.	bts_sio::bloc3::attaques
-En quoi consiste une attaque par usurpation d'adresse IP ?	Création d'un paquet IP semblant provenir d'une adresse valide associée au réseau de l'entreprise.	bts_sio::bloc3::attaques
-Quel est le but d'une attaque de mot de passe ?	Utiliser un compte utilisateur valide découvert pour obtenir des informations, modifier le réseau ou réacheminer des données.	bts_sio::bloc3::attaques
-Qu'est-ce qu'une attaque par déni de service (DoS) ?	Surcharger ou provoquer la défaillance d'un réseau/système pour empêcher les utilisateurs autorisés d'y accéder.	bts_sio::bloc3::attaques
-Qu'est-ce qu'une attaque de l'homme-au-milieu (MiTM) ?	L'attaquant se positionne entre la source et la destination pour surveiller et contrôler les communications dynamiquement.	bts_sio::bloc3::attaques
-Qu'est-ce qu'une attaque par compromission des clés ?	L'attaquant s'approprie une clé secrète pour accéder à des communications sécurisées de manière indétectable.	bts_sio::bloc3::attaques
-Qu'est-ce qu'une attaque de renifleur (sniffer) ?	Utilisation d'une application pour lire et capturer les échanges de données non chiffrés sur le réseau.	bts_sio::bloc3::attaques
+Qu'est-ce qu'une ressource en cybersécurité ? ; Tout élément ayant de la valeur pour l'entreprise (données, serveurs, propriété intellectuelle, etc.).
+Quelle est la définition d'une menace ? ; Un danger potentiel pouvant compromettre une ressource ou le réseau.
+Qu'est-ce qu'une vulnérabilité ? ; Une faille dans un système ou sa conception susceptible d'être exploitée par une menace.
+Qu'est-ce que la surface d'exposition aux attaques ? ; La somme totale des vulnérabilités et des points d'entrée d'un système exploitables par un attaquant.
+Qu'est-ce qu'un exploit en cybersécurité ? ; Le mécanisme ou la technique utilisée pour tirer parti d'une vulnérabilité et compromettre une ressource.
+Quelle est la différence entre un exploit local et un exploit distant ? ; L'exploit distant attaque via le réseau sans accès préalable, l'exploit local nécessite des droits d'accès au système ciblé.
+Comment définir le risque en sécurité informatique ? ; La probabilité qu'une menace exploite une vulnérabilité précise, entraînant des conséquences néfastes.
+En quoi consiste l'acceptation des risques ? ; Ne prendre aucune mesure de protection car le coût de sécurisation est supérieur au coût du risque lui-même.
+En quoi consiste l'évitement des risques ? ; Éliminer totalement l'activité ou l'équipement vulnérable pour ne plus être exposé au danger.
+En quoi consiste la réduction des risques ? ; Prendre des mesures techniques ou organisationnelles pour diminuer l'exposition ou l'impact du risque (stratégie la plus courante).
+En quoi consiste le transfert des risques ? ; Déléguer tout ou partie du risque à un tiers, comme une compagnie d'assurance.
+Qu'est-ce qu'une contre-mesure ? ; Une action mise en place pour protéger des ressources en atténuant une menace ou un risque.
+Qu'est-ce que l'impact d'une cyberattaque ? ; L'ensemble des dommages potentiels ou réels causés à l'organisation par une menace.
+Qu'est-ce qu'un hacker chapeau noir (black-hat) ? ; Un cybercriminel qui attaque des systèmes illégalement à des fins personnelles, financières ou malveillantes.
+Qu'est-ce qu'un hacker chapeau blanc (white-hat) ? ; Un expert en cybersécurité (hacker éthique) qui teste légalement les systèmes avec l'accord de l'entreprise pour l'aider à se protéger.
+Qu'est-ce qu'un test de pénétration (pentest) ? ; Une simulation d'attaque autorisée par une organisation pour identifier et corriger ses propres failles de sécurité.
+Qu'est-ce qu'un hacker chapeau gris (gray-hat) ? ; Un hacker qui s'introduit illégalement dans des systèmes, mais sans intention malveillante (souvent pour alerter sur une faille).
+Qu'est-ce qu'une faille zero-day ? ; Une vulnérabilité de sécurité inédite, inconnue de l'éditeur et pour laquelle aucun correctif n'existe encore.
+Qu'est-ce qu'un Script Kiddie (hacker néophyte) ? ; Un attaquant inexpérimenté qui utilise des outils et scripts développés par d'autres pour faire des dégâts.
+Quel est le rôle d'un courtier de vulnérabilité ? ; Un hacker qui découvre des failles et les signale aux éditeurs en échange d'une récompense financière (Bug Bounty).
+Qu'est-ce qu'un hacktiviste ? ; Un pirate informatique qui mène des attaques (DDoS, fuites) pour défendre des convictions politiques ou sociales.
+Qu'est-ce qu'un cybercriminel ? ; Un attaquant (souvent organisé) motivé par le vol d'argent, de données ou de propriété intellectuelle.
+Qu'est-ce qu'un hacker dirigé par l'État ? ; Un attaquant financé par un gouvernement pour faire de l'espionnage stratégique, du vol de secrets ou du sabotage.
+À quoi sert un outil de piratage de mots de passe ? ; À découvrir un mot de passe en testant des combinaisons ou en cassant le chiffrement (ex: John the Ripper, Hydra).
+À quoi servent les outils de piratage sans fil ? ; À identifier et exploiter les failles de sécurité spécifiques aux réseaux Wi-Fi (ex: Aircrack-ng).
+Quel est le but d'un outil d'analyse réseau (scanner IP/Ports) ? ; Identifier les équipements actifs et les ports TCP/UDP ouverts sur un réseau (ex: Nmap).
+À quoi sert un outil de création de paquets ? ; À forger des paquets réseau sur mesure pour tester la robustesse des pare-feu (ex: Scapy, Hping).
+À quoi sert un analyseur de paquets (sniffer) ? ; À capturer et lire en temps réel les données qui circulent sur un réseau (ex: Wireshark).
+Quel est le rôle d'un détecteur de rootkit ? ; Vérifier l'intégrité des fichiers système pour repérer la présence de programmes malveillants dissimulés.
+À quoi sert un générateur de bruit (fuzzer) ? ; À envoyer massivement des données aléatoires pour provoquer des crashs et découvrir des vulnérabilités logicielles.
+Quel est le but des outils d'investigation (forensics) ? ; Analyser un système après une attaque pour récolter des preuves numériques de l'intrusion.
+Pourquoi utiliser un débogueur en cybersécurité ? ; Pour désassembler et analyser le code de malwares (white-hat) ou créer des exploits (black-hat).
+Cite un système d'exploitation spécialement conçu pour le hacking et le pentest. ; Kali Linux (ou Parrot OS, BackBox).
+À quoi servent les outils de chiffrement ? ; À encoder les données avec des algorithmes pour les rendre illisibles aux personnes non autorisées.
+Quel est le but d'un outil d'exploitation des vulnérabilités ? ; Automatiser et lancer une attaque contre un système dont on a prouvé la vulnérabilité (ex: Metasploit).
+À quoi sert un scanner de vulnérabilités ? ; À automatiser la recherche de failles connues et de défauts de configuration sur un parc informatique (ex: Nessus).
+En quoi consiste une attaque par interception ? ; L'attaquant écoute de manière passive et capture le trafic réseau sans le modifier.
+En quoi consiste une attaque par modification de données ? ; L'attaquant intercepte les paquets réseau, en altère le contenu, puis les transmet à l'insu des victimes.
+Qu'est-ce qu'une attaque par usurpation d'adresse IP (IP Spoofing) ? ; Créer des paquets réseau avec une fausse adresse IP source pour se faire passer pour un équipement légitime.
+Quelles sont les conséquences d'une attaque de mot de passe réussie ? ; L'obtention de privilèges permettant de voler, modifier ou supprimer des données réseau.
+Qu'est-ce qu'une attaque par déni de service (DoS) ? ; Une attaque visant à saturer ou faire planter un système pour empêcher les utilisateurs légitimes d'y accéder.
+Qu'est-ce qu'une attaque de l'homme-au-milieu (MiTM) ? ; L'attaquant s'insère secrètement entre deux communicants pour intercepter et éventuellement modifier leurs échanges en temps réel.
+Qu'est-ce qu'une attaque par compromission des clés ? ; Le vol d'une clé cryptographique secrète permettant de lire des communications censées être sécurisées.
+Qu'est-ce qu'une attaque de renifleur ? ; L'utilisation d'un logiciel pour capturer et lire le contenu de paquets réseau non chiffrés.
+Comment se protéger efficacement contre l'interception de paquets par un renifleur ? ; En chiffrant les communications pour rendre les données capturées illisibles.

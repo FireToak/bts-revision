@@ -1,55 +1,39 @@
-Qu'est-ce qu'un malware ?	Un logiciel ou du code créé pour endommager, perturber, voler ou effectuer une action illégitime sur des données, des hôtes ou des réseaux.	bts_sio::bloc3::malwares
-Comment se propage un virus informatique ?	Il se propage en insérant une copie de lui-même dans un autre programme et nécessite une intervention humaine pour proliférer.	bts_sio::bloc3::malwares
-Qu'est-ce qu'un cheval de Troie en cybersécurité ?	Un logiciel qui semble légitime mais contient du code malveillant exploitant les autorisations d'accès de l'utilisateur qui l'exécute.	bts_sio::bloc3::malwares
-Quel est le rôle d'un cheval de Troie d'accès distant ?	Il permet un accès distant non autorisé au système cible.	bts_sio::bloc3::malwares
-Quel est le but d'un cheval de Troie d'envoi de données ?	Il fournit à l'acteur de menace des données sensibles, telles que des mots de passe.	bts_sio::bloc3::malwares
-À quoi sert un cheval de Troie destructeur ?	Il endommage ou supprime des fichiers sur le système infecté.	bts_sio::bloc3::malwares
-Qu'est-ce qu'un cheval de Troie de type proxy ?	Il utilise l'ordinateur de la victime pour lancer des attaques et pratiquer d'autres activités illégales.	bts_sio::bloc3::malwares
-Quelle est la fonction d'un cheval de Troie FTP ?	Il permet le transfert non autorisé de fichiers sur les périphériques finaux.	bts_sio::bloc3::malwares
-Que fait un cheval de Troie de désactivation des logiciels de sécurité ?	Il empêche les logiciels antivirus ou les pare-feu de fonctionner.	bts_sio::bloc3::malwares
-Quel est l'impact d'un cheval de Troie de type déni de service (DoS) ?	Il ralentit ou interrompt l'activité du réseau de la cible.	bts_sio::bloc3::malwares
-Qu'est-ce qu'un enregistreur de frappe (keylogger) ?	Un outil qui tente de dérober des informations confidentielles en enregistrant les frappes de touches dans un formulaire web.	bts_sio::bloc3::malwares
-Qu'est-ce qu'un ver informatique ?	Un programme autonome qui se réplique et se propage de système en système en exploitant les vulnérabilités des réseaux sans intervention humaine.	bts_sio::bloc3::malwares
-En quoi consiste l'activation de la vulnérabilité par un ver ?	Le ver s'installe sur un système vulnérable en utilisant un mécanisme d'exploit, comme une pièce jointe ou un cheval de Troie.	bts_sio::bloc3::malwares
-En quoi consiste le mécanisme de propagation d'un ver ?	Une fois qu'il a accès à un appareil, le ver se reproduit et identifie de nouvelles cibles sur le réseau.	bts_sio::bloc3::malwares
-Qu'est-ce que la charge utile d'un ver informatique ?	C'est le code malveillant qui exécute une action, comme l'ouverture d'une porte dérobée ou le lancement d'une attaque DoS.	bts_sio::bloc3::malwares
-Qu'est-ce qu'un ransomware ?	Un malware qui bloque l'accès aux données ou au système en les chiffrant, exigeant une rançon (souvent en Bitcoin) contre leur nettoyage.	bts_sio::bloc3::malwares
-Qu'est-ce qu'un logiciel espion (spyware) ?	Un programme utilisé pour collecter des informations sur l'utilisateur sans son consentement et les envoyer vers une autre entité.	bts_sio::bloc3::malwares
-Qu'est-ce qu'un publiciel (adware) ?	Un malware qui affiche des fenêtres publicitaires intempestives, souvent ciblées selon les sites visités, pour générer des revenus.	bts_sio::bloc3::malwares
-Qu'est-ce qu'un scareware ?	Un logiciel utilisant l'ingénierie sociale pour choquer ou angoisser l'utilisateur avec une menace factice afin de l'inciter à infecter son ordinateur.	bts_sio::bloc3::malwares
-Quel est le but de l'hameçonnage (phishing) ?	Inciter les utilisateurs à divulguer des informations sensibles en se faisant passer pour une source légitime.	bts_sio::bloc3::malwares
-Qu'est-ce qu'un rootkit ?	Un outil s'intégrant à la racine d'un système pour rester dissimulé, masquer les éléments de l'infection et fournir un accès privilégié.	bts_sio::bloc3::malwares
-Qu'est-ce qu'une attaque de reconnaissance ?	La découverte et la cartographie non autorisées de systèmes, de services ou de vulnérabilités pour collecter des informations.	bts_sio::bloc3::attaques
-À quoi sert une requête d'informations dans une attaque de reconnaissance ?	À rechercher les premières informations sur une cible via des outils comme la recherche Google ou le whois.	bts_sio::bloc3::attaques
-Quel est le but d'un balayage ping sur un réseau cible ?	Déterminer quelles adresses IP sont actives sur le réseau.	bts_sio::bloc3::attaques
-Quel est l'objectif de l'analyse des ports ?	Déterminer quels ports ou services sont disponibles sur les adresses IP actives.	bts_sio::bloc3::attaques
-Quel est le rôle d'un scanner de vulnérabilité ?	Interroger les ports identifiés pour déterminer le type et la version de l'application et de l'OS sur l'hôte cible.	bts_sio::bloc3::attaques
-À quoi servent les outils d'exploitation dans une attaque de reconnaissance ?	À tenter de découvrir des services vulnérables précis qui peuvent être exploités par l'attaquant.	bts_sio::bloc3::attaques
-Quel est l'objectif d'une attaque par accès ?	Accéder à des comptes Web, des bases de données ou augmenter les privilèges d'accès au statut d'administrateur en exploitant des vulnérabilités.	bts_sio::bloc3::attaques
-Qu'est-ce qu'une attaque par usurpation ?	Le dispositif de l'attaquant tente de se faire passer pour un autre dispositif en falsifiant les données (IP, MAC, DHCP).	bts_sio::bloc3::attaques
-Qu'est-ce que l'ingénierie sociale ?	Une attaque d'accès visant à manipuler des individus pour effectuer des actions ou divulguer des informations confidentielles.	bts_sio::bloc3::ingenierie_sociale
-En quoi consiste l'attaque par prétexte ?	L'acteur de menace prétend avoir besoin de données personnelles ou financières pour confirmer l'identité de sa cible.	bts_sio::bloc3::ingenierie_sociale
-Qu'est-ce que l'hameçonnage ciblé (spear phishing) ?	Une attaque d'hameçonnage personnalisée et adaptée à un individu ou à une organisation spécifique.	bts_sio::bloc3::ingenierie_sociale
-Qu'est-ce qu'un spam (courrier indésirable) ?	Un e-mail non sollicité contenant souvent des liens malveillants, des malwares ou du contenu trompeur.	bts_sio::bloc3::ingenierie_sociale
-Qu'est-ce que l'attaque par contrepartie (Quid pro quo) ?	L'attaquant demande des informations personnelles à une victime en échange de quelque chose comme un cadeau.	bts_sio::bloc3::ingenierie_sociale
-En quoi consiste l'appâtage ?	Un attaquant laisse un lecteur flash infecté dans un lieu public pour qu'une victime l'insère et installe involontairement un malware.	bts_sio::bloc3::ingenierie_sociale
-Qu'est-ce que l'attaque par usurpation d'identité humaine ?	L'acteur de menace prétend être quelqu'un d'autre pour gagner la confiance de la victime.	bts_sio::bloc3::ingenierie_sociale
-Qu'est-ce que l'accès non autorisé physique (tailgating) ?	L'acteur de menace suit rapidement une personne autorisée pour accéder à une zone sécurisée.	bts_sio::bloc3::ingenierie_sociale
-En quoi consiste l'espionnage par-dessus l'épaule ?	L'acteur de menace regarde discrètement par-dessus l'épaule d'une personne pour voler ses mots de passe ou d'autres informations.	bts_sio::bloc3::ingenierie_sociale
-En quoi consiste la fouille de poubelles ?	L'acteur de menace fouille dans les poubelles pour découvrir des documents confidentiels.	bts_sio::bloc3::ingenierie_sociale
-Quels sont les deux principaux types d'attaques par déni de service (DoS) ?	L'envoi d'une quantité de trafic écrasante et l'envoi de paquets formatés de manière malveillante.	bts_sio::bloc3::attaques
-Qu'est-ce qu'une attaque DDoS ?	Une attaque par déni de service distribuée provenant de plusieurs sources coordonnées, formant généralement un réseau de zombies.	bts_sio::bloc3::attaques
-Que sont les zombies (ou bots) dans une attaque DDoS ?	Un groupe d'hôtes compromis exécutant du code malveillant conçu pour se propager et communiquer avec un système gestionnaire.	bts_sio::bloc3::attaques
-Qu'est-ce qu'un botnet ?	Un réseau de zombies infectés par un logiciel malveillant (les bots) et contrôlés par des gestionnaires.	bts_sio::bloc3::attaques
-Quel est le rôle des gestionnaires (C2/CnC) dans un botnet ?	Ce sont des serveurs maîtres de type commande et contrôle permettant de contrôler les groupes de zombies à distance.	bts_sio::bloc3::attaques
-Qu'est-ce qu'un Botmaster ?	Un acteur de menace qui a le contrôle du botnet et de ses serveurs gestionnaires.	bts_sio::bloc3::attaques
-Quel est l'objectif d'une attaque DoS par dépassement de mémoire tampon ?	Saturer la mémoire tampon par l'envoi massif de valeurs inattendues afin de corrompre le système et entraîner une défaillance.	bts_sio::bloc3::attaques
-Qu'était l'attaque du « Ping de la mort » ?	Une attaque exploitant une requête d'écho IP dont la taille dépassait le maximum autorisé (65 535 octets), provoquant le plantage de l'hôte.	bts_sio::bloc3::attaques
-En quoi consiste la technique de chiffrement et tunnellisation pour dissimuler une menace ?	Masquer les données volées à l'intérieur de paquets légitimes ou brouiller les fichiers malveillants pour échapper à la détection.	bts_sio::bloc3::dissimulation
-Comment fonctionne l'évasion par épuisement des ressources ?	Elle surcharge l'hôte cible pour qu'il soit trop occupé pour appliquer correctement les techniques de détection des menaces.	bts_sio::bloc3::dissimulation
-Qu'est-ce que la fragmentation du trafic en dissimulation ?	Fractionner une charge utile malveillante en paquets plus petits pour contourner l'IPS, avant que le malware ne se reconstruise.	bts_sio::bloc3::dissimulation
-En quoi consiste la mauvaise interprétation au niveau du protocole ?	Exploiter la mauvaise gestion d'une unité de données (comme la somme de contrôle) par un pare-feu pour qu'il ignore des paquets malveillants.	bts_sio::bloc3::dissimulation
-Qu'est-ce que la substitution du trafic pour tromper un IPS ?	Brouiller les données dans la charge utile (ex: encodage Unicode plutôt qu'ASCII) pour que l'IPS soit incapable de les interpréter.	bts_sio::bloc3::dissimulation
-Comment fonctionne l'insertion de trafic ?	L'attaquant insère des octets supplémentaires dans une séquence malveillante afin que l'IPS valide la séquence totale sans identifier la menace.	bts_sio::bloc3::dissimulation
-Qu'est-ce qu'un pivot en cybersécurité ?	L'utilisation d'un hôte déjà compromis dans le réseau cible pour étendre l'accès de l'attaquant au sein de ce même réseau.	bts_sio::bloc3::dissimulation
-À quoi sert l'utilisation de proxies dans la dissimulation d'une attaque ?	À rediriger le trafic réseau pour masquer la destination ultime des données volées ou le serveur de commande et contrôle.	bts_sio::bloc3::dissimulation
+Qu'est-ce qu'un malware ? ; Un logiciel malveillant conçu pour endommager, perturber ou voler des données sur un système.
+De quels mots provient le terme "malware" ? ; De la contraction des mots anglais "malicious" et "software".
+Qu'est-ce qu'un virus informatique ? ; Un programme malveillant qui s'insère dans un autre programme et nécessite une action humaine pour proliférer.
+Quelle est la différence fondamentale entre un virus et un ver (worm) ? ; Le virus nécessite une intervention humaine pour se propager, tandis que le ver est autonome.
+Qu'est-ce qu'un cheval de Troie ? ; Un logiciel malveillant qui se dissimule sous l'apparence d'un programme légitime pour s'installer à l'insu de l'utilisateur.
+Quel est le but d'un cheval de Troie de type "Keylogger" ? ; Enregistrer les frappes au clavier de la victime pour voler des informations confidentielles comme des mots de passe.
+Quel est l'objectif d'un cheval de Troie de type "Proxy" ? ; Utiliser l'ordinateur de la victime pour lancer d'autres attaques et masquer ses activités illégales.
+Qu'est-ce qu'un ver (worm) en cybersécurité ? ; Un malware autonome qui exploite les vulnérabilités réseau pour se répliquer et se propager à grande vitesse.
+Quelles sont les trois composantes d'une attaque par un ver ? ; L'activation de la vulnérabilité, le mécanisme de propagation, et la charge utile (payload).
+Dans un malware, qu'est-ce que la "charge utile" (payload) ? ; Le code malveillant qui exécute l'action concrète, comme ouvrir une porte dérobée ou lancer une attaque.
+Qu'est-ce qu'un ransomware (rançongiciel) ? ; Un malware qui chiffre les données ou bloque le système de la victime, exigeant un paiement pour en restituer l'accès.
+Pourquoi les rançons des ransomwares sont-elles généralement demandées en Bitcoin ? ; Car c'est une cryptomonnaie sans autorité centrale qui permet aux cybercriminels de rester anonymes.
+Qu'est-ce qu'un logiciel espion (spyware) ? ; Un programme qui collecte silencieusement des informations sur l'utilisateur pour les transmettre à un tiers.
+Qu'est-ce qu'un publiciel (adware) ? ; Un programme qui génère des revenus en affichant des publicités intempestives, souvent ciblées selon l'historique de l'utilisateur.
+Qu'est-ce qu'un scareware ? ; Un logiciel utilisant l'ingénierie sociale pour simuler une fausse menace informatique et effrayer l'utilisateur afin qu'il infecte sa propre machine.
+Quelles sont les trois grandes catégories d'attaques réseau ? ; Les attaques de reconnaissance, les attaques par accès, et les attaques par déni de service (DoS).
+Quel est le but d'une attaque de reconnaissance ? ; Collecter des informations pour cartographier le réseau cible et identifier ses vulnérabilités avant d'attaquer.
+En reconnaissance réseau, à quoi sert un "balayage ping" ? ; À déterminer quelles adresses IP sont actives et répondent sur le réseau de la cible.
+En reconnaissance réseau, à quoi sert l'analyse des ports (ex: Nmap) ? ; À identifier les ports ouverts et les services disponibles sur une adresse IP active.
+Quel est l'objectif d'une attaque par accès ? ; Exploiter une faille pour s'introduire dans des comptes, lire des données confidentielles ou obtenir des droits d'administrateur.
+Qu'est-ce que l'usurpation d'identité réseau (Spoofing) ? ; Une attaque où un appareil falsifie ses données (comme l'IP ou l'adresse MAC) pour se faire passer pour un autre équipement légitime.
+Qu'est-ce que l'ingénierie sociale ? ; La manipulation psychologique d'individus pour les inciter à réaliser des actions compromettantes ou divulguer des données confidentielles.
+Qu'est-ce que l'hameçonnage (Phishing) ? ; Un e-mail frauduleux imitant une organisation de confiance pour voler des identifiants ou faire installer un malware.
+Quelle est la différence entre le Phishing classique et le Spear Phishing (hameçonnage ciblé) ? ; Le Spear Phishing est une attaque sur mesure conçue spécifiquement pour viser un individu ou une entreprise précise.
+Qu'est-ce que la technique de l'appâtage (Baiting) en ingénierie sociale ? ; Abandonner un support infecté (comme une clé USB) dans un lieu public pour qu'une victime le branche sur son ordinateur.
+Qu'est-ce que l'accès non autorisé physique (Tailgating) ? ; Suivre de très près une personne badgée pour pénétrer illégitimement dans une zone sécurisée.
+Qu'est-ce que l'espionnage par-dessus l'épaule (Shoulder surfing) ? ; Regarder discrètement l'écran ou le clavier d'une personne pour lui voler ses mots de passe.
+Qu'est-ce qu'une attaque DoS (Déni de service) ? ; Une attaque visant à saturer ou faire planter un système, rendant le réseau ou l'application indisponible pour les utilisateurs légitimes.
+Quelles sont les deux méthodes principales pour causer un DoS ? ; Envoyer une quantité de trafic écrasante, ou envoyer des paquets de données malveillants/mal formatés.
+Quelle est la différence entre une attaque DoS et DDoS ? ; Le DDoS (Distribué) est lancé depuis de multiples sources coordonnées (souvent un botnet) pour décupler la puissance de l'attaque.
+Dans le contexte d'un DDoS, qu'est-ce qu'un zombie ? ; Un ordinateur compromis par un malware qui exécute aveuglément les ordres d'un attaquant.
+Qu'est-ce qu'un botnet ? ; Un réseau de machines zombies infectées et contrôlées à distance par un cybercriminel.
+Quel est le rôle d'un serveur gestionnaire (C2 / Command and Control) ? ; Contrôler à distance le réseau de zombies pour leur donner l'ordre de déclencher une attaque DDoS.
+Qu'est-ce qu'une attaque par dépassement de mémoire tampon (Buffer overflow) ? ; Envoyer un volume de données supérieur à la capacité de la mémoire de l'application pour provoquer un plantage ou la corruption du système.
+Quel est l'objectif des méthodes d'évasion et de dissimulation en cybersécurité ? ; Masquer la présence des malwares pour éviter qu'ils ne soient détectés et bloqués par les systèmes de sécurité.
+En quoi consiste la fragmentation du trafic comme technique d'évasion ? ; Découper la charge malveillante en très petits paquets pour passer inaperçu, puis reconstituer le malware sur l'hôte cible.
+Qu'est-ce que la substitution de trafic pour leurrer un pare-feu ou un IPS ? ; Encoder les données malveillantes (ex: en format Unicode) pour empêcher l'IPS de les lire, alors que la cible les comprendra.
+En cybersécurité, qu'est-ce que la technique du "Pivot" ? ; Utiliser une première machine compromise dans le réseau comme point d'ancrage pour attaquer d'autres ordinateurs internes.
+Qu'est-ce qu'un Rootkit ? ; Un outil malveillant complexe, installé au niveau le plus profond du système d'exploitation, permettant de masquer toutes les traces d'infection ou de piratage.

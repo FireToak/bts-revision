@@ -1,0 +1,24 @@
+Quel est le risque majeur d'utiliser un annuaire de clés publiques sans certificat ? ; Un pirate peut remplacer une clé publique par la sienne pour déchiffrer illicitement les messages.
+À quoi sert un certificat numérique ? ; Il associe de manière sécurisée une clé publique à une entité pour en garantir l'identité et la validité.
+Qu'est-ce qu'une Autorité de Certification (CA) ? ; C'est l'organisme tiers de confiance chargé de délivrer, dater et révoquer les certificats numériques.
+Quelles sont les deux versions actuelles recommandées pour le protocole TLS ? ; Les versions TLS 1.2 et TLS 1.3.
+Quels sont les trois éléments fondamentaux que contient un certificat électronique ? ; Une clé publique, des informations d'identification (nom, email...) et la signature de l'autorité.
+Quel standard international normalise la structure des certificats électroniques ? ; Le standard X.509 (principalement utilisé en version v3).
+Quelles sont les principales informations contenues dans la structure standardisée d'un certificat X.509 ? ; Version, numéro de série, algorithme de chiffrement, nom de la CA, dates de validité et clé publique.
+Quelle est la durée de validité maximale d'un certificat TLS public émis depuis mars 2026 ? ; 200 jours (avec une réduction prévue à 100 jours en 2027 puis 47 jours en 2029).
+Comment l'Autorité de Certification signe-t-elle concrètement un certificat ? ; Elle génère une empreinte (haché) des informations du certificat, puis la chiffre avec sa propre clé privée.
+Comment un utilisateur vérifie-t-il la validité de la signature d'un certificat reçu ? ; Il hache les informations du certificat, déchiffre la signature avec la clé publique de la CA, puis compare les deux résultats.
+Qu'est-ce qu'un certificat auto-signé ? ; Un certificat signé par un serveur local, destiné à garantir la confidentialité en usage interne (intranet).
+Pourquoi est-il indispensable d'utiliser un certificat signé par un organisme tiers sur Internet ? ; Pour certifier l'identité de l'organisation auprès d'utilisateurs publics et anonymes (ex: site web grand public).
+Que signifie l'acronyme PKI ? ; Public Key Infrastructure (ou Infrastructure de gestion de clés).
+Quel est le rôle principal d'une infrastructure PKI ? ; Délivrer des certificats numériques et gérer tout leur cycle de vie en s'appuyant sur la cryptographie asymétrique.
+Quelles sont les deux grandes familles d'usage d'un certificat numérique ? ; Le certificat de signature (authentification de documents) et le certificat de chiffrement (confidentialité des messages).
+Quels sont les 5 composants fondamentaux d'une infrastructure PKI ? ; Autorité de certification (AC), autorité d'enregistrement (AE), autorité de dépôt, entité finale et autorité de séquestre.
+Dans une PKI, quel est le rôle spécifique de l'Autorité de Certification (AC) ? ; Elle valide les demandes de certificats, les signe numériquement et gère les listes de révocation.
+Dans une PKI, quel est le rôle de l'Autorité d'Enregistrement (AE / RA) ? ; Elle vérifie l'identité du demandeur, crée les certificats nominatifs et génère les paires de clés.
+Dans une PKI, à quoi sert l'Autorité de Dépôt (Repository) ? ; Elle est chargée de stocker les certificats numériques valides et les listes de révocation (CRL).
+Dans une PKI, quel est le rôle de l'Autorité de Séquestre (Key Escrow) ? ; Elle stocke et sécurise les clés privées de chiffrement afin de pouvoir les restaurer en cas de perte.
+Qu'appelle-t-on une "Entité Finale" (End Entity) dans une PKI ? ; C'est l'utilisateur final ou la machine qui détient et utilise le certificat numérique.
+Que signifie le sigle CSR lors d'une demande de création de certificat ? ; Certificate Signing Request (Demande de signature de certificat).
+Lors de la création d'un certificat dans une PKI, qui se charge de générer la paire de clés du client ? ; C'est l'Autorité d'Enregistrement (AE / RA).
+Qu'est-ce qu'une CRL gérée par l'Autorité de Certification ? ; Une Certificate Revocation List (Liste contenant les certificats révoqués avant leur date d'expiration).

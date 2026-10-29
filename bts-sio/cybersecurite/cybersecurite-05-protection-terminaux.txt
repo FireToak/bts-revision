@@ -1,0 +1,23 @@
+Qu'est-ce qu'un point de terminaison (endpoint) sur un réseau ? ; C'est tout périphérique (PC, imprimante, serveur) qui communique avec un autre périphérique sur le réseau.
+Pourquoi l'utilisation d'un VPN ne suffit-elle pas à sécuriser totalement un télétravailleur ? ; Le VPN sécurise uniquement le canal de communication, mais ne garantit pas que le terminal distant est sain ou correctement configuré.
+Quels sont les deux éléments internes majeurs d'un réseau local qui doivent être sécurisés ? ; Les points d'extrémité (hôtes) et l'infrastructure de réseau (commutateurs, bornes Wi-Fi, etc.).
+Quelles sont les couches de protection recommandées pour sécuriser un terminal ? ; Le durcissement, les mises à jour, l'antimalware, le pare-feu, le contrôle des applications, le chiffrement, l'authentification renforcée et la supervision.
+Qu'est-ce qu'une plateforme EPP (Endpoint Protection Platform) ? ; C'est une solution de sécurité regroupant des mécanismes préventifs (antivirus, heuristique, comportemental) pour protéger les terminaux.
+Comment fonctionne l'approche antimalware basée sur les signatures ? ; Elle identifie les menaces en reconnaissant les caractéristiques exactes de fichiers malveillants déjà connus.
+Qu'est-ce que l'approche antimalware heuristique ? ; Elle détecte les menaces en identifiant des caractéristiques générales partagées par divers types de malwares.
+Pourquoi la détection par signatures est-elle insuffisante aujourd'hui ? ; Elle est inefficace contre les malwares polymorphes, les nouvelles menaces et les attaques zero-day.
+Quel est le rôle d'un pare-feu d'hôte ? ; Il contrôle les paquets réseau entrants et sortants d'un ordinateur spécifique selon un ensemble de règles ou de profils.
+Quels sont les deux exemples de pare-feu d'hôte sous Linux mentionnés dans le cours ? ; Iptables et son successeur nftables.
+Que signifie HIDS et quelle est sa fonction ? ; Host-based Intrusion Detection System : il surveille l'activité d'un hôte (journaux, processus, intégrité) pour détecter des anomalies.
+Quelle est la principale différence entre un EDR et un simple antivirus/HIDS ? ; L'EDR surveille en continu pour détecter les comportements suspects et offre des capacités actives de réponse (isolation, mise en quarantaine).
+Que signifie XDR (Extended Detection and Response) ? ; C'est une solution qui étend la détection et la réponse en croisant les données de multiples sources (terminaux, réseau, cloud, messagerie).
+Comment fonctionne un système de détection basé sur les anomalies ? ; Il compare l'activité en cours avec un modèle de comportement de référence et alerte en cas d'écart important.
+Qu'est-ce que la surface d'exposition aux attaques ? ; C'est l'ensemble des vulnérabilités d'un système (ports ouverts, logiciels, utilisateurs) qu'un pirate pourrait exploiter.
+Quelle est la différence entre une liste d'autorisation (allowlist) et une liste de blocage (blocklist) ? ; La liste d'autorisation n'autorise que les applications explicitement approuvées (très stricte), tandis que la liste de blocage n'interdit que les logiciels connus comme dangereux.
+En quoi consiste le durcissement (hardening) d'un terminal ? ; C'est l'action de désactiver les services inutiles, de limiter les privilèges des utilisateurs et d'appliquer les correctifs de sécurité.
+Quel outil intégré à Windows permet de chiffrer complètement un disque dur ? ; BitLocker (qui peut s'appuyer sur la puce TPM).
+À quoi sert la technologie Secure Boot (Démarrage sécurisé) ? ; Elle protège la chaîne de démarrage en empêchant le chargement de composants de démarrage non approuvés.
+Qu'est-ce que le TPM (Trusted Platform Module) ? ; C'est une puce matérielle sécurisée utilisée pour protéger les secrets cryptographiques d'un ordinateur.
+Pourquoi l'utilisation d'un système d'exploitation en fin de support (fin de vie) est-elle dangereuse ? ; Car il ne reçoit plus de correctifs de sécurité, le laissant vulnérable aux nouvelles failles découvertes.
+À quelle date le support standard de Windows 10 a-t-il pris fin ? ; Le 14 octobre 2025.
+Quel est l'intérêt de centraliser les événements de sécurité dans un SIEM avec un EDR ? ; Cela permet d'obtenir une vision globale du parc, de corréler les alertes et d'orchestrer une réponse rapide en cas d'incident.

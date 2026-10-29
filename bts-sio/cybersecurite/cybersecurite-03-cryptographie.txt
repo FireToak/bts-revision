@@ -1,0 +1,34 @@
+Quels sont les 4 éléments des communications sécurisées ? ; Intégrité, authentification d'origine, confidentialité et non-répudiation.
+À quoi sert l'intégrité des données ? ; À garantir qu'un message n'a pas été modifié lors de son transit.
+Qu'est-ce que l'authentification d'origine ? ; La garantie que le message n'est pas falsifié et provient du bon expéditeur.
+Qu'est-ce que la confidentialité des données ? ; L'assurance que seuls les utilisateurs autorisés peuvent lire le message.
+Qu'est-ce que la non-répudiation ? ; La preuve empêchant un expéditeur de nier l'envoi ou la validité d'un message.
+Qu'est-ce qu'une fonction de hachage ? ; Une fonction mathématique unidirectionnelle facile à calculer mais presque impossible à inverser.
+Comment appelle-t-on le résultat d'un hachage ? ; Un condensé de message ou une empreinte numérique (de longueur fixe).
+À quoi servent les valeurs de hash cryptographiques ? ; À détecter les modifications, les doublons ou la corruption de données.
+Pourquoi l'algorithme MD5 doit-il être évité ? ; Car il produit un condensé de 128 bits obsolète, non sécurisé et vulnérable.
+Pourquoi l'algorithme SHA-1 est-il déconseillé ? ; C'est un algorithme hérité de 160 bits avec des défauts connus, non conforme pour l'ANSSI.
+Quels sont les algorithmes de hachage recommandés actuellement ? ; Les familles SHA-2 (ex: SHA-256, 384, 512) et SHA-3 (nouvelle génération).
+Pourquoi le hachage simple est-il vulnérable aux attaques Man-in-the-Middle (MitM) ? ; Car un pirate peut intercepter le message, le modifier et recalculer un nouveau hash valide.
+Comment assurer l'authentification d'origine et l'intégrité face au MitM ? ; En utilisant un code d'authentification de message HMAC.
+Qu'est-ce qu'un HMAC ? ; Une fonction de hachage cryptographique combinée à une clé secrète supplémentaire.
+Pourquoi le HMAC est-il sécurisé contre les attaques MitM ? ; Car seuls l'expéditeur et le récepteur possèdent la clé secrète nécessaire pour calculer ou vérifier l'empreinte.
+Quels protocoles utilisent couramment le HMAC ? ; SSL, IPsec, SSH et le routage OSPF.
+Quelles sont les deux classes d'algorithmes de chiffrement ? ; Symétrique et asymétrique.
+Comment fonctionne le chiffrement symétrique ? ; Il utilise la même clé prépartagée (secrète) pour chiffrer et déchiffrer les données.
+Quels sont les avantages du chiffrement symétrique ? ; Il est très rapide et consomme peu de ressources CPU, ce qui est idéal pour les VPN.
+Quelle est la longueur de clé recommandée en chiffrement symétrique ? ; Un minimum de 128 bits pour être sécurisé.
+Quel algorithme de chiffrement symétrique est la référence actuelle ? ; L'algorithme AES (avec des clés de 128, 192 ou 256 bits).
+Quels algorithmes symétriques sont obsolètes ou à éviter ? ; Les algorithmes DES et 3DES.
+Comment fonctionne le chiffrement asymétrique ? ; Il utilise une paire de clés mathématiquement liées : une clé publique et une clé privée.
+Quelle est la longueur de clé fiable en chiffrement asymétrique ? ; Une longueur supérieure ou égale à 2048 bits (1024 bits ou moins étant insuffisant).
+Quels sont les inconvénients du chiffrement asymétrique ? ; Il nécessite de très longues clés et est considérablement plus lent que le symétrique.
+Quels protocoles réseau utilisent le chiffrement asymétrique ? ; IKE (composant VPN IPsec), SSL/TLS, SSH et PGP.
+À quoi sert l'algorithme asymétrique Diffie-Hellman (DH) ? ; À permettre à deux parties de s'entendre de façon sécurisée sur une clé cryptographique partagée.
+À quoi sert l'algorithme asymétrique RSA ? ; Au chiffrement et à la création de signatures numériques, notamment dans l'e-commerce.
+Quelle combinaison de clés garantit la confidentialité en asymétrique ? ; Chiffrer le message avec la clé publique du destinataire, qui seul pourra le déchiffrer avec sa clé privée.
+Quelle combinaison de clés garantit l'authentification en asymétrique ? ; Chiffrer avec la clé privée de l'expéditeur, de sorte que toute personne utilisant sa clé publique puisse vérifier son identité.
+Comment assurer à la fois l'intégrité, l'authentification et la confidentialité d'un message ? ; En chiffrant le message avec la clé publique (confidentialité) et en signant son hash avec la clé privée (intégrité/authentification).
+Quelles sont les deux étapes réalisées par l'expéditeur pour créer une signature numérique ? ; Générer l'empreinte (hash) du document, puis la chiffrer avec sa propre clé privée.
+Comment vérifier l'identité de l'expéditeur d'une signature numérique ? ; En réussissant à déchiffrer la signature à l'aide de la clé publique de l'expéditeur.
+Comment le destinataire valide-t-il l'intégrité d'un document signé numériquement ? ; Il compare l'empreinte qu'il a déchiffrée avec la nouvelle empreinte qu'il recalcule lui-même à partir du document reçu.

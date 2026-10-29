@@ -1,0 +1,47 @@
+Quelles sont les 4 causes de perte de données nécessitant une sauvegarde ? ; Pannes, erreurs humaines, malveillance (ransomware) et sinistres.
+
+Quels sont les deux enjeux majeurs de la mise en place de sauvegardes ? ; Assurer la continuité de l'activité de l'entreprise et respecter les obligations légales (comme le RGPD).
+
+Qu'est-ce que le RPO (Recovery Point Objective) ? ; L'indicateur qui détermine la quantité de données que l'on accepte de perdre, ce qui fixe la fréquence des sauvegardes.
+
+Qu'est-ce que le RTO (Recovery Time Objective) ? ; L'indicateur qui fixe le temps maximum acceptable d'indisponibilité d'un service.
+
+De quels éléments dépend le calcul du RTO ? ; Du volume de données à restaurer, du débit réel, du temps d'installation et de vérification.
+
+Qu'est-ce qu'une sauvegarde complète ? ; Une copie intégrale de toutes les données du système.
+
+Quels sont l'avantage et l'inconvénient d'une sauvegarde complète ? ; La restauration est très simple et rapide, mais l'espace de stockage utilisé est élevé.
+
+Qu'est-ce qu'une sauvegarde différentielle ? ; La sauvegarde de toutes les modifications effectuées depuis la dernière sauvegarde complète.
+
+Comment s'effectue la restauration d'une sauvegarde différentielle (formule) ? ; Restauration = Sauvegarde Complète + Dernière Sauvegarde Différentielle.
+
+Qu'est-ce qu'une sauvegarde incrémentale ? ; La sauvegarde des seuls changements survenus depuis la toute dernière sauvegarde effectuée (qu'elle soit complète ou incrémentale).
+
+Comment s'effectue la restauration d'une sauvegarde incrémentale (formule) ? ; Restauration = Sauvegarde Complète + Somme de toute la chaîne d'incrémentales.
+
+Quel est l'avantage principal de la sauvegarde incrémentale par rapport aux autres méthodes ? ; L'espace de stockage utilisé au quotidien est très faible.
+
+Quelles sont les vulnérabilités d'un NAS pour la sauvegarde ? ; Il se trouve souvent sur le même site physique et reste vulnérable aux ransomwares s'il est accessible via un poste infecté.
+
+Pourquoi utiliser des bandes magnétiques pour ses sauvegardes ? ; Pour bénéficier d'une très grande capacité à faible coût et de la possibilité de stockage déconnecté (hors ligne).
+
+Quels sont les trois points de vigilance lors d'une sauvegarde dans le Cloud ? ; Le débit de restauration (dépendant de la connexion), le coût récurrent et le respect de la localisation des données pour le RGPD.
+
+Qu'est-ce que la règle de sauvegarde 3-2-1 ? ; Disposer de 3 copies de ses données, stockées sur 2 supports différents, dont au moins 1 copie hors site.
+
+Pourquoi utiliser des comptes distincts pour l'administration serveur et la sauvegarde ? ; Pour éviter qu'un pirate ayant compromis le serveur ne puisse aussi effacer les sauvegardes avec les mêmes accès.
+
+Pourquoi faut-il toujours conserver une copie déconnectée du réseau ? ; Pour empêcher toute modification ou destruction par un ransomware (chiffrement malveillant).
+
+Quelles sont les premières étapes pour élaborer un plan de sauvegarde efficace ? ; Inventorier les données, les classer selon leur criticité, puis définir le RPO et le RTO pour chaque service.
+
+Pourquoi faut-il absolument gérer la politique de rétention des sauvegardes ? ; Pour éviter que l'espace de stockage ne se remplisse entièrement, ce qui bloquerait les sauvegardes suivantes.
+
+Quel risque prend-on à ne pas superviser activement ses sauvegardes ? ; Une tâche planifiée peut échouer silencieusement pendant des mois sans que l'on s'en aperçoive.
+
+Pourquoi documenter de manière exhaustive les procédures de restauration ? ; Pour qu'une autre personne puisse restaurer le système si l'administrateur habituel est absent le jour de l'incident.
+
+Quels éléments indispensables sont souvent oubliés lors de la configuration des sauvegardes ? ; Les fichiers de configuration, les clés de chiffrement et les bases de données.
+
+Qu'est-ce qu'il ne faut jamais omettre de faire après la mise en place d'un système de sauvegarde ? ; Tester régulièrement le bon fonctionnement de la procédure de restauration.

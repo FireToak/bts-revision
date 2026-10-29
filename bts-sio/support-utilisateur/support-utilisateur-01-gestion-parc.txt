@@ -1,0 +1,95 @@
+Qu'est-ce que la gestion de parc informatique ? ; L'ensemble des processus et outils pour recenser, suivre, maintenir et optimiser le cycle de vie des équipements matériels et logiciels.
+
+Quels sont les 3 principaux enjeux de la gestion de parc informatique ? ; 1. La maîtrise des coûts (TCO), 2. La sécurité et la conformité, 3. La continuité de service et la productivité.
+
+Comment la gestion de parc aide-t-elle à la maîtrise des coûts ? ; En évitant les achats inutiles, en prolongeant la durée de vie du matériel et en rationalisant les licences.
+
+Pourquoi la sécurité est-elle un enjeu majeur de la gestion de parc ? ; Pour garantir les mises à jour, réduire la surface d'attaque et respecter les réglementations (comme le RGPD).
+
+En quoi la gestion de parc améliore-t-elle la continuité de service ? ; En assurant un suivi préventif limitant les pannes et en accélérant la résolution des incidents.
+
+Quelles sont les 3 catégories d'éléments gérés dans un parc informatique ? ; Le matériel, les logiciels et les équipements réseau.
+
+Donne 2 exemples de matériel géré dans un parc. ; Les ordinateurs portables et les imprimantes réseau.
+
+Donne 2 exemples de logiciels gérés dans un parc. ; Les systèmes d'exploitation (ex: Windows 11) et les suites bureautiques (ex: Microsoft 365).
+
+Donne 2 exemples d'équipements réseau gérés dans un parc. ; Les switchs et les points d'accès Wi-Fi.
+
+Quelles sont les 4 grandes étapes du cycle de vie d'un équipement informatique ? ; 1. Achat, 2. Déploiement, 3. Maintenance/Exploitation, 4. Renouvellement ou mise au rebut.
+
+Que comprend l'étape "Achat" du cycle de vie d'un équipement ? ; La définition du besoin, la sélection du matériel et l'acquisition.
+
+Que comprend l'étape "Déploiement" du cycle de vie d'un équipement ? ; La réception, la configuration, l'installation des logiciels et la mise en service.
+
+Que comprend l'étape "Maintenance et exploitation" du cycle de vie ? ; Le suivi quotidien, les mises à jour, les réparations et la gestion des incidents.
+
+Que comprend l'étape "Renouvellement ou mise au rebut" du cycle de vie ? ; Le remplacement de l'équipement obsolète ou son recyclage sécurisé (effacement des données, gestion des déchets).
+
+Que signifie le sigle TCO ? ; Total Cost of Ownership (Coût Total de Possession).
+
+Qu'est-ce que le TCO ? ; Une méthode d'évaluation financière calculant le coût réel d'un actif sur tout son cycle de vie (prix d'achat + coûts cachés/indirects).
+
+Pourquoi calculer le TCO est-il utile pour une entreprise ? ; Pour prendre des décisions d'achat éclairées, optimiser le budget IT et comparer des scénarios (achat, location, cloud).
+
+Quelle est la différence entre un inventaire manuel et automatique ? ; L'inventaire manuel repose sur la saisie humaine, tandis que l'automatique utilise des agents logiciels ou scans réseau.
+
+Quel est le principal avantage de l'inventaire manuel ? ; Il permet de vérifier l'état physique réel du matériel et de localiser des équipements hors réseau.
+
+Quelle est la principale limite de l'inventaire manuel ? ; Il est très chronophage, sujet aux erreurs de saisie et devient rapidement obsolète.
+
+Quel est le principal avantage de l'inventaire automatique ? ; Il fournit des données techniques précises et mises à jour en temps réel avec un minimum d'intervention humaine.
+
+Quelle est la principale limite de l'inventaire automatique ? ; Il présente un risque de sécurité si l'agent de collecte possède une vulnérabilité.
+
+Que signifie le sigle CMDB ? ; Configuration Management Database (Base de données de gestion des configurations).
+
+Qu'est-ce qu'une CMDB ? ; Une base de données centralisant tous les éléments de configuration (CI) du SI et leurs relations techniques.
+
+Quelle est la différence entre un inventaire classique et une CMDB ? ; L'inventaire liste les objets, la CMDB enregistre en plus les relations et dépendances entre ces éléments.
+
+Que signifie le sigle ITIL ? ; Information Technology Infrastructure Library.
+
+Quel est l'objectif du référentiel ITIL ? ; Standardiser les bonnes pratiques pour la gestion des services informatiques (ITSM).
+
+Quelle est l'idée centrale défendue par ITIL ? ; Considérer l'informatique comme un fournisseur de services générant de la valeur, et non comme un simple centre de coûts.
+
+Quelles sont les 5 phases du cycle de vie des services selon ITIL v3 ? ; 1. Stratégie, 2. Conception, 3. Transition, 4. Exploitation, 5. Amélioration continue.
+
+Quel est le rôle de la phase "Stratégie des services" (ITIL) ? ; Définir le marché cible et la valeur métier que les services informatiques doivent apporter.
+
+Quel est le rôle de la phase "Conception des services" (ITIL) ? ; Transformer la stratégie en architectures, processus et politiques techniques prêts à être déployés.
+
+Quel est le rôle de la phase "Transition des services" (ITIL) ? ; Gérer le passage en production des nouveaux services (tests, déploiement, formation) sans perturber l'existant.
+
+Quel est le rôle de la phase "Exploitation des services" (ITIL) ? ; Assurer la livraison quotidienne, la gestion des incidents et le support utilisateur.
+
+Quel est le rôle de la phase "Amélioration continue des services" (ITIL) ? ; Analyser les performances en permanence pour optimiser chaque étape du cycle de vie.
+
+Quel est l'objectif du processus de "Gestion des configurations" ? ; Maintenir une information fiable sur tous les éléments du parc et leurs relations dans la CMDB.
+
+Quel est l'objectif du processus de "Gestion des incidents" ? ; Rétablir le service le plus rapidement possible après une interruption ou une baisse de qualité.
+
+Quel est l'objectif du processus de "Gestion des problèmes" ? ; Identifier et éliminer la cause racine des dysfonctionnements récurrents pour empêcher leur réapparition.
+
+Quelle est la différence entre la gestion des incidents et la gestion des problèmes ? ; L'incident vise un rétablissement rapide (solution temporaire), le problème cherche à éradiquer définitivement la cause racine.
+
+Quel est l'objectif du processus de "Gestion des changements" ? ; Évaluer, approuver, planifier et tester toute modification de l'infrastructure pour minimiser les risques de perturbation.
+
+Que signifie le sigle SLA ? ; Service Level Agreement (Accord de Niveau de Service).
+
+Qu'est-ce qu'un SLA ? ; Un contrat définissant les niveaux de performance et de qualité de service attendus, ainsi que les pénalités en cas de non-respect.
+
+Donne un exemple concret d'engagement contenu dans un SLA. ; Une garantie de temps d'intervention (GTI) ou de rétablissement (GTR) sous 4 heures.
+
+En quoi la gestion de parc et ITIL sont-ils complémentaires ? ; La gestion de parc collecte les données techniques, et ITIL fournit les processus métier pour exploiter ces informations.
+
+Quel rôle joue la CMDB entre la gestion de parc et ITIL ? ; Elle sert de référence centrale en stockant les éléments de configuration (CI) exploités par les processus ITIL.
+
+Que signifie le sigle GDP ? ; Gestion De Projet (activités visant à assurer le bon déroulement d'un projet pour en atteindre son terme).
+
+Que signifie le sigle ITSM ? ; IT Service Management (Gestion des services informatiques pour délivrer de la valeur métier).
+
+Que signifie le sigle CI dans le contexte de la CMDB ? ; Configuration Item (Élément de configuration individuel géré pour fournir un service).
+
+Que signifie le sigle DEEE ? ; Déchets d'Équipements Électriques et Électroniques (à recycler).

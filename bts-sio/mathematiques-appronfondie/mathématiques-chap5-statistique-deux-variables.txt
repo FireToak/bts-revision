@@ -1,0 +1,35 @@
+Qu'est-ce que la médiane d'une série statistique ? ; C'est la valeur qui partage la série en deux groupes de même effectif (moitié inférieure ou égale, moitié supérieure ou égale).
+Comment déterminer le rang de la médiane d'une série d'effectif total N impair ? ; La médiane est la valeur de rang (N+1)/2 de la série ordonnée.
+Comment calculer la médiane d'une série d'effectif total N pair ? ; C'est la moyenne des valeurs situées aux rangs N/2 et (N/2)+1 de la série ordonnée.
+Comment trouver graphiquement la médiane d'une série continue ? ; On trace le polygone des fréquences cumulées croissantes (FCC), on se place à 0,5 en ordonnée et on lit l'abscisse correspondante.
+Qu'est-ce que le premier quartile (Q1) ? ; C'est la plus petite valeur de la série ordonnée telle qu'au moins 25% des valeurs lui soient inférieures ou égales.
+Qu'est-ce que le troisième quartile (Q3) ? ; C'est la plus petite valeur de la série ordonnée telle qu'au moins 75% des valeurs lui soient inférieures ou égales.
+Comment se calcule l'écart interquartile et que représente-t-il ? ; Il se calcule par Q3 - Q1 et contient la moitié centrale (50%) des valeurs de la série.
+Que signifie un écart interquartile grand ? ; Plus il est grand, plus les valeurs de la série sont dispersées autour de la médiane.
+Comment calculer le rang des quartiles Q1 et Q3 pour une série discrète d'effectif N ? ; On calcule 25/100 × N pour Q1 et 75/100 × N pour Q3, puis on arrondit à l'entier supérieur.
+Comment lire graphiquement les quartiles d'une série continue ? ; Sur le polygone des FCC, on lit les abscisses correspondantes aux ordonnées 0,25 (pour Q1) et 0,75 (pour Q3).
+Quelles sont les cinq valeurs représentées sur un diagramme en boîte ? ; Le minimum, le premier quartile (Q1), la médiane (Me), le troisième quartile (Q3) et le maximum.
+Quel est l'avantage de représenter une série par un diagramme en boîte ? ; Il synthétise la répartition des données et favorise les comparaisons rapides entre plusieurs séries.
+Comment calcule-t-on la moyenne d'une série à partir des fréquences ? ; On additionne les produits de chaque valeur par sa fréquence associée.
+Quelle valeur utilise-t-on pour calculer la moyenne quand les données sont regroupées par classes ? ; On prend le centre de chaque classe.
+Qu'est-ce que la variance d'une série statistique ? ; C'est la moyenne des carrés des écarts des valeurs à la moyenne de la série.
+Comment obtient-on l'écart-type à partir de la variance ? ; L'écart-type est la racine carrée de la variance.
+Que mesure l'écart-type ? ; Il exprime la dispersion des valeurs autour de la moyenne (plus il est petit, plus les valeurs sont concentrées).
+Quels sont les deux principaux indicateurs de position pour résumer une série ? ; La médiane et la moyenne.
+Quels indicateurs de dispersion associe-t-on respectivement à la médiane et à la moyenne ? ; L'écart interquartile (avec la médiane) et l'écart-type (avec la moyenne).
+Quels sont les avantages du couple (Moyenne ; Écart-type) ? ; Il utilise toutes les valeurs de la série et permet de déduire la moyenne globale à partir de sous-groupes.
+Quel est le principal inconvénient du couple (Moyenne ; Écart-type) ? ; Il est très sensible aux valeurs extrêmes.
+Quand est-il recommandé de choisir le couple (Moyenne ; Écart-type) ? ; Lorsque la série est symétrique et évoque une forme de "courbe en cloche".
+Quels sont les avantages du couple (Médiane ; Écart interquartile) ? ; Il est simple d'interprétation et "robuste" car il n'est pas modifié par les valeurs extrêmes.
+Quel est l'inconvénient du couple (Médiane ; Écart interquartile) ? ; L'intervalle ne prend en compte que 50% des valeurs, ce qui peut occulter un déséquilibre dans la série.
+Qu'est-ce qu'une série statistique à deux variables ? ; C'est l'étude simultanée de deux caractères (variables quantitatives) sur une même population.
+Comment représente-t-on graphiquement une série statistique double ? ; Par un nuage de points dans un repère orthogonal.
+Comment détermine-t-on les coordonnées du point moyen G d'un nuage de points ? ; Son abscisse est la moyenne des x, et son ordonnée est la moyenne des y.
+Quel est le but d'un ajustement de y en x ? ; C'est trouver une fonction (modèle mathématique) dont la courbe est la plus proche possible du nuage de points.
+À quoi sert de modéliser un ajustement affine ? ; Il permet d'estimer des valeurs par interpolation (dans l'intervalle d'étude) ou par extrapolation (à l'extérieur).
+Quel est le principe de la méthode des moindres carrés ? ; Elle recherche la droite qui minimise la somme des carrés des écarts verticaux (résidus) entre les points du nuage et la droite.
+Par quel point particulier passe obligatoirement la droite de régression de y en x ? ; Elle passe par le point moyen G du nuage de points.
+Que mesure le coefficient de corrélation linéaire (R) ? ; Il mesure la qualité de l'ajustement affine entre deux variables.
+Dans quel intervalle se situe le coefficient de corrélation linéaire (R) ? ; Il est compris entre -1 et 1.
+Quel est le lien de signe entre le coefficient de corrélation linéaire (R) et la droite d'ajustement ? ; Le coefficient (R) est de même signe que le coefficient directeur de la droite de régression.
+Comment le coefficient de corrélation (R) indique-t-il un excellent ajustement ? ; La qualité de l'ajustement est d'autant meilleure que le coefficient est proche de -1 ou de 1.

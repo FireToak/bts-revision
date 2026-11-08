@@ -1,0 +1,45 @@
+Qu'est-ce que la probabilité conditionnelle de B sachant A (notée P_A(B)) ? ; C'est la probabilité de l'événement B sachant que A est réalisé, calculée par P_A(B) = P(A ∩ B) / P(A).
+
+Quelle condition est nécessaire sur l'événement A pour pouvoir calculer la probabilité conditionnelle P_A(B) ? ; La probabilité de A ne doit pas être nulle, c'est-à-dire P(A) différent de 0.
+
+Comment exprime-t-on P(A ∩ B) à l'aide des probabilités conditionnelles ? ; P(A ∩ B) = P(A) * P_A(B) ou bien P(A ∩ B) = P(B) * P_B(A).
+
+Qu'affirme la formule des probabilités totales pour un événement B avec une partition de l'univers A1, A2... Ak ? ; P(B) = P(A1 ∩ B) + ... + P(Ak ∩ B), ce qui équivaut à la somme des P(Ai) * P_Ai(B).
+
+Quand dit-on mathématiquement que deux événements A et B sont indépendants ? ; Deux événements sont indépendants si la probabilité de leur intersection est égale au produit de leurs probabilités : P(A ∩ B) = P(A) * P(B).
+
+Si deux événements A et B de probabilités non nulles sont indépendants, que peut-on déduire pour P_B(A) et P_A(B) ? ; On en déduit que l'un n'influence pas l'autre, donc P_B(A) = P(A) et P_A(B) = P(B).
+
+Si un événement A et un événement B sont indépendants, quelle propriété s'applique à leurs événements contraires ? ; Leurs événements contraires (A barre et B, A et B barre, ou A barre et B barre) sont également indépendants.
+
+Qu'est-ce qu'une variable aléatoire dans une expérience ? ; C'est une fonction définie sur l'ensemble des résultats d'une expérience aléatoire (l'univers) à valeurs dans l'ensemble des réels.
+
+En quoi consiste la définition de la loi de probabilité d'une variable aléatoire X ? ; Cela consiste à déterminer toutes les valeurs prises par X (les xi) et à calculer la probabilité P(X = xi) pour chacune d'entre elles.
+
+Quelle est la somme totale des probabilités P(X = xi) d'une loi de probabilité ? ; La somme de toutes les probabilités est toujours égale à 1.
+
+Quelle est la formule mathématique de l'espérance E(X) (ou µ) d'une variable aléatoire ? ; E(X) = p1*x1 + p2*x2 + ... + pn*xn, c'est-à-dire la somme des probabilités multipliées par leurs valeurs associées.
+
+Comment interprète-t-on concrètement l'espérance mathématique E(X) ? ; Elle représente la valeur moyenne des valeurs prises par la variable X lorsque l'expérience est répétée un très grand nombre de fois.
+
+Quelles sont les deux formules possibles pour calculer la variance V(X) d'une variable aléatoire ? ; V(X) = somme des pi*(xi - µ)^2 ou avec l'autre formule V(X) = (somme des pi * xi^2) - µ^2.
+
+Comment calcule-t-on l'écart-type d'une variable aléatoire X (noté sigma) ? ; L'écart-type est la racine carrée de la variance : sigma(X) = racine(V(X)).
+
+Qu'est-ce qu'une épreuve de Bernoulli ? ; C'est une expérience aléatoire qui ne possède que deux issues possibles : le succès (S) de probabilité p, et l'échec (S barre) de probabilité 1 - p.
+
+Qu'appelle-t-on un schéma de Bernoulli de paramètres n et p ? ; C'est une expérience consistant à répéter n fois, de manière identique et strictement indépendante, une même épreuve de Bernoulli de paramètre p.
+
+Que représente le coefficient binomial (noté k parmi n) dans un schéma de Bernoulli ? ; Il représente le nombre de chemins conduisant à k succès sur un arbre de probabilités, ou de façon équivalente le nombre de manières de placer k succès parmi n épreuves.
+
+Que désigne exactement une variable aléatoire X qui suit une loi binomiale B(n ; p) ? ; C'est la variable aléatoire qui compte le nombre total de succès obtenus à l'issue d'un schéma de Bernoulli de paramètres n et p.
+
+Quelles valeurs peut prendre une variable aléatoire X suivant une loi binomiale de paramètre n ? ; Elle peut prendre toutes les valeurs entières comprises entre 0 et n inclus.
+
+Quelle est la formule pour calculer P(X=k) lorsqu'une variable X suit une loi binomiale B(n ; p) ? ; P(X=k) = (k parmi n) * p^k * (1 - p)^(n - k).
+
+Quelle est la formule de l'espérance E(X) pour une variable aléatoire suivant une loi binomiale B(n ; p) ? ; E(X) = n * p.
+
+Quelle est la formule de la variance V(X) pour une variable aléatoire suivant une loi binomiale B(n ; p) ? ; V(X) = n * p * (1 - p).
+
+Quelle est la formule de l'écart-type (sigma) d'une variable aléatoire suivant une loi binomiale B(n ; p) ? ; sigma(X) = racine(n * p * (1 - p)).

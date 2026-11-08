@@ -1,0 +1,36 @@
+Quelle est la fonction dont le nombre dérivé en 0 est 1 parmi les fonctions de base q ? ; La fonction exponentielle f(x) = e^x
+Quelle est la valeur de la constante e ? ; e environ 2,718
+Comment simplifier le produit e^a * e^b ? ; e^(a+b)
+Quel est le signe de e^x pour tout réel x ? ; Strictement positif (e^x > 0)
+Comment simplifier la puissance (e^x)^y ? ; e^(x*y)
+Comment simplifier l'inverse 1 / e^x ? ; e^(-x)
+Comment simplifier le quotient e^x / e^y ? ; e^(x-y)
+Quelle est la dérivée de la fonction exponentielle f(x) = e^x ? ; f'(x) = e^x
+Quel est le sens de variation de la fonction exponentielle sur IR ? ; Strictement croissante
+Quelle est l'équation de la tangente à la fonction exponentielle en x = 0 ? ; y = x + 1
+Que peut-on déduire de l'égalité e^a = e^b ? ; a = b
+Que peut-on déduire de l'inégalité e^a < e^b ? ; a < b
+Pour quelles valeurs de x a-t-on e^x > 1 ? ; Pour x > 0
+Quelle est la définition du logarithme népérien (ln) pour un réel a > 0 ? ; C'est l'unique solution de l'équation e^x = a
+Quel est l'ensemble de définition de la fonction ln(x) ? ; L'intervalle ]0 ; +infini[ (réels strictement positifs)
+Que vaut ln(1) ? ; 0
+Que vaut ln(e) ? ; 1
+Que vaut ln(1/e) ? ; -1
+Que vaut ln(e^x) pour n'importe quel réel x ? ; x
+Que vaut e^(ln(x)) pour tout x strictement positif ? ; x
+À quoi est équivalente l'égalité ln(x) = ln(y) ? ; x = y
+À quoi est équivalente l'inégalité ln(x) < ln(y) ? ; x < y
+Comment transformer le logarithme d'un produit ln(x * y) ? ; ln(x) + ln(y)
+Comment simplifier le logarithme d'un inverse ln(1/x) ? ; -ln(x)
+Comment transformer le logarithme d'un quotient ln(x / y) ? ; ln(x) - ln(y)
+Comment simplifier le logarithme d'une puissance ln(x^k) ? ; k * ln(x)
+Quelle est la particularité graphique des courbes de e^x et ln(x) ? ; Elles sont symétriques par rapport à la droite d'équation y = x
+Quelle asymptote possède la courbe de la fonction logarithme népérien ? ; Une asymptote verticale (l'axe des ordonnées)
+Quelle est la dérivée de la fonction logarithme f(x) = ln(x) ? ; f'(x) = 1 / x
+Quel est le sens de variation de la fonction logarithme népérien ? ; Strictement croissante
+Quelle est la formule de la dérivée d'une somme (u + v)' ? ; u' + v'
+Quelle est la formule de la dérivée d'un produit (u * v)' ? ; u' * v + u * v'
+Quelle est la formule de la dérivée avec une constante (k * u)' ? ; k * u'
+Quelle est la formule de la dérivée d'une fonction au carré (u^2)' ? ; 2 * u' * u
+Quelle est la formule de la dérivée d'un inverse (1 / v)' ? ; -v' / v^2
+Quelle est la formule de la dérivée d'un quotient (u / v)' ? ; (u' * v - u * v') / v^2

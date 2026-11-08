@@ -1,0 +1,51 @@
+Qu'est-ce qu'une suite mathématique ? ; C'est une fonction définie sur l'ensemble des entiers naturels à valeurs dans l'ensemble des réels.
+
+Comment nomme-t-on et note-t-on l'image d'un entier n par une suite u ? ; On l'appelle le terme d'indice n, et on le note u_n.
+
+Quelles sont les deux méthodes principales pour définir (ou générer) une suite ? ; De manière explicite et par récurrence.
+
+Qu'est-ce qu'une suite définie de manière explicite ? ; C'est une suite où le terme u_n est exprimé uniquement en fonction de n, ce qui permet de le calculer directement.
+
+Qu'est-ce qu'une suite définie par récurrence ? ; C'est une suite définie par un premier terme et une formule permettant de calculer un terme à partir du terme précédent (exemple : u_n+1 = f(u_n)).
+
+À quelle condition une suite est-elle dite croissante ? ; Si pour tout entier n, le terme u_n+1 est supérieur ou égal à u_n.
+
+À quelle condition une suite est-elle dite décroissante ? ; Si pour tout entier n, le terme u_n+1 est inférieur ou égal à u_n.
+
+Que signifie le terme "suite monotone" ? ; Cela désigne une suite qui est soit toujours croissante, soit toujours décroissante.
+
+Quelle est la méthode générale pour étudier le sens de variation d'une suite ? ; Il faut étudier le signe de la différence (u_n+1 - u_n).
+
+Que peut-on déduire si (u_n+1 - u_n) est positif pour tout n ? ; On en déduit que la suite est croissante.
+
+Que peut-on déduire si (u_n+1 - u_n) est négatif pour tout n ? ; On en déduit que la suite est décroissante.
+
+Qu'est-ce qu'une suite arithmétique ? ; C'est une suite où chaque terme s'obtient en ajoutant au précédent un nombre réel constant appelé la raison (notée r).
+
+Quelle est la relation de récurrence qui définit une suite arithmétique de raison r ? ; u_n+1 = u_n + r.
+
+Quelle est la formule du terme général d'une suite arithmétique en fonction de son premier terme u_0 et de sa raison r ? ; u_n = u_0 + n * r.
+
+Quelle est la formule générale pour trouver un terme u_n d'une suite arithmétique à partir de n'importe quel autre terme u_p ? ; u_n = u_p + (n - p) * r.
+
+Comment calcule-t-on le nombre de termes dans une somme allant de l'indice p à l'indice q ? ; On fait le calcul : q - p + 1.
+
+Quelle est la formule pour calculer la somme des entiers de 1 à n (1 + 2 + 3 + ... + n) ? ; n * (n + 1) / 2.
+
+Quelle est la formule générale de la somme des termes consécutifs d'une suite arithmétique ? ; (Nombre de termes) * (Premier terme + Dernier terme) / 2.
+
+Qu'est-ce qu'une suite géométrique ? ; C'est une suite où chaque terme s'obtient en multipliant le précédent par un nombre réel constant non nul appelé la raison (notée q).
+
+Quelle est la relation de récurrence qui définit une suite géométrique de raison q ? ; u_n+1 = q * u_n.
+
+Quelle est la formule du terme général d'une suite géométrique en fonction de son premier terme u_0 et de sa raison q ? ; u_n = u_0 * q^n.
+
+Quelle est la formule générale pour trouver un terme u_n d'une suite géométrique à partir de n'importe quel autre terme u_p ? ; u_n = u_p * q^(n - p).
+
+Quelle est la formule de la somme des puissances (1 + q + q^2 + ... + q^n) pour un réel q différent de 1 ? ; (1 - q^(n+1)) / (1 - q).
+
+Quelle est la formule de la somme des termes consécutifs d'une suite géométrique (pour q différent de 1) ? ; (Premier terme de la somme) * (1 - q^(nombre de termes)) / (1 - q).
+
+Sur un graphique, quelle est l'allure d'une suite géométrique dont le premier terme est positif (u_0 > 0) et la raison q > 1 ? ; Elle décrit une croissance exponentielle (les points montent de plus en plus vite).
+
+Sur un graphique, quelle est l'allure d'une suite géométrique dont le premier terme est positif (u_0 > 0) et la raison q est comprise entre 0 et 1 ? ; Elle décrit une décroissance exponentielle (les points descendent et se rapprochent de 0).

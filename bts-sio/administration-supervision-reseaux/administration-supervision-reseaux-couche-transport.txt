@@ -1,0 +1,87 @@
+Qu'est-ce que le MTU (Maximum Transmission Unit) ? ; C'est la taille maximale d'un paquet IP entre une machine source et une machine destination.
+
+Comment est défini le MTU d'un trajet réseau ? ; Il est égal au plus petit MTU des interfaces via lesquelles le paquet est transmis.
+
+Quelle est la valeur du MTU par défaut sur un réseau Ethernet ? ; 1500 octets.
+
+Qu'est-ce que le MSS (Maximum Segment Size) ? ; C'est la quantité maximale de données (payload) qu'un équipement peut contenir dans un segment TCP ou UDP seul et non fragmenté.
+
+Quelle est la valeur du MSS par défaut pour le protocole TCP ? ; 1460 octets.
+
+Quelle est la taille de l'en-tête IP et de l'en-tête TCP classiques ? ; 20 octets chacun.
+
+Que signifie le sigle TCP ? ; Transmission Control Protocol.
+
+À quelle couche du modèle OSI/TCP-IP appartient le protocole TCP ? ; La couche transport (niveau 4).
+
+Le protocole TCP fonctionne-t-il en mode connecté ou non-connecté ? ; Il fonctionne en mode connecté.
+
+Quelles sont les 3 phases d'une session TCP ? ; 1. Établissement de la connexion, 2. Transferts de données, 3. Fin de la connexion.
+
+À quoi sert le drapeau (flag) URG dans un segment TCP ? ; Il signale la présence de données urgentes.
+
+À quoi sert le drapeau (flag) ACK dans un segment TCP ? ; Il signale que le paquet est un accusé de réception (ACKnowledgement).
+
+À quoi sert le drapeau (flag) PSH dans un segment TCP ? ; Il indique que les données doivent être envoyées à l'application tout de suite (PuSH).
+
+À quoi sert le drapeau (flag) RST dans un segment TCP ? ; Il signale une rupture anormale de la connexion (ReSeT).
+
+À quoi sert le drapeau (flag) SYN dans un segment TCP ? ; Il signale une demande de synchronisation ou d'établissement de connexion.
+
+À quoi sert le drapeau (flag) FIN dans un segment TCP ? ; Il demande la fin de la connexion.
+
+Quelles sont les 3 étapes de l'établissement d'une connexion TCP (poignée de main) ? ; 1. Le client envoie SYN, 2. Le serveur répond SYN/ACK, 3. Le client confirme avec ACK.
+
+Que contient le numéro de séquence (SEQ) lors d'un échange TCP ? ; Il contient le numéro d'acquittement du dernier segment reçu.
+
+Comment est calculé le numéro d'acquittement (ACK) en transfert de données TCP ? ; C'est la valeur d'acquittement précédemment émise plus la taille du dernier segment reçu (LEN).
+
+Dans un échange TCP, de quelle valeur le numéro d'acquittement (ACK) est-il incrémenté en réponse à un segment SYN ou FIN ? ; Il est toujours incrémenté de 1.
+
+Que signifie le sigle UDP ? ; User Datagram Protocol.
+
+À quelle couche du modèle OSI appartient le protocole UDP ? ; La couche transport (niveau 4).
+
+Le protocole UDP fonctionne-t-il en mode connecté ou non-connecté ? ; Il fonctionne en mode non-connecté.
+
+Le protocole UDP garantit-il la bonne livraison des données ? ; Non, il n'y a pas de garantie de bonne livraison.
+
+Quels sont les 4 champs présents dans l'en-tête d'un datagramme UDP ? ; Port Source, Port Destination, Longueur (Length) et Somme de contrôle (Checksum).
+
+Quel est le rôle global des ports réseau ? ; Ils permettent la connexion entre des hôtes au niveau de la couche transport (niveau 4) du modèle OSI.
+
+Quelles sont les trois grandes catégories de ports réseau ? ; Les ports réservés, les ports inscrits et les ports dynamiques.
+
+Quelle est la plage des ports réservés et comment sont-ils utilisés ? ; De 0 à 1023, ils sont assignés de manière statique et utilisés par les serveurs pour proposer des services.
+
+Quelle est la plage des ports inscrits (ou enregistrés) ? ; De 1024 à 49151.
+
+Quelle est la plage des ports dynamiques et à quoi servent-ils ? ; De 49152 à 65535, ils sont utilisés par des clients de manière éphémère et aléatoire pour établir une connexion vers un serveur.
+
+Qu'est-ce qu'un service réseau ? ; C'est un logiciel ayant pour but de répondre à une demande provenant du réseau, en écoutant sur un port spécifique.
+
+Quel est le port et le protocole utilisés par le service FTP ? ; Ports 20 et 21, protocole TCP.
+
+Quel est le port et le protocole utilisés par le service OpenSSH ? ; Port 22, protocole TCP.
+
+Quel est le port et le protocole utilisés par le service Telnet ? ; Port 23, protocole TCP.
+
+Quel est le port et le protocole utilisés par le service SMTP, et à quoi sert-il ? ; Port 25 en TCP, il sert à envoyer des mails.
+
+Quel est le port utilisé par le service DNS ? ; Port 53, en TCP et UDP.
+
+Quel est le port et le protocole utilisés par le service HTTP ? ; Port 80, protocole TCP.
+
+Quel est le port et le protocole utilisés par le service POP3, et à quoi sert-il ? ; Port 110 en TCP, il sert à rapatrier les mails sur la machine.
+
+Quel est le port et le protocole utilisés par le service IMAP, et à quoi sert-il ? ; Port 143 en TCP, il sert à consulter les mails directement sur le serveur.
+
+Quel est le port et le protocole utilisés par le service HTTPS ? ; Port 443, protocole TCP.
+
+Quel est le port et le protocole utilisés par le service RDP ? ; Port 3389, protocole TCP.
+
+Quelle attaque de type DDoS utilise spécifiquement les faiblesses du protocole UDP ? ; L'attaque par amplification UDP.
+
+Quelle attaque de type DoS vise à saturer un serveur en initiant de multiples connexions TCP inachevées ? ; L'attaque TCP SYN Flood.
+
+Comment se nomme l'attaque de type DoS qui force la rupture anormale d'une connexion TCP ? ; L'attaque TCP Reset.

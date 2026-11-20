@@ -1,0 +1,29 @@
+Quel est l'objectif principal d'un compte rendu en français au BTS SIO ? ; Restituer de manière claire, objective et structurée les idées essentielles d'un document en anglais, sans le traduire mot à mot.
+Quelle est la différence entre un compte rendu et une traduction ? ; La traduction retranscrit chaque phrase dans l'ordre du texte, tandis que le compte rendu synthétise et réorganise uniquement les idées principales.
+Quelle est la différence entre un compte rendu et un commentaire ? ; Le compte rendu est strictement objectif (aucun avis personnel), alors que le commentaire analyse et donne une opinion.
+Peut-on utiliser le pronom « je » ou donner son avis personnel dans un compte rendu ? ; Non, jamais. Le compte rendu doit rester totalement neutre et objectif.
+Quelles sont les 3 grandes parties obligatoires d'un compte rendu ? ; L'introduction, le développement (structuré en paragraphes thématiques) et la conclusion.
+Quels sont les 5 éléments clés à mentionner dès l'introduction ? ; La nature du document, le titre, l'auteur, la source (journal/site), la date de publication et le thème principal.
+Comment formuler une phrase d'accroche complète pour l'introduction ? ; « Ce document est un [nature] intitulé [titre], écrit par [auteur], publié dans [source] le [date], qui traite de [thème principal]. »
+Que faire si l'auteur ou la date n'est pas mentionné sur le document ? ; Ne pas l'inventer et simplement passer aux autres informations disponibles.
+Faut-il suivre l'ordre exact des paragraphes du texte anglais dans le développement ? ; Non, il est préférable de regrouper les idées par thèmes (plan thématique) pour montrer sa compréhension globale.
+Combien de paragraphes est-il conseillé de faire dans le développement ? ; 2 à 3 paragraphes thématiques distincts, chacun correspondant à une grande idée du texte.
+Comment structurer visuellement son compte rendu pour faciliter la lecture du correcteur ? ; Sauter une ligne entre l'introduction, chaque paragraphe du développement et la conclusion, et utiliser des connecteurs logiques.
+Peut-on inclure des citations en anglais dans un compte rendu en français ? ; Non, tout doit être rédigé en français (sauf les noms propres, sigles ou termes techniques intraduisibles comme « Cloud » ou « IA »).
+Faut-il reprendre tous les exemples et chiffres du texte ? ; Non, il faut sélectionner uniquement les chiffres et exemples les plus parlants qui illustrent une idée principale.
+Que doit contenir la conclusion d'un compte rendu ? ; Un bref bilan de l'idée générale du texte et, si l'auteur l'évoque, les perspectives d'avenir ou solutions envisagées.
+Peut-on inventer une ouverture personnelle dans la conclusion ? ; Non, la conclusion doit s'appuyer uniquement sur les éléments présents dans le texte.
+Comment vérifier qu'on ne fait pas de plagiat ou de calque de l'anglais ? ; En reformulant les idées avec ses propres mots en français, en faisant des phrases simples et naturelles.
+Quelle expression utiliser pour présenter le sujet du texte en introduction ? ; « Cet article paru en <ex. 2026> par <auteur> aborde le sujet de... »
+Quels verbes neutres utiliser pour rapporter les propos de l'auteur ? ; L'auteur explique, souligne, affirme, précise, indique, met en garde contre, constate.
+Quels connecteurs logiques utiliser pour introduire une première idée ? ; Tout d'abord, Dans un premier temps, En premier lieu.
+Quels connecteurs logiques utiliser pour ajouter une idée ou un argument ? ; De plus, En outre, Par ailleurs, Également.
+Quels connecteurs logiques utiliser pour marquer une opposition ou une limite ? ; Cependant, Toutefois, Néanmoins, En revanche, Malgré cela.
+Quels connecteurs logiques utiliser pour exprimer une cause ? ; En effet, Car, Puisque, En raison de.
+Quels connecteurs logiques utiliser pour exprimer une conséquence ? ; Par conséquent, Ainsi, C'est pourquoi, De ce fait.
+Quels connecteurs logiques utiliser pour introduire la conclusion ? ; En conclusion, Pour conclure, En somme, Finalement.
+Quelle est la première étape recommandée au brouillon avant de rédiger ? ; Lire le titre, la source et le texte une première fois pour identifier le thème général, sans chercher à traduire chaque mot.
+Quelle est la deuxième étape au brouillon ? ; Relire le texte en surlignant les mots-clés, les idées principales, les avantages/inconvénients ou les causes/conséquences.
+Quelle est la troisième étape au brouillon avant de passer au propre ? ; Regrouper les idées surlignées en 2 ou 3 grands thèmes pour bâtir son plan.
+Que faire si une limite de mots est imposée dans la consigne (ex : 150 mots à +/- 10 %) ? ; Respecter impérativement la fourchette autorisée et indiquer le nombre de mots exact à la fin de la copie.
+Quelle est l'erreur la plus fréquente qui fait perdre des points au BTS SIO sur le compte rendu ? ; Oublier de présenter le document en introduction (source, date, auteur) ou faire une traduction linéaire du texte sans plan.

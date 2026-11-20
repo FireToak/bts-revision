@@ -1,0 +1,27 @@
+Quelles sont les 5 parties obligatoires d'un mail professionnel en anglais ? ; L'objet (Subject), la salutation (Dear...), l'introduction, le développement, la conclusion avec formule de politesse et signature.
+Comment introduire l'objet d'un mail en anglais ? ; Subject: + le thème du mail (ex: Subject: AI chatbot project).
+Comment saluer un homme dont on connaît le nom dans un mail professionnel ? ; Dear Mr. + Nom, (ex: Dear Mr. Smith,).
+Comment saluer une femme dont on connaît le nom (statut marital inconnu ou neutre) ? ; Dear Ms. + Nom, (ex: Dear Ms. Johnson,).
+Comment saluer un destinataire dont on ne connaît pas le nom ? ; Dear Sir or Madam,
+Comment traduire « Je vous écris pour vous informer que... » ? ; I am writing to inform you that...
+Comment traduire « Je vous écris pour poser une question sur... » ? ; I am writing to ask a question about...
+Comment traduire « Je vous écris pour recommander... » ? ; I am writing to recommend... (sans « you » après recommend).
+Comment traduire « Je vous écris pour partager mon avis sur... » ? ; I am writing to share my opinion about...
+Comment dire « Tout d'abord » pour structurer son mail ? ; First of all,
+Comment dire « En effet » pour justifier un argument ? ; Indeed,
+Comment dire « De plus » pour ajouter un argument ? ; Moreover,
+Comment dire « Cependant » pour introduire un inconvénient ou une opposition ? ; However,
+Comment dire « Par conséquent » pour introduire une conclusion ou une demande ? ; As a consequence,
+Comment exprimer un souhait poliment dans un mail pro au lieu de « I want to » ? ; I would like to... (Je souhaiterais...).
+Comment traduire « Je souhaiterais organiser une réunion demain » ? ; I would like to schedule a meeting tomorrow.
+Comment traduire « Je voudrais savoir si je pourrais tester cet outil la semaine prochaine » ? ; I would like to know if I could test this tool next week.
+Comment traduire « J'attends votre réponse avec impatience » ? ; I am looking forward to your reply. (ou : I am looking forward to hearing from you.)
+Formule de politesse finale ? ; Yours sincerely, best regards.
+Où se place un adverbe (automatically, quickly, easily) dans une phrase anglaise ? ; Avant le verbe : Sujet + Adverbe + Verbe + Complément (ex: It automatically detects viruses).
+Quelle est la règle de conjugaison d'un verbe après « can », « could » ou « will » ? ; On met toujours la base verbale, jamais de « -s » (ex: It can block).
+Peut-on combiner « will » et « can » dans la même phrase ? ; Non, jamais. On utilise soit « can », soit « will be able to ».
+Comment se conjugue le verbe « have » à la 3e personne du singulier (he / she / it) ? ; Has (ex: This tool has an advantage).
+Met-on « the » devant « next week » ou « last week » ? ; Non, jamais (on dit « next week », pas « the next week »).
+Le mot « information » prend-il un « s » au pluriel en anglais ? ; Non, il est indénombrable et reste toujours au singulier (ex: more information).
+Met-on « the » devant une généralité au pluriel (ex: les virus, les utilisateurs) ? ; Non, on utilise l'article zéro Ø (ex: It detects viruses / It helps users).
+Quelle est la règle d'or pour éviter les fautes de grammaire le jour du BTS ? ; Faire des phrases courtes et simples (Sujet + Verbe + Complément) et garder 5 minutes pour relire les « -s », les « a/an » et la formule de fin.

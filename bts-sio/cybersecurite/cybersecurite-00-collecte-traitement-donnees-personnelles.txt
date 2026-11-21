@@ -1,0 +1,70 @@
+Quelle loi française complète le RGPD ? ; La loi Informatique et Libertés.
+Quelles sont les trois missions principales de la CNIL ? ; Informer, accompagner et contrôler les organismes.
+Quels types de fichiers sont concernés par le RGPD ? ; Les traitements informatisés ainsi que les fichiers papier structurés.
+Qu'est-ce qu'une donnée personnelle ? ; Toute information se rapportant à une personne physique identifiable, directement ou indirectement.
+Donne quatre exemples informatiques de données personnelles. ; Un nom, un courriel nominatif, un identifiant utilisateur et une adresse IP rattachable à une personne.
+Qu'est-ce qu'un traitement de données personnelles ? ; Toute opération effectuée sur des données personnelles (collecte, consultation, stockage, modification, transmission ou suppression).
+Donne deux exemples d'outils informatiques contenant des traitements de données personnelles. ; Un annuaire Active Directory et des journaux de connexion (logs).
+Qu'est-ce que le responsable du traitement ? ; L'organisme qui décide des objectifs (finalités) et des moyens du traitement (ex. : une entreprise gérant ses salariés).
+Qu'est-ce qu'un sous-traitant au sens du RGPD ? ; Un prestataire qui traite des données personnelles pour le compte du responsable du traitement et selon ses instructions (ex. : un hébergeur).
+Quelle est la différence entre le responsable du traitement et le sous-traitant ? ; Le responsable décide des objectifs et des moyens du traitement, tandis que le sous-traitant agit uniquement pour son compte et selon ses instructions.
+Quel est le rôle du DPO (Délégué à la protection des données) ? ; Conseiller l'organisme, contrôler la conformité au RGPD et servir de point de contact.
+La désignation d'un DPO décharge-t-elle l'organisme de sa responsabilité ? ; Non, le DPO ne remplace pas la responsabilité de l'organisme.
+Que signifie le principe de licéité, loyauté et transparence ? ; Disposer d'un fondement juridique valide et expliquer clairement les usages faits des données.
+Que signifie le principe de finalité ? ; Définir un objectif précis, explicite et légitime avant de collecter des données.
+Que signifie le principe de minimisation des données ? ; Collecter uniquement les données strictement nécessaires à la finalité poursuivie.
+Que signifie le principe d'exactitude ? ; Maintenir les données à jour et corriger ou supprimer celles qui sont inexactes.
+Que signifie le principe de conservation limitée ? ; Fixer une durée de conservation justifiée, puis supprimer ou anonymiser réellement les données (ou les archiver légalement avec accès restreint).
+Quels sont les trois piliers du principe de sécurité des données ? ; La confidentialité, l'intégrité et la disponibilité (CID).
+Que signifie le principe de responsabilité (« accountability ») ? ; Être en mesure de démontrer à tout moment le respect des principes du RGPD.
+Quelle est la différence entre la pseudonymisation et l'anonymisation ? ; La pseudonymisation remplace les identifiants mais permet encore une réidentification (le RGPD s'applique toujours), alors que l'anonymisation empêche raisonnablement toute réidentification (le RGPD ne s'applique plus).
+Quelles sont les 6 bases légales possibles pour un traitement de données ? ; Le contrat, l'obligation légale, le consentement, l'intérêt légitime, la mission d'intérêt public et les intérêts vitaux.
+Donne un exemple de traitement fondé sur la base légale du contrat. ; Traiter l'adresse postale d'un client pour assurer la livraison de sa commande.
+Donne un exemple de traitement fondé sur l'obligation légale. ; Conserver des pièces comptables conformément aux textes de loi.
+Donne un exemple de traitement fondé sur le consentement. ; L'inscription volontaire d'un utilisateur à une lettre d'information (newsletter).
+À quelles conditions peut-on utiliser la base légale de l'intérêt légitime ? ; Après examen de la nécessité du traitement et mise en balance avec les droits des personnes (ex. : sécuriser un réseau).
+Donne un exemple de traitement fondé sur la mission d'intérêt public. ; Un traitement nécessaire à l'exécution d'un service public prévu par le droit.
+Quand utilise-t-on la base légale des intérêts vitaux ? ; Lorsque le traitement est indispensable à la protection de la vie d'une personne.
+À quel moment doit-on choisir la base légale d'un traitement ? ; Impérativement avant le début du traitement.
+Le consentement est-il toujours obligatoire pour traiter des données personnelles ? ; Non, il n'est qu'une des 6 bases légales possibles.
+Quelles sont les conditions de validité d'un consentement ? ; Il doit être libre, spécifique, éclairé, univoque, prouvable et aussi simple à retirer qu'à donner.
+Une case pré-cochée constitue-t-elle un consentement valide ? ; Non, car le consentement doit résulter d'un acte positif clair et univoque.
+Quelles informations de base doivent toujours être fournies aux personnes lors d'une collecte ? ; L'identité et coordonnées du responsable, les finalités, la base légale, les destinataires, la durée de conservation (ou ses critères), les droits et leur mode d'exercice, et le droit de saisir la CNIL.
+Quelles informations complémentaires doivent être ajoutées selon le cas dans une notice d'information ? ; Le contact du DPO, les intérêts légitimes poursuivis, les transferts hors EEE et leurs garanties, ainsi que l'existence de décisions automatisées et leurs conséquences.
+En collecte directe, quand faut-il informer la personne et que faut-il préciser ? ; Au moment du recueil, en précisant les champs obligatoires, leur justification et les conséquences d'une absence de réponse.
+En collecte indirecte, quelles informations supplémentaires faut-il donner ? ; Les catégories de données concernées et la source des données.
+Quel est le délai maximal pour informer une personne en cas de collecte indirecte ? ; Au plus tard sous un mois, ou plus tôt lors du premier contact ou de la première transmission (sauf exception légale).
+Quelles catégories de données sont considérées comme sensibles (protection renforcée) ? ; Santé, opinions politiques, convictions religieuses, appartenance syndicale, données génétiques, biométriques d'identification unique, vie ou orientation sexuelle, origine raciale ou ethnique.
+Quel est le principe juridique applicable aux données sensibles ? ; Leur traitement est interdit par principe : il faut cumuler une base légale (article 6) et une exception spécifique (article 9).
+Les données pénales font-elles partie des données sensibles de l'article 9 ? ; Non, elles relèvent d'un régime distinct (article 10 du RGPD).
+Cas pratique BTS SIO : que faut-il éviter dans un formulaire de demande d'assistance informatique ? ; Recueillir des données inutiles comme la date de naissance ou des informations médicales, et laisser les utilisateurs saisir des données non pertinentes dans les champs de texte libre.
+Que signifie « sécuriser dès la conception et par défaut » (Privacy by Design & by Default) ? ; Prévoir des mesures de sécurité adaptées aux risques dès la création du service et limiter par défaut les données collectées et les accès.
+Donne cinq exemples de mesures techniques de sécurité des données personnelles. ; Droits selon les fonctions, comptes individuels, authentification renforcée, application des correctifs, chiffrement adapté (ou sauvegardes testées, journalisation proportionnée, suppression planifiée).
+Quels documents clés permettent de prouver la conformité au RGPD ? ; Le registre des traitements, les notices d'information, les preuves de consentement, les contrats, les analyses de risques et les procédures (droits et violations).
+Quelles informations contient un registre des traitements ? ; Les finalités, les catégories de données et de personnes, les destinataires, les transferts hors EEE, les durées de conservation et les mesures de sécurité.
+Les organismes de moins de 250 salariés sont-ils totalement dispensés du registre des traitements ? ; Non, le registre reste obligatoire pour les traitements non occasionnels, à risque, ou portant sur des données sensibles ou pénales.
+Dans quels cas la désignation d'un DPO est-elle obligatoire ? ; Pour les autorités/organismes publics (sauf juridictions dans leur fonction juridictionnelle), ou si les activités de base exigent un suivi régulier et systématique à grande échelle, ou un traitement à grande échelle de données sensibles ou pénales.
+Qu'est-ce qu'une AIPD ? ; Une Analyse d'Impact relative à la Protection des Données, réalisée avant un traitement susceptible d'engendrer un risque élevé pour les droits et libertés.
+Que faut-il faire si une AIPD montre qu'un risque élevé subsiste malgré les mesures de réduction ? ; Consulter la CNIL avant de mettre en œuvre le traitement.
+Quelles obligations encadrent le recours à un sous-traitant ? ; Choisir un prestataire offrant des garanties suffisantes et encadrer par écrit les instructions, la sécurité, la confidentialité, l'assistance et le sort des données en fin de prestation.
+Quelles conditions permettent un transfert de données personnelles hors de l'EEE ? ; Une décision d'adéquation applicable ou des garanties appropriées (ex. : clauses contractuelles types) avec évaluation et mesures complémentaires si besoin ; les dérogations restent exceptionnelles.
+Pourquoi un simple abonnement à un service cloud ne garantit-il pas la conformité RGPD ? ; Parce qu'il faut aussi examiner le contrat, les sous-traitants ultérieurs, les accès aux données et les éventuels transferts hors EEE.
+Les droits des personnes sur leurs données sont-ils tous absolus ? ; Non, ils dépendent de la nature du traitement et de sa base légale.
+Que permettent le droit d'accès et le droit de rectification ? ; D'obtenir ses données ainsi que des informations sur le traitement, et de faire corriger les erreurs.
+Que permettent le droit à l'effacement et le droit à la limitation ? ; D'obtenir la suppression de ses données dans les cas prévus ou de suspendre temporairement certains usages.
+Qu'est-ce qui peut empêcher l'application du droit à l'effacement ? ; Une obligation légale de conservation des données.
+Quelle est la particularité du droit d'opposition en matière de prospection commerciale ? ; La personne n'a pas à motiver sa demande pour s'y opposer.
+À quelles conditions s'applique le droit à la portabilité des données ? ; Pour récupérer les données fournies dans un format réutilisable, uniquement si le traitement est automatisé et fondé sur le contrat ou le consentement.
+Quelles garanties existent face aux décisions exclusivement automatisées ? ; Des garanties encadrées s'appliquent lorsque la décision produit un effet juridique ou significatif sur la personne (avec des exceptions prévues).
+Quel est le délai légal pour répondre à une demande d'exercice de droits ? ; Sans tarder et au plus tard sous un mois (prolongeable de deux mois en cas de complexité ou de grand nombre de demandes, en informant la personne dans le premier mois).
+L'exercice des droits RGPD est-il payant et faut-il toujours demander une pièce d'identité ? ; Il est gratuit en principe, et la vérification d'identité doit être proportionnée et demandée uniquement en cas de doute raisonnable.
+Qu'est-ce qu'une violation de données personnelles ? ; Une perte, destruction, altération, divulgation ou un accès non autorisé à des données personnelles, de manière accidentelle ou malveillante.
+Donne un exemple concret de violation de données personnelles. ; Un export de comptes utilisateurs envoyé par erreur au mauvais destinataire.
+Quelle est la première étape à suivre face à une violation de données ? ; Alerter les responsables internes, contenir l'incident et évaluer ses conséquences.
+Faut-il documenter une violation de données même si elle n'est pas notifiée à la CNIL ? ; Oui, toute violation et les mesures prises doivent être documentées en interne.
+Quel est le délai pour notifier une violation de données à la CNIL ? ; Sans tarder et si possible sous 72 heures après en avoir pris connaissance (sauf si un risque pour les droits et libertés est improbable ; tout retard doit être justifié).
+Dans quel cas faut-il informer les personnes concernées d'une violation de données ? ; Lorsque la violation est susceptible d'engendrer un risque élevé pour leurs droits et libertés, sans tarder (sauf exception RGPD).
+Quelle est l'obligation d'un sous-traitant en cas de violation de données ? ; Alerter le responsable du traitement sans délai indu.
+Quels sont les pouvoirs de la CNIL en cas de manquement au RGPD ? ; Contrôler, ordonner une mise en conformité, limiter un traitement et prononcer des sanctions.
+Quels sont les deux plafonds d'amende prévus par le RGPD ? ; 10 millions d'euros ou 2 % du chiffre d'affaires annuel mondial, et 20 millions d'euros ou 4 % du chiffre d'affaires annuel mondial (le montant le plus élevé étant retenu pour une entreprise).
+Quelle est la démarche globale à retenir pour un traitement conforme au RGPD ? ; Définir l'objectif, justifier, minimiser, informer, sécuriser, respecter les droits, documenter et réévaluer.

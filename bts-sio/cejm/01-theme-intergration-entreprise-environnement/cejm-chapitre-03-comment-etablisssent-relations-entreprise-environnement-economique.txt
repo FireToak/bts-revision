@@ -1,0 +1,41 @@
+Qu'est-ce qu'un agent économique ? ; Un acteur (individu ou groupe d'individus) qui participe à l'activité économique en remplissant un rôle spécifique (produire, consommer, épargner, financer).
+Quelles sont les six grandes catégories d'agents économiques dans l'environnement d'une entreprise ? ; Les entreprises (SNF), les ménages, les administrations publiques (APU), les associations (ISBLSM), les banques (SF) et le reste du monde.
+Quelle est la catégorie INSEE des entreprises et quel est leur rôle économique principal ? ; Les Sociétés Non Financières (SNF) ; leur rôle est de produire des biens ou des services marchands.
+Quel est le rôle économique principal des ménages ? ; Consommer des biens et services, et épargner.
+Quelle est la catégorie INSEE des administrations publiques et quel est leur rôle principal ? ; Les Administrations Publiques (APU), comme l'État et les collectivités locales ; leur rôle est de produire des biens ou services collectifs non marchands.
+Quelle est la catégorie INSEE des associations et quel est leur rôle principal ? ; Les Institutions Sans But Lucratif au Service des Ménages (ISBLSM) ; leur rôle est de produire des biens et services non marchands.
+Quelle est la catégorie INSEE des banques et quel est leur rôle principal ? ; Les Sociétés Financières (SF) ; leur rôle est d'élaborer des produits et services financiers marchands.
+Que désigne le « Reste du monde » en économie ? ; L'ensemble des agents économiques (clients, fournisseurs, touristes) situés à l'étranger avec lesquels l'entreprise réalise des échanges internationaux.
+Quels sont les deux types de flux générés par les échanges entre agents économiques ? ; Les flux réels et les flux monétaires.
+Qu'est-ce qu'un flux réel ? ; Un mouvement de biens, de services ou de prestations de travail entre deux agents économiques (ex : livraison d'une marchandise, travail d'un salarié).
+Qu'est-ce qu'un flux monétaire ? ; Un mouvement d'argent qui constitue généralement la contrepartie d'un flux réel (ex : paiement d'un fournisseur, versement d'un salaire, impôts, prêt bancaire).
+Qu'est-ce que le circuit économique ? ; Une représentation schématique qui synthétise et visualise de manière simplifiée l'ensemble des flux réels et monétaires entre les agents économiques.
+Quels sont les flux échangés entre les entreprises et les ménages dans le circuit économique ? ; Les ménages fournissent du travail et paient les biens/services, les entreprises versent des salaires et fournissent des biens/services.
+Quels sont les flux échangés entre les entreprises et l'État dans le circuit économique ? ; Les entreprises paient des impôts ; l'État fournit des biens et services non marchands ainsi que des subventions.
+Quels sont les flux échangés entre les ménages et l'État dans le circuit économique ? ; Les ménages paient des impôts ; l'État fournit des biens et services non marchands ainsi que des prestations sociales.
+Quels sont les flux échangés entre les banques et les entreprises ? ; Les banques financent les investissements (prêts) ; les entreprises versent des intérêts en contrepartie.
+Quels sont les flux échangés entre les banques et les ménages ? ; Les ménages déposent leur épargne ; les banques leur versent des intérêts.
+Qu'est-ce qu'un marché en économie ? ; Le lieu (physique ou virtuel) de rencontre entre l'offre et la demande d'un bien ou d'un service, caractérisé par un degré plus ou moins élevé de concurrence.
+Quelles sont les trois grandes catégories de marchés sur lesquels intervient une entreprise ? ; Le marché des biens et services, le marché du travail et le marché des capitaux.
+Qui sont les offreurs et les demandeurs sur le marché des biens et services ? ; Les offreurs sont les entreprises productrices ; les demandeurs sont les ménages, les entreprises, les associations et l'État.
+Quelle est la double position de l'entreprise sur le marché des biens et services ? ; Elle est à la fois demandeuse (achats auprès de ses fournisseurs, banques, État) et offreuse (vente de ses produits/services à ses clients).
+Que s'échange-t-on sur le marché du travail ? ; Une prestation de travail, qu'elle soit physique ou intellectuelle.
+Qui sont les offreurs et les demandeurs sur le marché du travail ? ; Les offreurs sont les salariés potentiels (les ménages) et les demandeurs sont les entreprises qui ont besoin de main-d'œuvre.
+Que s'échange-t-on sur le marché des capitaux ? ; Des capitaux à long terme destinés à financer les investissements.
+Qui sont les offreurs et les demandeurs sur le marché des capitaux ? ; Les offreurs sont les agents à capacité de financement (ménages, certaines entreprises, banques) et les demandeurs sont les agents à besoin de financement (entreprises, État, collectivités, associations).
+Quelle est la double position de l'entreprise sur le marché des capitaux ? ; Elle est demandeuse lorsqu'elle cherche des fonds pour investir, et offreuse lorsqu'elle place son excédent de trésorerie (achat d'actions ou d'obligations).
+Qu'est-ce qu'une relation de coopération entre entreprises ? ; Une relation de partenariat dans laquelle les entreprises œuvrent dans un but commun (ex : relations avec les fournisseurs ou les clients).
+Quelle est la différence entre un marché amont et un marché aval pour une entreprise ? ; Le marché amont regroupe les fournisseurs de l'entreprise, tandis que le marché aval regroupe ses clients.
+Qu'est-ce qu'une relation de concurrence entre entreprises ? ; Une situation de compétition entre des entreprises qui satisfont le même besoin et proposent des produits équivalents.
+Sur quels deux critères principaux s'exerce la concurrence entre entreprises ? ; Sur le prix et sur la qualité (par exemple via le degré d'innovation des produits).
+Qu'est-ce qu'une barrière à l'entrée sur un marché ? ; Un obstacle (financier, technologique, juridique ou commercial) qui freine ou empêche l'arrivée de nouveaux concurrents sur un marché.
+Donne des exemples de barrières à l'entrée. ; Un investissement initial très élevé, la détention d'un brevet, une réglementation stricte ou une forte notoriété des marques déjà présentes.
+Qu'est-ce que l'asymétrie d'information sur un marché ? ; Une situation dans laquelle un acteur dispose de plus ou de meilleures informations qu'un autre lors d'un échange économique.
+Donne un exemple concret d'asymétrie d'information. ; Lors de la vente d'une voiture d'occasion, le vendeur connaît l'état réel et les défauts cachés du véhicule, contrairement à l'acheteur.
+Quelle est la différence entre le financement par les banques et le financement par les marchés financiers ? ; Les banques assurent un financement indirect (intermédiation via des crédits issus de l'épargne collectée), tandis que les marchés financiers permettent un financement direct par l'émission de titres (actions, obligations).
+Qu'est-ce qu'une externalité ? ; Une conséquence (positive ou négative) de l'activité d'un agent économique sur un autre agent, sans que cela ne donne lieu à une compensation monétaire sur le marché.
+Qu'est-ce qu'une externalité positive ? ; Un effet bénéfique généré par l'activité d'un agent économique sur autrui, sans que cet agent ne soit rémunéré pour cela.
+Donne un exemple d'externalité positive créée par une entreprise. ; L'implantation d'une usine qui dynamise les commerces locaux, ou la formation de salariés dont profiteront ensuite d'autres entreprises.
+Qu'est-ce qu'une externalité négative ? ; Un effet nuisible causé par l'activité d'un agent économique à autrui, sans que cet agent n'en supporte le coût financier.
+Donne un exemple d'externalité négative créée par une entreprise. ; La pollution de l'air ou de l'eau engendrée par la production industrielle, ou les nuisances sonores liées aux livraisons.
+Qu'est-ce que l'arbitrage en économie ? ; Le choix effectué par un agent économique entre plusieurs options possibles face à des ressources limitées (ex : choisir entre investir dans de nouvelles machines ou distribuer des dividendes).

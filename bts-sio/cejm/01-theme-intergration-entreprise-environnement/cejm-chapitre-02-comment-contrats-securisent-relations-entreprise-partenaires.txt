@@ -1,0 +1,62 @@
+Qu'est-ce que la période précontractuelle (ou pourparlers) ? ; C'est la phase de négociation entre deux interlocuteurs, souvent professionnels, visant à déterminer si la signature d'un contrat est envisageable et quel en sera le contenu.
+Quels sont les trois grands principes qui régissent la période précontractuelle selon l'article 1112 du Code civil ? ; La liberté, la bonne foi et la loyauté.
+Que signifie le principe de liberté durant les pourparlers ? ; Chaque partie est libre d'entrer en négociation, mais aussi de rompre ces négociations.
+Que signifie le principe de bonne foi durant les pourparlers ? ; Aucune partie ne doit abuser de la situation, par exemple en créant ou en maintenant un espoir vain chez l'autre.
+À quoi oblige le devoir de loyauté concernant les informations échangées lors des négociations ? ; Les parties doivent garder le secret sur les informations techniques ou commerciales divulguées, même sans accord de confidentialité écrit.
+Quelle responsabilité est engagée si une partie divulgue des informations confidentielles durant les pourparlers ? ; La responsabilité extracontractuelle.
+Qu'est-ce que l'obligation générale d'information précontractuelle (article 1112-1 du Code civil) ? ; C'est le devoir pour une partie qui connaît une information déterminante pour le consentement de l'autre de la lui communiquer, dès lors que cette dernière l'ignore légitimement ou lui fait confiance.
+Les parties peuvent-elles limiter ou exclure le devoir d'information précontractuelle ? ; Non, ce devoir est d'ordre public : il ne peut être ni limité ni exclu.
+Qu'est-ce qu'un contrat de négociation ? ; C'est un document qui officialise l'intention des parties d'entrer en négociation pour définir les conditions d'un futur contrat.
+Qu'est-ce qu'un accord de préférence ? ; C'est l'engagement d'une partie de conclure le contrat envisagé en priorité avec son partenaire de négociation plutôt qu'avec d'autres contacts.
+Qu'est-ce qu'un contrat-cadre ? ; C'est un accord qui fixe les conditions générales dans lesquelles les futurs contrats entre les partenaires seront conclus ou exécutés.
+Qu'est-ce qu'une promesse de contrat ? ; C'est l'engagement d'une des parties à signer le contrat envisagé à des conditions déjà déterminées.
+Quelles conditions faut-il respecter pour rompre des pourparlers de manière loyale ? ; Il faut avoir des raisons sérieuses, les formuler expressément et annoncer la rupture sans brutalité.
+Quel est le fondement juridique d'une action en justice pour rupture abusive des pourparlers ? ; La responsabilité extracontractuelle (article 1240 du Code civil), car le contrat n'existe pas encore.
+Devant quelle juridiction une partie lésée par une rupture de pourparlers doit-elle agir ? ; Devant une juridiction civile ou commerciale, selon la qualité du défendeur.
+Quelle est la définition du contrat selon l'article 1101 du Code civil ? ; C'est un accord de volontés entre deux ou plusieurs personnes destiné à créer, modifier, transmettre ou éteindre des obligations.
+Comment se forme un contrat selon l'article 1113 du Code civil ? ; Par la rencontre d'une offre et d'une acceptation manifestant la volonté des parties de s'engager (par déclaration ou comportement non équivoque).
+Qu'est-ce que l'offre de contrat ? ; C'est une proposition qui contient les éléments essentiels du contrat et exprime la volonté de son auteur d'être lié en cas d'acceptation.
+Qu'est-ce que l'acceptation d'un contrat ? ; C'est la manifestation de la volonté d'une personne qui donne son accord à une offre dans les termes exacts formulés par celle-ci.
+Qu'est-ce qu'un contrat consensuel ? ; C'est un contrat qui se forme par le seul échange des volontés, sans formalité particulière (c'est le cas le plus fréquent).
+Qu'est-ce qu'un contrat solennel ? ; C'est un contrat dont la formation exige un écrit spécifique, comme un acte notarié (exemple : le contrat de mariage).
+Qu'est-ce qu'un contrat réel ? ; C'est un contrat dont la formation nécessite la remise matérielle de la chose objet du contrat (exemple : le contrat de gage).
+Quelles sont les trois libertés composant le principe de liberté contractuelle ? ; La liberté de choisir son cocontractant, la liberté de conclure ou non le contrat et la liberté d'en définir le contenu (dans le respect de l'ordre public).
+Donne un exemple de limite à la liberté de choisir son cocontractant. ; Le droit de préemption, qui donne priorité au locataire lors de la vente de l'appartement qu'il occupe.
+Donne un exemple de limite à la liberté de conclure ou non un contrat. ; L'obligation légale de souscrire une assurance responsabilité civile automobile pour tout conducteur.
+Donne un exemple de limite à la liberté de définir le contenu du contrat. ; Le contrat de transport avec la SNCF, dont les conditions sont imposées au client sans possibilité de négociation.
+Quelles sont les trois conditions essentielles de validité d'un contrat (article 1128 du Code civil) ? ; Le consentement des parties, leur capacité de contracter et un contenu licite et certain.
+Comment doit être le consentement pour qu'un contrat soit valide ? ; Il doit être libre, éclairé et exempt de vices.
+Quels sont les trois vices du consentement ? ; L'erreur, le dol et la violence.
+Quelle est la différence entre l'erreur et le dol ? ; Dans l'erreur, le contractant s'est trompé tout seul, alors que dans le dol, il a été volontairement induit en erreur par l'autre partie.
+Qu'est-ce que la violence en tant que vice du consentement ? ; C'est le fait d'être contraint de contracter par des menaces physiques ou morales, ou par des circonstances extérieures irrépressibles.
+Quelles conditions faut-il remplir pour avoir la capacité de contracter ? ; Avoir au moins 18 ans et ne pas être déclaré incapable majeur.
+Quelle est la différence entre la capacité de jouissance et la capacité d'exercice ? ; La capacité de jouissance est l'aptitude à acquérir des droits, tandis que la capacité d'exercice est l'aptitude à exercer soi-même les droits dont on est titulaire.
+Que signifie un « contenu licite et certain » ? ; L'objet du contrat doit être déterminé ou déterminable, exister ou être futur (certain) et respecter la loi (licite).
+Quelle est la sanction en cas de non-respect d'une condition de validité du contrat ? ; La nullité du contrat : il est alors censé n'avoir jamais existé.
+Quelle est la différence entre la nullité relative et la nullité absolue ? ; La nullité relative protège un intérêt particulier (ex : contrat avec un incapable), tandis que la nullité absolue protège l'intérêt général (ex : objet illicite).
+Qu'est-ce qu'une clause contractuelle ? ; C'est une phrase ou un ensemble de phrases dans un acte juridique qui définit les droits et obligations des parties.
+Quelle est la différence entre les clauses générales et les clauses particulières d'un contrat ? ; Les clauses générales se retrouvent dans tous les contrats (objet, prix...), alors que les clauses particulières sont ajoutées par les parties selon leurs besoins spécifiques.
+Qu'est-ce qu'une clause de réserve de propriété ? ; C'est une clause qui permet au vendeur (créancier) de conserver la propriété du bien vendu jusqu'au paiement complet du prix.
+Qu'est-ce qu'une clause d'indexation ? ; C'est une clause qui prévoit l'évolution automatique du prix du contrat en fonction de la variation d'un indice ou d'une autre donnée.
+Qu'est-ce qu'une clause de renégociation ? ; C'est une clause qui oblige les parties à renégocier le contrat si des éléments essentiels à son équilibre viennent à changer.
+Qu'est-ce qu'une clause limitative ou exclusive de responsabilité ? ; C'est une clause par laquelle le débiteur limite ou exclut à l'avance sa responsabilité en cas d'inexécution ou de mauvaise exécution du contrat.
+À quelles conditions une clause limitative ou exclusive de responsabilité est-elle valable ? ; Elle doit être librement négociée et ne pas vider de sa substance l'obligation essentielle du contrat.
+Qu'est-ce qu'une clause résolutoire ? ; C'est une clause qui prévoit la résiliation de plein droit du contrat en cas de manquement d'une partie à ses obligations, évitant ainsi de passer par le juge.
+Qu'est-ce qu'une clause pénale ? ; C'est une clause qui fixe à l'avance le montant de la sanction financière (pénalité) due par une partie si elle n'exécute pas ses obligations.
+Quelle est la différence entre l'ordre public de protection et l'ordre public de direction ? ; L'ordre public de protection vise à protéger la partie la plus faible au contrat, tandis que l'ordre public de direction vise à assurer le bon fonctionnement du marché.
+Qu'est-ce qu'une clause abusive et quelle est sa sanction ? ; C'est une clause créant un déséquilibre significatif entre les droits et obligations des parties : elle est réputée non écrite (elle est annulée sans annuler tout le contrat).
+Que signifie le principe de la force obligatoire du contrat (articles 1103 et 1193 du Code civil) ? ; Les contrats légalement formés tiennent lieu de loi aux parties et ne peuvent être modifiés ou révoqués que par accord mutuel ou pour une cause prévue par la loi.
+Quelles sont les quatre conséquences principales de la force obligatoire du contrat ? ; L'obligation d'exécuter ses engagements, l'exécution de bonne foi (loyauté et coopération), l'irrévocabilité (pas de modification unilatérale) et l'effet relatif (le contrat ne lie que les parties).
+Que signifie l'effet relatif du contrat ? ; Un contrat ne produit d'effets juridiques qu'entre les parties qui l'ont signé, et non à l'égard des tiers.
+Quel est le rôle du juge face à un contrat clair ? ; Il doit respecter la volonté des parties et ne peut ni interpréter une clause claire, ni la dénaturer, ni réviser le contrat en principe.
+Dans quel cas exceptionnel le juge peut-il réviser ou mettre fin à un contrat (article 1195 du Code civil - imprévision) ? ; Lorsqu'un changement de circonstances imprévisible rend l'exécution excessivement onéreuse pour une partie qui n'en avait pas accepté le risque, et que la renégociation échoue ou est refusée.
+Qu'est-ce que l'inexécution du contrat ? ; C'est le fait pour une partie de ne pas remplir tout ou partie de ses obligations (ex : absence de livraison) ou de les exécuter mal (ex : retard).
+Qu'est-ce que l'exécution forcée et qui peut la décider ? ; C'est l'action visant à contraindre le débiteur à réaliser son obligation : elle ne peut être décidée que par un juge.
+Quelle démarche préalable est nécessaire avant de demander l'exécution forcée au juge si le contrat ne prévoit pas de date fixe ? ; Le créancier doit adresser une mise en demeure au débiteur.
+Quelles sont les deux formes que peut prendre l'exécution forcée ? ; L'exécution en nature (ex : saisie) ou l'exécution par équivalent (versement de dommages-intérêts).
+Qu'est-ce que l'exception d'inexécution ? ; Dans un contrat synallagmatique, c'est le droit pour une partie de suspendre l'exécution de sa propre obligation tant que l'autre n'a pas exécuté la sienne.
+Quel est l'effet de l'exception d'inexécution sur l'existence du contrat ? ; Le contrat n'est pas annulé : il continue d'exister mais son exécution est simplement suspendue.
+Qu'est-ce que la résolution d'un contrat ? ; C'est l'anéantissement rétroactif d'un contrat à exécution instantanée : le contrat est censé n'avoir jamais existé et les parties sont remises dans leur état initial.
+Qu'est-ce que la résiliation d'un contrat ? ; C'est l'anéantissement pour l'avenir d'un contrat à exécution successive (ex : contrat de travail), car il est impossible d'effacer ce qui a déjà été exécuté.
+Quelle est la différence principale entre la résolution et la résiliation ? ; La résolution s'applique aux contrats à exécution instantanée avec un effet rétroactif, alors que la résiliation s'applique aux contrats à exécution successive et ne vaut que pour l'avenir.
+Quelles sont les quatre étapes de la méthode d'argumentation juridique (syllogisme juridique) ? ; 1. Rappel des faits, 2. Règle de droit (« Selon... »), 3. Application au cas (« En l'espèce... »), 4. Conclusion (« Donc... »).

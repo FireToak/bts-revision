@@ -1,23 +1,23 @@
 Qu'est-ce qu'un agent économique ? ; Un acteur (individu ou groupe d'individus) qui participe à l'activité économique en remplissant un rôle spécifique (produire, consommer, épargner, financer).
 Quelles sont les six grandes catégories d'agents économiques dans l'environnement d'une entreprise ? ; Les entreprises (SNF), les ménages, les administrations publiques (APU), les associations (ISBLSM), les banques (SF) et le reste du monde.
-Quelle est la catégorie INSEE des entreprises et quel est leur rôle économique principal ? ; Les Sociétés Non Financières (SNF) ; leur rôle est de produire des biens ou des services marchands.
+Quelle est la catégorie INSEE des entreprises et quel est leur rôle économique principal ? ; Les Sociétés Non Financières (SNF), leur rôle est de produire des biens ou des services marchands.
 Quel est le rôle économique principal des ménages ? ; Consommer des biens et services, et épargner.
-Quelle est la catégorie INSEE des administrations publiques et quel est leur rôle principal ? ; Les Administrations Publiques (APU), comme l'État et les collectivités locales ; leur rôle est de produire des biens ou services collectifs non marchands.
-Quelle est la catégorie INSEE des associations et quel est leur rôle principal ? ; Les Institutions Sans But Lucratif au Service des Ménages (ISBLSM) ; leur rôle est de produire des biens et services non marchands.
-Quelle est la catégorie INSEE des banques et quel est leur rôle principal ? ; Les Sociétés Financières (SF) ; leur rôle est d'élaborer des produits et services financiers marchands.
+Quelle est la catégorie INSEE des administrations publiques et quel est leur rôle principal ? ; Les Administrations Publiques (APU), comme l'État et les collectivités locales, leur rôle est de produire des biens ou services collectifs non marchands.
+Quelle est la catégorie INSEE des associations et quel est leur rôle principal ? ; Les Institutions Sans But Lucratif au Service des Ménages (ISBLSM), leur rôle est de produire des biens et services non marchands.
+Quelle est la catégorie INSEE des banques et quel est leur rôle principal ? ; Les Sociétés Financières (SF), leur rôle est d'élaborer des produits et services financiers marchands.
 Que désigne le « Reste du monde » en économie ? ; L'ensemble des agents économiques (clients, fournisseurs, touristes) situés à l'étranger avec lesquels l'entreprise réalise des échanges internationaux.
 Quels sont les deux types de flux générés par les échanges entre agents économiques ? ; Les flux réels et les flux monétaires.
 Qu'est-ce qu'un flux réel ? ; Un mouvement de biens, de services ou de prestations de travail entre deux agents économiques (ex : livraison d'une marchandise, travail d'un salarié).
 Qu'est-ce qu'un flux monétaire ? ; Un mouvement d'argent qui constitue généralement la contrepartie d'un flux réel (ex : paiement d'un fournisseur, versement d'un salaire, impôts, prêt bancaire).
 Qu'est-ce que le circuit économique ? ; Une représentation schématique qui synthétise et visualise de manière simplifiée l'ensemble des flux réels et monétaires entre les agents économiques.
 Quels sont les flux échangés entre les entreprises et les ménages dans le circuit économique ? ; Les ménages fournissent du travail et paient les biens/services, les entreprises versent des salaires et fournissent des biens/services.
-Quels sont les flux échangés entre les entreprises et l'État dans le circuit économique ? ; Les entreprises paient des impôts ; l'État fournit des biens et services non marchands ainsi que des subventions.
-Quels sont les flux échangés entre les ménages et l'État dans le circuit économique ? ; Les ménages paient des impôts ; l'État fournit des biens et services non marchands ainsi que des prestations sociales.
-Quels sont les flux échangés entre les banques et les entreprises ? ; Les banques financent les investissements (prêts) ; les entreprises versent des intérêts en contrepartie.
-Quels sont les flux échangés entre les banques et les ménages ? ; Les ménages déposent leur épargne ; les banques leur versent des intérêts.
+Quels sont les flux échangés entre les entreprises et l'État dans le circuit économique ? ; Les entreprises paient des impôts, l'État fournit des biens et services non marchands ainsi que des subventions.
+Quels sont les flux échangés entre les ménages et l'État dans le circuit économique ? ; Les ménages paient des impôts, l'État fournit des biens et services non marchands ainsi que des prestations sociales.
+Quels sont les flux échangés entre les banques et les entreprises ? ; Les banques financent les investissements (prêts), les entreprises versent des intérêts en contrepartie.
+Quels sont les flux échangés entre les banques et les ménages ? ; Les ménages déposent leur épargne, les banques leur versent des intérêts.
 Qu'est-ce qu'un marché en économie ? ; Le lieu (physique ou virtuel) de rencontre entre l'offre et la demande d'un bien ou d'un service, caractérisé par un degré plus ou moins élevé de concurrence.
 Quelles sont les trois grandes catégories de marchés sur lesquels intervient une entreprise ? ; Le marché des biens et services, le marché du travail et le marché des capitaux.
-Qui sont les offreurs et les demandeurs sur le marché des biens et services ? ; Les offreurs sont les entreprises productrices ; les demandeurs sont les ménages, les entreprises, les associations et l'État.
+Qui sont les offreurs et les demandeurs sur le marché des biens et services ? ; Les offreurs sont les entreprises productrices, les demandeurs sont les ménages, les entreprises, les associations et l'État.
 Quelle est la double position de l'entreprise sur le marché des biens et services ? ; Elle est à la fois demandeuse (achats auprès de ses fournisseurs, banques, État) et offreuse (vente de ses produits/services à ses clients).
 Que s'échange-t-on sur le marché du travail ? ; Une prestation de travail, qu'elle soit physique ou intellectuelle.
 Qui sont les offreurs et les demandeurs sur le marché du travail ? ; Les offreurs sont les salariés potentiels (les ménages) et les demandeurs sont les entreprises qui ont besoin de main-d'œuvre.

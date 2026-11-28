@@ -1,0 +1,21 @@
+Pourquoi faut-il toujours vérifier les noms des disques avec lsblk avant d'utiliser mdadm ? ; Parce que les noms des disques (/dev/sda, /dev/sdb...) peuvent varier ou changer au redémarrage, et utiliser le disque système détruirait l'OS.
+Que fait la commande « sudo mdadm --create /dev/md0 --level=1 --raid-devices=2 /dev/sdb /dev/sdc » ? ; Elle crée une grappe RAID logicielle /dev/md0 de niveau RAID 1 composée de 2 disques actifs (/dev/sdb et /dev/sdc).
+Que fait l'option « --spare-devices=1 /dev/sdg » dans une commande mdadm --create ? ; Elle ajoute 1 disque de secours (spare) à la grappe RAID (/dev/sdg).
+Un disque de secours (spare) est-il compté dans la capacité utile d'une grappe RAID ? ; Non, il reste en attente et n'augmente pas la capacité utile.
+Quel est le rôle d'un disque de secours (spare) lors de la panne d'un disque actif ? ; Il prend automatiquement le relais du disque défaillant et lance la reconstruction sans intervention manuelle.
+Que fait la commande « cat /proc/mdstat » ? ; Elle affiche en temps réel l'état synthétique des grappes RAID actives (disques présents, progression de la reconstruction).
+Comment reconnaît-on la fin d'une reconstruction dans /proc/mdstat ? ; La barre de progression disparaît et tous les disques actifs apparaissent comme présents (ex. [UU] pour un RAID 1 ou [UUU] pour un RAID 5).
+Que fait la commande « sudo mdadm --detail /dev/md0 » ? ; Elle affiche les informations détaillées de la grappe /dev/md0 (niveau, capacité, état « State », rôle et état de chaque disque).
+Quel est l'état (ligne State) d'une grappe RAID 1 après la panne d'un de ses deux disques ? ; L'état passe à « degraded » (dégradé), mais les données restent accessibles.
+Que fait la commande « sudo mdadm --manage /dev/md0 --fail /dev/sdc » ? ; Elle simule une panne en déclarant le disque /dev/sdc comme défaillant dans la grappe /dev/md0.
+Que fait la commande « sudo mdadm --manage /dev/md0 --remove /dev/sdc » ? ; Elle retire le disque défaillant /dev/sdc de la grappe /dev/md0.
+Que fait la commande « sudo mdadm --manage /dev/md0 --add /dev/sdc » ? ; Elle ajoute le disque /dev/sdc dans la grappe /dev/md0 pour lancer sa reconstruction (ou en faire un nouveau spare si la grappe est déjà complète).
+Que se passe-t-il après un redémarrage si l'on n'a pas configuré la persistance du RAID ? ; Les grappes existent toujours (données intactes), mais elles ne sont plus montées automatiquement et peuvent changer de nom (ex. /dev/md126).
+Pourquoi faut-il enregistrer la configuration des grappes dans /etc/mdadm/mdadm.conf ? ; Pour que le système sache comment assembler automatiquement les grappes avec le bon nom dès le démarrage.
+Que fait la commande « sudo mdadm --detail --scan | sudo tee -a /etc/mdadm/mdadm.conf » ? ; Elle scanne les grappes actives pour générer leur configuration et l'ajoute à la fin (-a) du fichier /etc/mdadm/mdadm.conf.
+Que fait la commande « sudo update-initramfs -u » ? ; Elle met à jour (-u) l'image de démarrage (initramfs) afin que le fichier mdadm.conf soit pris en compte dès le boot.
+Que fait la commande « sudo blkid /dev/md0 /dev/md1 » ? ; Elle affiche les identifiants uniques (UUID) et les types de systèmes de fichiers des volumes /dev/md0 et /dev/md1.
+À quoi sert le fichier /etc/fstab ? ; Il définit les volumes et partitions qui doivent être montés automatiquement au démarrage du système.
+Dans /etc/fstab, pourquoi utilise-t-on l'UUID plutôt que le nom du périphérique (/dev/md0) ? ; Parce que l'UUID identifie le système de fichiers de manière unique et fiable, même si le nom du périphérique change au redémarrage.
+Dans une ligne /etc/fstab, que signifient les champs « defaults », « 0 » et « 2 » ? ; defaults : options de montage par défaut ; 0 : désactive la sauvegarde par dump ; 2 : ordre de vérification fsck au démarrage (partition non-système).
+Que fait la commande « sudo mount -a » ? ; Elle monte toutes les entrées présentes dans /etc/fstab afin de tester la configuration et détecter d'éventuelles erreurs avant de redémarrer.

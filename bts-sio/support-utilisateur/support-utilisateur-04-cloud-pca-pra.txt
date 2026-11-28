@@ -1,0 +1,32 @@
+Quel est l'un des risques majeurs liés à l'externalisation dans le cloud ? ; L'indisponibilité imprévisible et incontrôlable d'un service informatique due à la perte de contrôle sur la mise en disponibilité.
+Qu'est-ce que le cloud privé ? ; Un modèle de déploiement où toutes les ressources matérielles (calcul, stockage, réseau) sont dédiées exclusivement à une seule organisation, en interne (on-premise) ou en datacenter tiers.
+Quels sont les trois points positifs du cloud privé ? ; Confidentialité renforcée (isolation physique), personnalisation sur mesure du matériel/logiciel et conformité réglementaire facilitée (RGPD, santé, banque).
+Quels sont les trois points négatifs du cloud privé ? ; Coût d'investissement initial élevé (CAPEX), exploitation et maintenance entièrement à la charge de l'entreprise, et scalabilité limitée.
+Qu'est-ce que le cloud public ? ; Une infrastructure informatique mutualisée entre plusieurs clients (multi-locataires), accessible via Internet et facturée à l'usage (OPEX / pay-as-you-go).
+Donne quatre exemples de fournisseurs de cloud public. ; Infomaniak Public Cloud, AWS, Microsoft Azure et Google Cloud (GCP).
+Quels sont les trois points positifs du cloud public ? ; Aucun investissement matériel initial (OPEX), scalabilité et élasticité élevées, et maintenance matérielle gérée par le fournisseur.
+Quels sont les quatre points négatifs du cloud public ? ; Moins de contrôle sur le matériel, risques de souveraineté/localisation (ex. Cloud Act), dépendance fournisseur (vendor lock-in) et coûts variables sans gouvernance FinOps (ex. frais d'egress).
+Quelle est la différence fondamentale entre cloud privé et cloud public ? ; Le cloud privé dédie l'infrastructure physique à une seule organisation (modèle CAPEX, maîtrise totale), tandis que le cloud public mutualise les ressources via un tiers (modèle OPEX, forte élasticité, dépendance).
+Qu'est-ce que le modèle IaaS (Infrastructure as a Service) ? ; Location de ressources informatiques virtualisées (serveurs, stockage, réseau).
+En IaaS, que gère le fournisseur ? ; Le matériel physique, le réseau et la virtualisation.
+En IaaS, que gère le client ? ; L'OS, les middlewares, les applications et les données.
+Donne trois exemples de services IaaS. ; AWS EC2, Azure Virtual Machines et Infomaniak Public Cloud.
+Qu'est-ce que le modèle PaaS (Platform as a Service) ? ; Mise à disposition d'un environnement prêt à l'emploi pour déployer et exécuter des applications.
+En PaaS, que gère le fournisseur ? ; Le matériel, la virtualisation, l'OS et l'environnement d'exécution (runtime).
+En PaaS, que gère le client ? ; Uniquement son code applicatif et ses données.
+Donne trois exemples de services PaaS. ; Azure App Service, AWS Elastic Beanstalk et Clever Cloud.
+Qu'est-ce que le modèle SaaS (Software as a Service) ? ; Logiciel complet accessible directement en ligne (souvent via navigateur), sans installation ni gestion d'infrastructure.
+En SaaS, que gère le fournisseur ? ; Toute l'infrastructure et l'application.
+En SaaS, que gère le client ? ; Uniquement la configuration utilisateur et ses données saisies.
+Donne quatre exemples de services SaaS. ; Notion, Canva, Microsoft 365 et Google Workspace.
+Qu'est-ce que le Dell Technologies Global Data Protection Index (GDPI) ? ; Une étude mondiale annuelle qui évalue la maturité des organisations en matière de protection des données et de cyberrésilience face aux pannes et cybermenaces.
+Quel écart entre perception et réalité révèle le rapport Dell GDPI ? ; 99 % des entreprises déclarent avoir une stratégie de cyberrésilience, mais 57 % n'ont pas réussi à contenir la menace ou se rétablir efficacement, et 63 % estiment que leur direction surestime leur préparation.
+Que signifie la règle de sauvegarde 3-2-1-1-0 ? ; 3 copies des données, sur 2 supports différents, dont 1 hors site, 1 copie immuable ou hors ligne (air-gapped), et 0 erreur après vérification.
+Quels sont les trois leviers pour limiter et compenser les pertes liées aux pannes ou cyberattaques ? ; La prévention technique (règle 3-2-1-1-0), les tests réguliers de restauration, et la gouvernance/transfert de risque (PCA/PRA, formation phishing, cyberassurance).
+Qu'est-ce que le RTO (Recovery Time Objective / DMIA) ? ; La durée maximale d'interruption admissible d'un service avant que l'impact ne devienne critique pour l'entreprise.
+Qu'est-ce que le RPO (Recovery Point Objective / PDMA) ? ; La perte de données maximale admissible, c'est-à-dire l'ancienneté maximale acceptable de la dernière sauvegarde utilisable.
+Qu'est-ce qu'un Plan de Continuité d'Activité (PCA) ? ; Ensemble de stratégies et procédures permettant de maintenir les activités essentielles d'une organisation sans interruption (éventuellement en mode dégradé) pendant une crise majeure.
+Donne trois exemples de mesures concrètes d'un PCA. ; Redondance en haute disponibilité (cluster actif/actif, double lien FAI, onduleurs), réplication synchrone vers un site distant, et solution de télétravail immédiat ou locaux de repli.
+Qu'est-ce qu'un Plan de Reprise d'Activité (PRA) ? ; Ensemble de procédures documentées permettant de reconstruire et relancer le système d'information après un arrêt causé par un incident majeur, dans le respect du RTO.
+Donne trois exemples de mesures concrètes d'un PRA. ; Restauration depuis des sauvegardes externalisées et immuables, déploiement rapide d'une infrastructure de secours (IaC via Ansible/Terraform ou cloud public), et procédures papier d'urgence (cellule de crise, annuaire hors ligne).
+Quelle est la différence principale entre un PCA et un PRA ? ; Le PCA vise à éviter l'arrêt de l'activité pendant la crise (maintien en continu), tandis que le PRA vise à reconstruire et redémarrer le SI après un arrêt constaté.

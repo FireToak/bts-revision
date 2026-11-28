@@ -1,0 +1,50 @@
+Qu'est-ce que le RAID ? ; Redundant Array of Independent Disks (grappe redondante de disques indépendants), une technologie regroupant plusieurs disques physiques en un seul volume logique.
+Quels sont les trois objectifs possibles du RAID ? ; Améliorer la disponibilité (tolérance aux pannes), améliorer les performances (lecture/écriture simultanées) et agréger la capacité de plusieurs disques.
+Qu'est-ce que le Striping (répartition) en RAID ? ; Technique consistant à découper les données en blocs répartis sur plusieurs disques pour augmenter les performances.
+Qu'est-ce que le Mirroring (miroir) en RAID ? ; Technique consistant à copier les données à l'identique sur plusieurs disques pour assurer la redondance.
+Qu'est-ce que la parité en RAID ? ; Une information de contrôle calculée à partir des données (via l'opération XOR) qui permet de reconstituer un disque perdu.
+Quel est le principe du RAID 0 ? ; Répartition des données sur plusieurs disques (striping).
+Quel est le nombre minimum de disques requis pour un RAID 0 ? ; 2 disques.
+Quelle est la capacité utile d'un RAID 0 ? ; n x C, où n est le nombre de disques et C la capacité d'un disque.
+Combien de pannes un RAID 0 peut-il tolérer ? ; 0 panne.
+Pourquoi dit-on que le RAID 0 n'est pas un « vrai » RAID ? ; Parce qu'il n'offre aucune redondance : il diminue même la fiabilité car la panne d'un seul disque détruit l'intégralité du volume.
+Quel est l'usage typique du RAID 0 ? ; Les données temporaires nécessitant une vitesse maximale (ex. dossier temporaire de rendu vidéo).
+Quel est le principe du RAID 1 ? ; Miroir (mirroring) : les données sont copiées à l'identique sur plusieurs disques.
+Quel est le nombre minimum de disques requis pour un RAID 1 ? ; 2 disques.
+Quelle est la capacité utile d'un RAID 1 ? ; C, la capacité d'un seul disque.
+Combien de pannes un RAID 1 peut-il tolérer ? ; n - 1 pannes.
+Quel est l'usage typique du RAID 1 ? ; Le volume système et les petits serveurs contenant des données sensibles.
+Quel est le principe du RAID 5 ? ; Répartition des données avec une parité.
+Quel est le nombre minimum de disques requis pour un RAID 5 ? ; 3 disques.
+Quelle est la capacité utile d'un RAID 5 ? ; (n - 1) x C, où n est le nombre de disques et C la capacité d'un disque.
+Combien de pannes un RAID 5 peut-il tolérer ? ; 1 panne.
+Quel est l'usage typique du RAID 5 ? ; Les serveurs de fichiers.
+Quel est le principe du RAID 6 ? ; Répartition des données avec deux parités.
+Quel est le nombre minimum de disques requis pour un RAID 6 ? ; 4 disques.
+Quelle est la capacité utile d'un RAID 6 ? ; (n - 2) x C, où n est le nombre de disques et C la capacité d'un disque.
+Combien de pannes un RAID 6 peut-il tolérer ? ; 2 pannes.
+Pourquoi préfère-t-on le RAID 6 au RAID 5 sur des disques de grande capacité ? ; Car la reconstruction en RAID 5 sollicite fortement les disques restants, augmentant le risque qu'une seconde panne survienne avant la fin de la reconstruction.
+Quel est le principe du RAID 10 ? ; Miroirs répartis (striping sur des paires en miroir).
+Quel est le nombre minimum de disques requis pour un RAID 10 ? ; 4 disques.
+Quelle est la capacité utile d'un RAID 10 ? ; (n x C) / 2, où n est le nombre de disques et C la capacité d'un disque.
+Combien de pannes un RAID 10 peut-il tolérer ? ; 1 panne par miroir, soit au moins 1 panne.
+Quel est l'usage typique du RAID 10 ? ; Les bases de données et les systèmes à charge élevée en écriture.
+Pourquoi l'écriture est-elle plus lente en RAID 5 et RAID 6 ? ; À cause du calcul de la parité nécessaire à chaque écriture.
+En RAID 5, pourquoi la case de contrôle (parité) change-t-elle de disque d'une bande à l'autre ? ; Pour répartir la charge et éviter de fatiguer toujours le même disque.
+Comment le RAID 5 retrouve-t-il les données d'un disque en panne ? ; En utilisant les données restantes et le bloc de parité de chaque bande (calcul XOR) pour reconstruire les blocs manquants sur un disque neuf.
+Comment le RAID 6 parvient-il à tolérer deux pannes simultanées ? ; En stockant deux informations de contrôle calculées de deux façons différentes sur chaque bande, permettant de résoudre un système à deux inconnues.
+Qu'est-ce que le RAID matériel ? ; Un RAID géré par une carte contrôleur dédiée.
+Quels sont les avantages du RAID matériel ? ; Bonnes performances et transparence pour le système d'exploitation.
+Quels sont les inconvénients du RAID matériel ? ; Coût élevé et dépendance matérielle en cas de panne de la carte.
+Qu'est-ce que le RAID logiciel ? ; Un RAID géré par le système d'exploitation, comme mdadm sous Linux.
+Quels sont les avantages du RAID logiciel ? ; Il est gratuit, indépendant du matériel et permet de récupérer les disques sur tout système Linux compatible.
+Quels sont les inconvénients du RAID logiciel ? ; Il consomme du CPU et la configuration incombe à l'administrateur.
+Qu'est-ce que le « faux RAID » ? ; Une option RAID du BIOS de la carte mère gérée en réalité par un pilote logiciel.
+Pourquoi le « faux RAID » est-il déconseillé ? ; Il cumule les défauts du RAID matériel et du RAID logiciel.
+Contre quoi le RAID protège-t-il ? ; Contre la panne matérielle d'un disque.
+Contre quoi le RAID ne protège-t-il pas ? ; Contre la suppression accidentelle, les ransomwares, la panne du contrôleur, la corruption logicielle, les sinistres et les erreurs d'administration.
+Pourquoi dit-on que le RAID n'est pas une sauvegarde ? ; Une suppression ou un chiffrement par ransomware est répliqué sur les autres disques.
+Quel est le rôle du RAID dans une stratégie de sauvegarde ? ; Il complète la sauvegarde selon la règle 3-2-1, mais ne la remplace jamais.
+Quelle est la capacité utile d'un RAID 5 composé de 4 disques de 2 To ? ; (4 - 1) x 2 To = 6 To.
+Combien de pannes tolère un RAID 5 composé de 4 disques de 2 To ? ; 1 disque.
+Quelle configuration RAID proposer à une PME voulant 8 To utiles et 1 panne tolérée avec des disques de 4 To ? ; Un RAID 5 avec 3 disques de 4 To (capacité utile : (3 - 1) x 4 To = 8 To, 1 panne tolérée).
